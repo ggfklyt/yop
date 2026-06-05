@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
-<title>работёнка | Поиск работы</title>
+<title>йоп | Поиск работы</title>
 <style>
 * { box-sizing: border-box; margin: 0; padding: 0; -webkit-tap-highlight-color: transparent; }
 html, body { background: #f0f0f0; font-family: -apple-system, 'SF Pro Text', 'Helvetica Neue', Arial, sans-serif; color: #111; }
@@ -14,13 +14,26 @@ html, body { background: #f0f0f0; font-family: -apple-system, 'SF Pro Text', 'He
 
 .header { background: #fff; padding: 14px 16px; border-bottom: 2px solid #111; }
 .header-row { display: flex; align-items: center; justify-content: space-between; }
-.logo-wrap { display: flex; align-items: center; gap: 10px; }
-.logo-icon { width: 36px; height: 36px; border-radius: 50%; background: #c6f135; border: 2.5px solid #111; display: flex; align-items: center; justify-content: center; }
-.logo-dot { width: 12px; height: 12px; border-radius: 50%; background: #111; }
-.logo-text { font-size: 24px; font-weight: 900; letter-spacing: -0.5px; }
+.logo-wrap { display: flex; align-items: center; gap: 0; }
+.logo-badge { display: inline-flex; align-items: center; background: #c6f135; border: 2.5px solid #111; border-radius: 14px; padding: 5px 13px 5px 10px; gap: 7px; }
+.logo-dot-wrap { width: 22px; height: 22px; border-radius: 50%; background: #111; display: flex; align-items: center; justify-content: center; flex-shrink: 0; }
+.logo-dot { width: 8px; height: 8px; border-radius: 50%; background: #c6f135; }
+.logo-text { font-size: 22px; font-weight: 900; letter-spacing: -1px; color: #111; line-height: 1; }
+.logo-tag { font-size: 9px; font-weight: 800; text-transform: uppercase; letter-spacing: 0.8px; color: #111; background: #fff; border: 1.5px solid #111; border-radius: 5px; padding: 1px 5px; margin-left: 8px; opacity: 0.7; align-self: flex-start; margin-top: 3px; }
 .header-right { display: flex; flex-direction: column; align-items: flex-end; gap: 6px; }
-.pill { border: 2px solid #111; border-radius: 20px; font-size: 12px; font-weight: 700; padding: 4px 12px; background: #fff; }
-.pill-fire { background: #111; color: #fff; }
+.city-btn { border: 2px solid #111; border-radius: 20px; font-size: 12px; font-weight: 700; padding: 4px 12px; background: #fff; cursor: pointer; display: flex; align-items: center; gap: 4px; }
+.city-btn:active { background: #f0f0f0; }
+.pill-fire { background: #111; color: #fff; border: 2px solid #111; border-radius: 20px; font-size: 12px; font-weight: 700; padding: 4px 12px; }
+
+/* city picker overlay */
+.city-overlay { display: none; position: fixed; inset: 0; background: rgba(0,0,0,0.5); z-index: 50; align-items: flex-end; }
+.city-overlay.open { display: flex; }
+.city-sheet { background: #fff; width: 100%; max-width: 430px; margin: 0 auto; border-radius: 20px 20px 0 0; border: 2.5px solid #111; border-bottom: none; padding: 20px 16px 40px; }
+.city-sheet-title { font-size: 18px; font-weight: 900; margin-bottom: 16px; }
+.city-list { display: flex; flex-direction: column; gap: 8px; }
+.city-item { font-size: 15px; font-weight: 700; padding: 14px 16px; border-radius: 14px; border: 2.5px solid #111; background: #fff; cursor: pointer; text-align: left; transition: background 0.1s; }
+.city-item.selected { background: #c6f135; }
+.city-item:active { background: #f0f0f0; }
 
 .safezone { background: #f77cdb; border-bottom: 2px solid #111; padding: 10px 16px; display: flex; align-items: center; gap: 8px; }
 .safezone-text { font-size: 12px; font-weight: 800; text-transform: uppercase; letter-spacing: 0.3px; }
@@ -48,11 +61,10 @@ html, body { background: #f0f0f0; font-family: -apple-system, 'SF Pro Text', 'He
 .src-badge { display: inline-block; border: 1.5px solid #111; border-radius: 6px; font-size: 10px; font-weight: 700; text-transform: uppercase; letter-spacing: 0.3px; padding: 2px 7px; color: #111; background: #fff; }
 .card-dist { font-size: 12px; font-weight: 600; white-space: nowrap; flex-shrink: 0; margin-left: 8px; }
 .card-title { font-size: 17px; font-weight: 900; line-height: 1.2; letter-spacing: -0.3px; margin-bottom: 2px; }
-.card-salary { font-size: 16px; font-weight: 900; margin-bottom: 10px; color: #111; }
+.card-salary { font-size: 16px; font-weight: 900; margin-bottom: 10px; }
 .card-tags { display: flex; gap: 6px; flex-wrap: wrap; margin-bottom: 12px; }
-.tag { font-size: 12px; font-weight: 700; padding: 5px 12px; border-radius: 8px; border: 2px solid #111; background: #fff; color: #111; }
-.tag-audience { background: #f0f0f0; border-color: #bbb; color: #555; }
-.btn-apply { display: block; width: 100%; font-size: 16px; font-weight: 900; padding: 14px; border-radius: 14px; border: 2.5px solid #111; background: #c6f135; color: #111; cursor: pointer; text-align: center; text-decoration: none; transition: transform 0.1s; }
+.tag { font-size: 12px; font-weight: 700; padding: 5px 12px; border-radius: 8px; border: 2px solid #ccc; background: #f5f5f5; color: #555; }
+.btn-apply { display: block; width: 100%; font-size: 16px; font-weight: 900; padding: 14px; border-radius: 14px; border: 2.5px solid #111; background: #c6f135; color: #111; cursor: pointer; text-align: center; transition: transform 0.1s; }
 .btn-apply:active { transform: scale(0.97); }
 
 .empty { text-align: center; padding: 60px 20px; }
@@ -73,12 +85,15 @@ html, body { background: #f0f0f0; font-family: -apple-system, 'SF Pro Text', 'He
 <div class="header">
   <div class="header-row">
     <div class="logo-wrap">
-      <div class="logo-icon"><div class="logo-dot"></div></div>
-      <div class="logo-text">работёнка</div>
+      <div class="logo-badge">
+        <div class="logo-dot-wrap"><div class="logo-dot"></div></div>
+        <div class="logo-text">йоп</div>
+      </div>
+      <div class="logo-tag">работа</div>
     </div>
     <div class="header-right">
-      <div class="pill">📍 Москва</div>
-      <div class="pill pill-fire">🔥 16 789 юзеров с нами</div>
+      <button class="city-btn" id="city-btn">📍 <span id="city-label">Москва</span> ▾</button>
+      <div class="pill-fire">🔥 16 789 юзеров с нами</div>
     </div>
   </div>
 </div>
@@ -111,6 +126,14 @@ html, body { background: #f0f0f0; font-family: -apple-system, 'SF Pro Text', 'He
 <div class="results-bar" id="results-bar"></div>
 <div class="list" id="list"></div>
 
+<!-- city sheet -->
+<div class="city-overlay" id="city-overlay">
+  <div class="city-sheet">
+    <div class="city-sheet-title">Выбери город</div>
+    <div class="city-list" id="city-list"></div>
+  </div>
+</div>
+
 <div class="bottom-cta">
   <button class="cta-btn cta-btn-dark">🎙️ Войс-тренажёр<br><span style="font-weight:500;font-size:10px">Отрепетируй собес с ИИ-HR</span></button>
   <button class="cta-btn">🤔 Не знаешь кем стать?<br><span style="font-weight:500;font-size:10px">Спроси ИИ-коуча</span></button>
@@ -119,55 +142,88 @@ html, body { background: #f0f0f0; font-family: -apple-system, 'SF Pro Text', 'He
 </div>
 <script>
 const vacancies = [
-  {id:1, title:"Работник торгового зала (ТЦ Ярославский)", emp:"Familia", salary:"до 40 000 руб./мес.", location:"м. Алексеевская", tags:["Студентам","Пенсионерам"], part:true, perm:false, remote:false, noexp:true, students:true, url:"https://www.rabota.ru/vacancy/54293424/"},
-  {id:2, title:"Водитель-курьер с личным авто", emp:"Самокат", salary:"до 317 136 руб./мес.", location:"р-н Троицк", tags:["Студентам"], part:true, perm:false, remote:false, noexp:true, students:true, url:"https://www.rabota.ru/vacancy/54219836/"},
-  {id:3, title:"Водитель-курьер Яндекс Доставка", emp:"Яндекс.Доставка", salary:"до 8 540 руб./смену", location:"г. Москва", tags:[], part:true, perm:false, remote:false, noexp:true, students:false, url:"https://www.rabota.ru/vacancy/54211995/"},
-  {id:4, title:"Водитель-курьер Яндекс Доставка (аренда авто)", emp:"Яндекс.Доставка", salary:"до 8 540 руб./смену", location:"г. Москва", tags:[], part:true, perm:false, remote:false, noexp:true, students:false, url:"https://www.rabota.ru/vacancy/54211993/"},
-  {id:5, title:"Водитель-курьер", emp:"Яндекс.Еда", salary:"260 000 — 310 000 руб./мес.", location:"м. Площадь Революции", tags:["Студентам"], part:true, perm:false, remote:false, noexp:true, students:true, url:"https://www.rabota.ru/vacancy/54275288/"},
-  {id:6, title:"Грузчик", emp:"Трезвый грузчик", salary:"50 000 — 90 000 руб./мес.", location:"м. Кунцевская", tags:[], part:true, perm:false, remote:false, noexp:true, students:false, url:"https://www.rabota.ru/vacancy/54298880/"},
-  {id:7, title:"Кассир зоны самообслуживания", emp:"Работа — это проСТО", salary:"69 300 — 79 200 руб./мес.", location:"м. Теплый Стан", tags:["Студентам"], part:true, perm:false, remote:false, noexp:true, students:true, url:"https://www.rabota.ru/vacancy/54272264/"},
-  {id:8, title:"Упаковщик на склад косметики", emp:"Медиапартнерс", salary:"до 8 000–9 000 руб./день", location:"г. Москва", tags:[], part:true, perm:false, remote:false, noexp:true, students:false, url:"https://www.rabota.ru/vacancy/54297722/"},
-  {id:9, title:"Кассир зоны самообслуживания", emp:"Работа — это проСТО", salary:"69 300 — 79 200 руб./мес.", location:"м. Южная", tags:["Студентам"], part:true, perm:false, remote:false, noexp:true, students:true, url:"https://www.rabota.ru/vacancy/54258162/"},
-  {id:10, title:"Продавец / Работник зала (ТЦ Город)", emp:"Familia", salary:"до 52 200 руб./мес.", location:"м. Косино", tags:["Студентам"], part:true, perm:false, remote:false, noexp:true, students:true, url:"https://www.rabota.ru/vacancy/53934520/"},
-  {id:11, title:"Дворник / Разнорабочий", emp:"Управление бизнес-центрами", salary:"50 000 — 60 000 руб./мес.", location:"м. Бульвар Рокоссовского", tags:[], part:false, perm:true, remote:false, noexp:true, students:false, url:"https://www.rabota.ru/vacancy/54285271/"},
-  {id:12, title:"Продавец / Работник зала (ТЦ Ленинский 101)", emp:"Familia", salary:"до 60 000 руб./мес.", location:"м. Новаторская", tags:["Студентам"], part:true, perm:false, remote:false, noexp:true, students:true, url:"https://www.rabota.ru/vacancy/54297128/"},
-  {id:13, title:"Уборщик офисных помещений", emp:"ЦНИИОИЗ Минздрава", salary:"30 000 — 35 000 руб./мес.", location:"м. Кузнецкий мост", tags:[], part:false, perm:true, remote:false, noexp:true, students:false, url:"https://www.rabota.ru/vacancy/54296936/"},
-  {id:14, title:"Администратор-кассир (сушибар)", emp:"Лосось Сан", salary:"от 50 000 руб./мес.", location:"м. Римская", tags:[], part:true, perm:false, remote:false, noexp:true, students:false, url:"https://www.rabota.ru/vacancy/54295188/"},
-  {id:15, title:"Оператор текстовой поддержки маркетплейса", emp:"Федоров К.А.", salary:"50 000 — 70 000 руб./мес.", location:"Удаленно", tags:["Студентам"], part:true, perm:false, remote:true, noexp:true, students:true, url:"https://www.rabota.ru/vacancy/54272116/"},
-  {id:16, title:"Грузчик в магазин", emp:"Трезвый грузчик", salary:"от 65 000 руб./мес.", location:"м. Бутырская", tags:[], part:true, perm:false, remote:false, noexp:true, students:false, url:"https://www.rabota.ru/vacancy/53490537/"},
-  {id:17, title:"Сборщик интернет-заказов", emp:"КА от Работа.ру", salary:"до 128 000 руб./мес.", location:"м. Новохохловская", tags:["Студентам"], part:true, perm:false, remote:false, noexp:true, students:true, url:"https://www.rabota.ru/vacancy/54291084/"},
-  {id:18, title:"Грузчик", emp:"Трезвый грузчик", salary:"50 000 — 70 000 руб./мес.", location:"м. ВДНХ", tags:[], part:true, perm:false, remote:false, noexp:true, students:false, url:"https://www.rabota.ru/vacancy/54295444/"},
-  {id:19, title:"Сборщик интернет-заказов", emp:"КА от Работа.ру", salary:"до 128 000 руб./мес.", location:"м. Свиблово", tags:["Студентам"], part:true, perm:false, remote:false, noexp:true, students:true, url:"https://www.rabota.ru/vacancy/54291086/"},
-  {id:20, title:"Сборщик интернет-заказов", emp:"КА от Работа.ру", salary:"до 128 000 руб./мес.", location:"м. Профсоюзная", tags:["Студентам"], part:true, perm:false, remote:false, noexp:true, students:true, url:"https://www.rabota.ru/vacancy/54291082/"},
-  {id:21, title:"Водитель-курьер (развозка супермаркета)", emp:"Медиапартнерс", salary:"от 135 000 руб./мес.", location:"г. Москва", tags:[], part:true, perm:false, remote:false, noexp:true, students:false, url:"https://www.rabota.ru/vacancy/54287247/"},
-  {id:22, title:"Помощник дизайнера карточек маркетплейсов", emp:"ИП Родионов А.Ю.", salary:"15 000 — 40 000 руб./мес.", location:"Удаленно", tags:[], part:true, perm:false, remote:true, noexp:true, students:false, url:"https://www.rabota.ru/vacancy/54294729/"},
-  {id:23, title:"Кладовщик склад Яндекс Маркет", emp:"Медиапартнерс", salary:"от 120 000 руб./мес.", location:"г. Москва", tags:[], part:false, perm:true, remote:false, noexp:true, students:false, url:"https://www.rabota.ru/vacancy/54286477/"},
-  {id:24, title:"Уборщик", emp:"ООО Промэкс", salary:"30 000 руб./мес.", location:"м. Волгоградский пр-т", tags:[], part:false, perm:true, remote:false, noexp:true, students:false, url:"https://www.rabota.ru/vacancy/54294628/"},
-  {id:25, title:"Педагог-хореограф", emp:"АНО Центр ШАГИ", salary:"30 000 — 100 000 руб./мес.", location:"г. Москва", tags:[], part:true, perm:false, remote:false, noexp:false, students:false, url:"https://www.rabota.ru/vacancy/54290935/"},
-  {id:26, title:"Инструктор по пейнтболу", emp:"Пейнтбольный клуб Пейнтленд", salary:"50 000 — 90 000 руб./мес.", location:"м. Кузьминки", tags:["Студентам"], part:true, perm:false, remote:false, noexp:true, students:true, url:"https://www.rabota.ru/vacancy/54268975/"},
-  {id:27, title:"Продавец-кассир", emp:"Красное и белое", salary:"от 82 000 руб./мес.", location:"г. Москва", tags:["Студентам"], part:false, perm:true, remote:false, noexp:true, students:true, url:"https://www.rabota.ru/vacancy/54202810/"},
-  {id:28, title:"Работник торгового зала", emp:"Работа — это проСТО", salary:"72 450 — 87 840 руб./мес.", location:"м. Площадь Революции", tags:["Студентам"], part:true, perm:false, remote:false, noexp:true, students:true, url:"https://www.rabota.ru/vacancy/54258487/"},
-  {id:29, title:"Слесарь-ремонтник", emp:"Инжиниринг-service", salary:"350 000 — 400 000 руб./мес.", location:"р-н Измайлово", tags:["Студентам"], part:false, perm:true, remote:false, noexp:true, students:true, url:"https://www.rabota.ru/vacancy/54269703/"},
-  {id:30, title:"Помощник мастера", emp:"Инжиниринг-service", salary:"300 000 — 350 000 руб./мес.", location:"м. Комсомольская", tags:["Студентам"], part:false, perm:true, remote:false, noexp:true, students:true, url:"https://www.rabota.ru/vacancy/49988653/"},
+  // ===== МОСКВА =====
+  {city:"Москва",title:"Работник торгового зала (ТЦ Ярославский)",emp:"Familia",salary:"до 40 000 руб./мес.",loc:"м. Алексеевская",tags:["Студентам"],part:true,perm:false,remote:false,noexp:true,students:true,url:"https://www.rabota.ru/vacancy/54293424/"},
+  {city:"Москва",title:"Водитель-курьер с личным авто",emp:"Самокат",salary:"до 317 136 руб./мес.",loc:"р-н Троицк",tags:["Студентам"],part:true,perm:false,remote:false,noexp:true,students:true,url:"https://www.rabota.ru/vacancy/54219836/"},
+  {city:"Москва",title:"Водитель-курьер Яндекс Доставка",emp:"Яндекс.Доставка",salary:"до 8 540 руб./смену",loc:"г. Москва",tags:[],part:true,perm:false,remote:false,noexp:true,students:false,url:"https://www.rabota.ru/vacancy/54211995/"},
+  {city:"Москва",title:"Водитель-курьер",emp:"Яндекс.Еда",salary:"260 000 — 310 000 руб./мес.",loc:"м. Площадь Революции",tags:["Студентам"],part:true,perm:false,remote:false,noexp:true,students:true,url:"https://www.rabota.ru/vacancy/54275288/"},
+  {city:"Москва",title:"Грузчик",emp:"Трезвый грузчик",salary:"50 000 — 90 000 руб./мес.",loc:"м. Кунцевская",tags:[],part:true,perm:false,remote:false,noexp:true,students:false,url:"https://www.rabota.ru/vacancy/54298880/"},
+  {city:"Москва",title:"Кассир зоны самообслуживания",emp:"Работа — это проСТО",salary:"69 300 — 79 200 руб./мес.",loc:"м. Теплый Стан",tags:["Студентам"],part:true,perm:false,remote:false,noexp:true,students:true,url:"https://www.rabota.ru/vacancy/54272264/"},
+  {city:"Москва",title:"Упаковщик на склад косметики",emp:"Медиапартнерс",salary:"до 8 000–9 000 руб./день",loc:"г. Москва",tags:[],part:true,perm:false,remote:false,noexp:true,students:false,url:"https://www.rabota.ru/vacancy/54297722/"},
+  {city:"Москва",title:"Продавец / Работник зала (ТЦ Город)",emp:"Familia",salary:"до 52 200 руб./мес.",loc:"м. Косино",tags:["Студентам"],part:true,perm:false,remote:false,noexp:true,students:true,url:"https://www.rabota.ru/vacancy/53934520/"},
+  {city:"Москва",title:"Администратор-кассир (сушибар)",emp:"Лосось Сан",salary:"от 50 000 руб./мес.",loc:"м. Римская",tags:[],part:true,perm:false,remote:false,noexp:true,students:false,url:"https://www.rabota.ru/vacancy/54295188/"},
+  {city:"Москва",title:"Оператор текстовой поддержки маркетплейса",emp:"Федоров К.А.",salary:"50 000 — 70 000 руб./мес.",loc:"Удаленно",tags:["Студентам"],part:true,perm:false,remote:true,noexp:true,students:true,url:"https://www.rabota.ru/vacancy/54272116/"},
+  {city:"Москва",title:"Сборщик интернет-заказов",emp:"КА от Работа.ру",salary:"до 128 000 руб./мес.",loc:"м. Новохохловская",tags:["Студентам"],part:true,perm:false,remote:false,noexp:true,students:true,url:"https://www.rabota.ru/vacancy/54291084/"},
+  {city:"Москва",title:"Помощник дизайнера карточек маркетплейсов",emp:"ИП Родионов А.Ю.",salary:"15 000 — 40 000 руб./мес.",loc:"Удаленно",tags:[],part:true,perm:false,remote:true,noexp:true,students:false,url:"https://www.rabota.ru/vacancy/54294729/"},
+  {city:"Москва",title:"Инструктор по пейнтболу",emp:"Пейнтбольный клуб Пейнтленд",salary:"50 000 — 90 000 руб./мес.",loc:"м. Кузьминки",tags:["Студентам"],part:true,perm:false,remote:false,noexp:true,students:true,url:"https://www.rabota.ru/vacancy/54268975/"},
+  {city:"Москва",title:"Работник торгового зала",emp:"Работа — это проСТО",salary:"72 450 — 87 840 руб./мес.",loc:"м. Площадь Революции",tags:["Студентам"],part:true,perm:false,remote:false,noexp:true,students:true,url:"https://www.rabota.ru/vacancy/54258487/"},
+  {city:"Москва",title:"Кладовщик склад Яндекс Маркет",emp:"Медиапартнерс",salary:"от 120 000 руб./мес.",loc:"г. Москва",tags:[],part:false,perm:true,remote:false,noexp:true,students:false,url:"https://www.rabota.ru/vacancy/54286477/"},
+  {city:"Москва",title:"Продавец-кассир",emp:"Красное и белое",salary:"от 82 000 руб./мес.",loc:"г. Москва",tags:["Студентам"],part:false,perm:true,remote:false,noexp:true,students:true,url:"https://www.rabota.ru/vacancy/54202810/"},
+  {city:"Москва",title:"Слесарь-ремонтник",emp:"Инжиниринг-service",salary:"350 000 — 400 000 руб./мес.",loc:"р-н Измайлово",tags:["Студентам"],part:false,perm:true,remote:false,noexp:true,students:true,url:"https://www.rabota.ru/vacancy/54269703/"},
+  {city:"Москва",title:"Помощник мастера",emp:"Инжиниринг-service",salary:"300 000 — 350 000 руб./мес.",loc:"м. Комсомольская",tags:["Студентам"],part:false,perm:true,remote:false,noexp:true,students:true,url:"https://www.rabota.ru/vacancy/49988653/"},
+  // ===== САНКТ-ПЕТЕРБУРГ =====
+  {city:"Санкт-Петербург",title:"Водитель-курьер Яндекс Доставка",emp:"Яндекс.Доставка",salary:"до 5 760 руб./смену",loc:"г. Санкт-Петербург",tags:[],part:true,perm:false,remote:false,noexp:true,students:false,url:"https://spb.rabota.ru/vacancy/54212059/"},
+  {city:"Санкт-Петербург",title:"Курьер",emp:"АМГ",salary:"от 200 000 руб./мес.",loc:"г. Санкт-Петербург",tags:["Студентам"],part:true,perm:false,remote:false,noexp:true,students:true,url:"https://spb.rabota.ru/vacancy/54299564/"},
+  {city:"Санкт-Петербург",title:"Ассистент врача стоматолога",emp:"Семейная стоматология",salary:"от 80 000 руб./мес.",loc:"м. Комендантский пр.",tags:["Студентам"],part:true,perm:false,remote:false,noexp:true,students:true,url:"https://spb.rabota.ru/vacancy/53856794/"},
+  {city:"Санкт-Петербург",title:"Продавец-кассир",emp:"ДИКСИ Юг, АО",salary:"52 255 — 57 481 руб./мес.",loc:"м. Василеостровская",tags:["Студентам"],part:true,perm:false,remote:false,noexp:true,students:true,url:"https://spb.rabota.ru/vacancy/54293451/"},
+  {city:"Санкт-Петербург",title:"Старший клиентский менеджер",emp:"СБЕР",salary:"от 108 200 руб./мес.",loc:"Санкт-Петербург",tags:[],part:false,perm:true,remote:false,noexp:true,students:false,url:"https://spb.rabota.ru/vacancy/54297694/"},
+  {city:"Санкт-Петербург",title:"Упаковщик на склад косметики",emp:"Медиапартнерс",salary:"до 8 000–9 000 руб./день",loc:"г. Санкт-Петербург",tags:[],part:true,perm:false,remote:false,noexp:true,students:false,url:"https://spb.rabota.ru/vacancy/54297727/"},
+  {city:"Санкт-Петербург",title:"Повар линии раздачи (отели)",emp:"Станция",salary:"от 25 000 руб./мес.",loc:"м. Садовая",tags:[],part:true,perm:false,remote:false,noexp:true,students:false,url:"https://spb.rabota.ru/vacancy/44306343/"},
+  {city:"Санкт-Петербург",title:"Продавец / Работник зала (ТРК Порт Находка)",emp:"Familia",salary:"до 48 000 руб./мес.",loc:"м. Рыбацкое",tags:["Студентам"],part:true,perm:false,remote:false,noexp:true,students:true,url:"https://spb.rabota.ru/vacancy/54292659/"},
+  {city:"Санкт-Петербург",title:"Оператор копировального центра",emp:"Копимания",salary:"35 000 — 40 000 руб./мес.",loc:"м. Маяковская",tags:["Студентам"],part:true,perm:false,remote:false,noexp:true,students:true,url:"https://spb.rabota.ru/vacancy/54286140/"},
+  {city:"Санкт-Петербург",title:"Кладовщик склад Яндекс Маркет (Шушары)",emp:"Медиапартнерс",salary:"от 120 000 руб./мес.",loc:"г. Санкт-Петербург",tags:[],part:false,perm:true,remote:false,noexp:true,students:false,url:"https://spb.rabota.ru/vacancy/54286473/"},
+  {city:"Санкт-Петербург",title:"Оператор текстовой поддержки маркетплейса",emp:"Федоров К.А.",salary:"50 000 — 70 000 руб./мес.",loc:"Удаленно",tags:["Студентам"],part:true,perm:false,remote:true,noexp:true,students:true,url:"https://spb.rabota.ru/vacancy/54283461/"},
+  {city:"Санкт-Петербург",title:"Водитель-курьер с личным авто",emp:"Парк7778",salary:"254 000 — 370 000 руб./мес.",loc:"г. Санкт-Петербург",tags:["Студентам"],part:true,perm:false,remote:false,noexp:true,students:true,url:"https://spb.rabota.ru/vacancy/44002530/"},
+  {city:"Санкт-Петербург",title:"Контент-менеджер маркетплейсов",emp:"Любин В.В.",salary:"до 120 000 руб./мес.",loc:"Удаленно",tags:["Студентам"],part:true,perm:false,remote:true,noexp:true,students:true,url:"https://spb.rabota.ru/vacancy/54282128/"},
+  {city:"Санкт-Петербург",title:"Водитель-курьер (подработка)",emp:"Купер",salary:"до 336 000 руб./мес.",loc:"м. Беговая",tags:["Студентам"],part:true,perm:false,remote:false,noexp:true,students:true,url:"https://spb.rabota.ru/vacancy/54299033/"},
+  {city:"Санкт-Петербург",title:"Пеший курьер",emp:"Премьер",salary:"98 000 — 164 000 руб./мес.",loc:"м. Адмиралтейская",tags:["Студентам"],part:true,perm:false,remote:false,noexp:true,students:true,url:"https://spb.rabota.ru/vacancy/53900760/"},
+  {city:"Санкт-Петербург",title:"Официант",emp:"Ресторан Москва",salary:"от 30 000 руб./мес.",loc:"м. Пл. Александра Невского",tags:["Студентам"],part:true,perm:false,remote:false,noexp:true,students:true,url:"https://spb.rabota.ru/vacancy/54280123/"},
+  {city:"Санкт-Петербург",title:"Оператор склада маркетплейса",emp:"ИП Кубрина Э.Е.",salary:"от 105 000 руб./мес.",loc:"м. Рыбацкое",tags:["Студентам"],part:true,perm:false,remote:false,noexp:true,students:true,url:"https://spb.rabota.ru/vacancy/54293902/"},
+  // ===== ЕКАТЕРИНБУРГ =====
+  {city:"Екатеринбург",title:"Кладовщик",emp:"Терпугов П.С.",salary:"80 000 — 150 000 руб./мес.",loc:"Шоферов пер., д 9",tags:[],part:true,perm:false,remote:false,noexp:true,students:false,url:"https://eburg.rabota.ru/vacancy/54298624/"},
+  {city:"Екатеринбург",title:"Водитель-курьер Яндекс Доставка",emp:"Яндекс.Доставка",salary:"до 5 760 руб./смену",loc:"г. Екатеринбург",tags:[],part:true,perm:false,remote:false,noexp:true,students:false,url:"https://eburg.rabota.ru/vacancy/54211980/"},
+  {city:"Екатеринбург",title:"Водитель-курьер Яндекс Доставка (аренда авто)",emp:"Яндекс.Доставка",salary:"до 5 760 руб./смену",loc:"г. Екатеринбург",tags:[],part:true,perm:false,remote:false,noexp:true,students:false,url:"https://eburg.rabota.ru/vacancy/54211978/"},
+  {city:"Екатеринбург",title:"Оператор контактного центра",emp:"МТС",salary:"от 51 500 руб./мес.",loc:"Удаленно",tags:[],part:false,perm:true,remote:true,noexp:true,students:false,url:"https://eburg.rabota.ru/vacancy/53615259/"},
+  {city:"Екатеринбург",title:"Менеджер по подбору персонала",emp:"Митрофанов И.В.",salary:"60 000 — 110 000 руб./мес.",loc:"Удаленно",tags:["Студентам"],part:true,perm:false,remote:true,noexp:true,students:true,url:"https://eburg.rabota.ru/vacancy/54296937/"},
+  {city:"Екатеринбург",title:"Оператор колл-центра (входящая линия)",emp:"Первый виртуальный оператор",salary:"30 000 — 40 000 руб./мес.",loc:"Удаленно",tags:["Студентам"],part:true,perm:false,remote:true,noexp:true,students:true,url:"https://eburg.rabota.ru/vacancy/48582426/"},
 ];
 
+const CITIES = ["Москва", "Санкт-Петербург", "Екатеринбург"];
+let currentCity = "Москва";
 const active = new Set(['part']);
 
+// city picker
+document.getElementById('city-btn').addEventListener('click', () => {
+  document.getElementById('city-overlay').classList.add('open');
+  renderCityList();
+});
+document.getElementById('city-overlay').addEventListener('click', e => {
+  if (e.target === document.getElementById('city-overlay'))
+    document.getElementById('city-overlay').classList.remove('open');
+});
+
+function renderCityList() {
+  document.getElementById('city-list').innerHTML = CITIES.map(c =>
+    `<button class="city-item${c===currentCity?' selected':''}" data-c="${c}">${c}</button>`
+  ).join('');
+  document.querySelectorAll('.city-item').forEach(b => {
+    b.addEventListener('click', () => {
+      currentCity = b.dataset.c;
+      document.getElementById('city-label').textContent = currentCity;
+      document.getElementById('city-overlay').classList.remove('open');
+      render();
+    });
+  });
+}
+
+// filters
 document.querySelectorAll('.toggle-btn').forEach(btn => {
   btn.addEventListener('click', () => {
-    const f = btn.dataset.f;
-    const other = f === 'part' ? 'perm' : 'part';
-    if (active.has(f)) {
-      active.delete(f); btn.classList.remove('active');
-    } else {
-      active.add(f); btn.classList.add('active');
-      active.delete(other);
-      document.querySelector(`.toggle-btn[data-f="${other}"]`).classList.remove('active');
-    }
+    const f = btn.dataset.f, other = f==='part'?'perm':'part';
+    active.has(f) ? (active.delete(f), btn.classList.remove('active')) : (active.add(f), btn.classList.add('active'), active.delete(other), document.querySelector(`.toggle-btn[data-f="${other}"]`).classList.remove('active'));
     render();
   });
 });
-
 document.querySelectorAll('.chip').forEach(c => {
   c.addEventListener('click', () => {
     const f = c.dataset.f;
@@ -178,6 +234,7 @@ document.querySelectorAll('.chip').forEach(c => {
 
 function render() {
   const filtered = vacancies.filter(v => {
+    if (v.city !== currentCity) return false;
     for (const f of active) if (!v[f]) return false;
     return true;
   });
@@ -194,12 +251,12 @@ function render() {
           <div><span class="emp-badge">${v.emp}</span></div>
           <div><span class="src-badge">от Работа.ру</span></div>
         </div>
-        <div class="card-dist">📍 ${v.location}</div>
+        <div class="card-dist">📍 ${v.loc}</div>
       </div>
       <div class="card-title">${v.title}</div>
       <div class="card-salary">${v.salary}</div>
-      ${v.tags.length ? `<div class="card-tags">${v.tags.map(t=>`<span class="tag tag-audience">${t}</span>`).join('')}</div>` : ''}
-      <button class="btn-apply" onclick="window.open(this.dataset.url,'_blank')" data-url="${v.url}">Откликнуться →</button>
+      ${v.tags.length?`<div class="card-tags">${v.tags.map(t=>`<span class="tag">${t}</span>`).join('')}</div>`:''}
+      <button class="btn-apply" onclick="window.open('${v.url}','_blank')">Откликнуться →</button>
     </div>
   `).join('');
 }
