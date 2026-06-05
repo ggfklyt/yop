@@ -1,0 +1,39 @@
+name: Sync vacancies from trudvsem.ru
+
+on:
+  schedule:
+    # Каждые 4 часа. Cron у GitHub в UTC.
+    - cron: '17 */4 * * *'
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+concurrency:
+  group: sync-vacancies
+  cancel-in-progress: false
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Fetch vacancies from trudvsem.ru
+        run: node scripts/sync-trudvsem.mjs
+
+      - name: Commit updated vacancies.json
+        run: |
+          git config user.name  "yop-sync-bot"
+          git config user.email "yop-sync-bot@users.noreply.github.com"
+          git add vacancies.json
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "chore: sync vacancies from trudvsem.ru"
+            git push
+          fi

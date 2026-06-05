@@ -53,7 +53,7 @@ html, body { background: #f0f0f0; font-family: -apple-system, 'SF Pro Text', 'He
 
 .results-bar { padding: 10px 16px 4px; font-size: 12px; font-weight: 600; color: #888; }
 
-.list { padding: 0 12px 100px; display: flex; flex-direction: column; gap: 10px; }
+.list { padding: 0 12px 0; display: flex; flex-direction: column; gap: 10px; }
 
 .card { background: #fff; border-radius: 18px; border: 2.5px solid #111; padding: 14px; }
 .card-top { display: flex; justify-content: space-between; align-items: flex-start; margin-bottom: 8px; }
@@ -75,6 +75,59 @@ html, body { background: #f0f0f0; font-family: -apple-system, 'SF Pro Text', 'He
 .bottom-cta { background: #fff; border-top: 2.5px solid #111; padding: 12px; position: fixed; bottom: 0; left: 50%; transform: translateX(-50%); width: 100%; max-width: 430px; z-index: 20; display: flex; gap: 8px; }
 .cta-btn { flex: 1; font-size: 12px; font-weight: 800; padding: 11px 8px; border-radius: 14px; border: 2.5px solid #111; background: #f0f0f0; color: #111; cursor: pointer; text-align: center; line-height: 1.4; }
 .cta-btn-dark { background: #111; color: #fff; border-color: #111; }
+
+/* coach */
+.coach-overlay { display: none; position: fixed; inset: 0; background: rgba(0,0,0,0.5); z-index: 60; align-items: flex-end; }
+.coach-overlay.open { display: flex; }
+.coach-sheet { background: #f0f0f0; width: 100%; max-width: 430px; margin: 0 auto; border-radius: 20px 20px 0 0; border: 2.5px solid #111; border-bottom: none; height: 88vh; display: flex; flex-direction: column; overflow: hidden; }
+.coach-header { background: #fff; padding: 12px 16px; border-bottom: 2.5px solid #111; display: flex; align-items: center; gap: 12px; flex-shrink: 0; }
+.coach-avatar { width: 42px; height: 42px; border-radius: 50%; background: #c6f135; border: 2.5px solid #111; display: flex; align-items: center; justify-content: center; font-size: 22px; flex-shrink: 0; }
+.coach-info { flex: 1; min-width: 0; }
+.coach-name { font-size: 15px; font-weight: 900; line-height: 1; }
+.coach-role { font-size: 11px; font-weight: 600; color: #888; margin-top: 3px; }
+.coach-close { width: 32px; height: 32px; border: 2px solid #111; border-radius: 50%; background: #fff; cursor: pointer; font-size: 14px; font-weight: 900; display: flex; align-items: center; justify-content: center; padding: 0; flex-shrink: 0; }
+.coach-messages { flex: 1; overflow-y: auto; padding: 16px 12px; display: flex; flex-direction: column; gap: 10px; }
+.msg { max-width: 82%; padding: 11px 14px; border-radius: 18px; font-size: 14px; line-height: 1.4; font-weight: 500; border: 2px solid #111; word-wrap: break-word; }
+.msg-bot { align-self: flex-start; background: #fff; border-bottom-left-radius: 6px; }
+.msg-user { align-self: flex-end; background: #c6f135; border-bottom-right-radius: 6px; font-weight: 700; }
+.typing { align-self: flex-start; background: #fff; border: 2px solid #111; border-radius: 18px; border-bottom-left-radius: 6px; padding: 14px 16px; display: flex; gap: 4px; }
+.typing span { width: 7px; height: 7px; border-radius: 50%; background: #111; animation: tbounce 1.2s infinite; }
+.typing span:nth-child(2) { animation-delay: 0.15s; }
+.typing span:nth-child(3) { animation-delay: 0.3s; }
+@keyframes tbounce { 0%,60%,100% { transform: translateY(0); opacity: 0.4; } 30% { transform: translateY(-6px); opacity: 1; } }
+.coach-options { padding: 10px 12px 14px; border-top: 2.5px solid #111; background: #fff; display: flex; flex-wrap: wrap; gap: 8px; flex-shrink: 0; }
+.coach-opt { font-size: 14px; font-weight: 700; padding: 11px 16px; border-radius: 22px; border: 2.5px solid #111; background: #fff; color: #111; cursor: pointer; flex: 1 1 auto; text-align: center; transition: background 0.1s; }
+.coach-opt:active { background: #c6f135; }
+.coach-restart { background: #111; color: #fff; flex: 1 1 100%; }
+.coach-result { background: #fff; border: 2.5px solid #111; border-radius: 16px; padding: 14px; align-self: stretch; max-width: 100%; }
+.coach-result-title { font-size: 16px; font-weight: 900; margin-bottom: 4px; line-height: 1.2; }
+.coach-result-desc { font-size: 13px; font-weight: 500; line-height: 1.4; margin-bottom: 10px; color: #444; }
+.coach-vac { background: #f0f0f0; border: 2px solid #111; border-radius: 12px; padding: 10px 12px; margin-top: 8px; cursor: pointer; transition: background 0.1s; }
+.coach-vac:active { background: #c6f135; }
+.coach-vac-title { font-size: 13px; font-weight: 800; line-height: 1.2; margin-bottom: 3px; }
+.coach-vac-salary { font-size: 12px; font-weight: 700; }
+.coach-vac-emp { font-size: 11px; font-weight: 600; color: #666; margin-top: 3px; }
+.coach-empty { font-size: 13px; color: #666; font-weight: 600; margin-top: 8px; }
+
+/* not found */
+.notfound { margin: 4px 12px 0; background: #f77cdb; border: 2.5px solid #111; border-radius: 16px; padding: 14px 16px; cursor: pointer; display: flex; align-items: center; gap: 12px; font-size: 14px; font-weight: 800; transition: transform 0.1s; }
+.notfound:active { transform: scale(0.98); }
+.notfound-icon { font-size: 22px; flex-shrink: 0; }
+.notfound-form { margin: 4px 12px 0; background: #fff; border: 2.5px solid #111; border-radius: 16px; padding: 12px; display: none; flex-direction: column; gap: 10px; }
+.notfound-form.open { display: flex; }
+.notfound-label { font-size: 13px; font-weight: 800; padding: 0 2px; }
+.notfound-input { font: inherit; width: 100%; padding: 12px 14px; border: 2.5px solid #111; border-radius: 12px; font-size: 14px; font-weight: 600; background: #f0f0f0; outline: none; -webkit-appearance: none; }
+.notfound-input::placeholder { color: #999; font-weight: 500; }
+.notfound-input:focus { background: #fff; }
+.notfound-submit { font-size: 15px; font-weight: 900; padding: 12px; border-radius: 12px; border: 2.5px solid #111; background: #c6f135; color: #111; cursor: pointer; transition: transform 0.1s; }
+.notfound-submit:active { transform: scale(0.98); }
+
+/* sber banner */
+.sber-banner { margin: 10px 12px 0; background: #134E4A; border: 2.5px solid #111; border-radius: 16px; padding: 14px 16px; display: flex; align-items: center; gap: 12px; text-decoration: none; color: #fff; font-weight: 800; font-size: 14px; cursor: pointer; transition: transform 0.1s; }
+.sber-banner:active { transform: scale(0.98); }
+.sber-icon { font-size: 24px; flex-shrink: 0; }
+.sber-text { flex: 1; line-height: 1.25; }
+.sber-arrow { font-size: 22px; font-weight: 900; flex-shrink: 0; }
 </style>
 </head>
 <body>
@@ -103,13 +156,10 @@ html, body { background: #f0f0f0; font-family: -apple-system, 'SF Pro Text', 'He
   <span class="safezone-text">Сейф-зона: агрегатор проверенных вакансий</span>
 </div>
 
-<div class="hero">
-  <div class="hero-icon">🎮</div>
-  <div>
-    <div class="hero-title">Заработай на хотелки</div>
-    <div class="hero-sub">Гаджеты, шмот или билеты? Найди подработку или постоянную работу рядом с домом.</div>
-  </div>
-</div>
+<a class="sber-banner" href="https://student.sber.ru/internship" target="_blank" rel="noopener">
+  <span class="sber-text">Интересует стажировка в Сбере?</span>
+  <span class="sber-arrow">→</span>
+</a>
 
 <div class="filters-section">
   <div class="filter-toggle">
@@ -126,6 +176,26 @@ html, body { background: #f0f0f0; font-family: -apple-system, 'SF Pro Text', 'He
 <div class="results-bar" id="results-bar"></div>
 <div class="list" id="list"></div>
 
+<div class="hero">
+  <div class="hero-icon">🎮</div>
+  <div>
+    <div class="hero-title">Заработай на хотелки</div>
+    <div class="hero-sub">Гаджеты, шмот или билеты? Найди подработку или постоянную работу рядом с домом.</div>
+  </div>
+</div>
+
+<div class="notfound" id="notfound-btn">
+  <span class="notfound-icon">🔍</span>
+  <span>Не нашёл ничего интересного?</span>
+</div>
+<form class="notfound-form" id="notfound-form">
+  <div class="notfound-label">Что искал?</div>
+  <input type="text" class="notfound-input" id="notfound-input" placeholder="напиши что ты искал" autocomplete="off">
+  <button type="submit" class="notfound-submit">Отправить</button>
+</form>
+
+<div style="height: 110px"></div>
+
 <!-- city sheet -->
 <div class="city-overlay" id="city-overlay">
   <div class="city-sheet">
@@ -134,14 +204,32 @@ html, body { background: #f0f0f0; font-family: -apple-system, 'SF Pro Text', 'He
   </div>
 </div>
 
+<!-- coach sheet -->
+<div class="coach-overlay" id="coach-overlay">
+  <div class="coach-sheet">
+    <div class="coach-header">
+      <div class="coach-avatar">🧭</div>
+      <div class="coach-info">
+        <div class="coach-name">Профи</div>
+        <div class="coach-role">ИИ-коуч по профориентации</div>
+      </div>
+      <button class="coach-close" id="coach-close">✕</button>
+    </div>
+    <div class="coach-messages" id="coach-messages"></div>
+    <div class="coach-options" id="coach-options"></div>
+  </div>
+</div>
+
 <div class="bottom-cta">
   <button class="cta-btn cta-btn-dark">🎙️ Войс-тренажёр<br><span style="font-weight:500;font-size:10px">Отрепетируй собес с ИИ-HR</span></button>
-  <button class="cta-btn">🤔 Не знаешь кем стать?<br><span style="font-weight:500;font-size:10px">Спроси ИИ-коуча</span></button>
+  <button class="cta-btn" id="coach-btn">🤔 Не знаешь кем стать?<br><span style="font-weight:500;font-size:10px">Спроси ИИ-коуча</span></button>
 </div>
 
 </div>
 <script>
-const vacancies = [
+// Запасной набор: используется если vacancies.json ещё не сгенерирован
+// или браузер не смог его подгрузить (например, file:// без сервера).
+const FALLBACK_VACANCIES = [
   // ===== МОСКВА =====
   {city:"Москва",title:"Работник торгового зала (ТЦ Ярославский)",emp:"Familia",salary:"до 40 000 руб./мес.",loc:"м. Алексеевская",tags:["Студентам"],part:true,perm:false,remote:false,noexp:true,students:true,url:"https://www.rabota.ru/vacancy/54293424/"},
   {city:"Москва",title:"Водитель-курьер с личным авто",emp:"Самокат",salary:"до 317 136 руб./мес.",loc:"р-н Троицк",tags:["Студентам"],part:true,perm:false,remote:false,noexp:true,students:true,url:"https://www.rabota.ru/vacancy/54219836/"},
@@ -188,9 +276,27 @@ const vacancies = [
   {city:"Екатеринбург",title:"Оператор колл-центра (входящая линия)",emp:"Первый виртуальный оператор",salary:"30 000 — 40 000 руб./мес.",loc:"Удаленно",tags:["Студентам"],part:true,perm:false,remote:true,noexp:true,students:true,url:"https://eburg.rabota.ru/vacancy/48582426/"},
 ];
 
+let vacancies = FALLBACK_VACANCIES;
+let vacanciesSource = 'fallback'; // 'hh.ru' после успешной загрузки JSON
 const CITIES = ["Москва", "Санкт-Петербург", "Екатеринбург"];
 let currentCity = "Москва";
 const active = new Set(['part']);
+
+// Подтягиваем свежие вакансии из vacancies.json (его обновляет GitHub Action раз в 4 часа).
+// Cache-busting через ?t=, чтобы CDN/браузер не залипали на старой версии.
+async function loadVacancies() {
+  try {
+    const r = await fetch('vacancies.json?t=' + Date.now(), { cache: 'no-store' });
+    if (!r.ok) throw new Error('HTTP ' + r.status);
+    const data = await r.json();
+    if (!Array.isArray(data.vacancies) || data.vacancies.length === 0) throw new Error('empty');
+    vacancies = data.vacancies;
+    vacanciesSource = data.source || 'hh.ru';
+    render();
+  } catch (e) {
+    console.warn('vacancies.json не загружен, использую fallback:', e.message);
+  }
+}
 
 // city picker
 document.getElementById('city-btn').addEventListener('click', () => {
@@ -249,7 +355,7 @@ function render() {
       <div class="card-top">
         <div>
           <div><span class="emp-badge">${v.emp}</span></div>
-          <div><span class="src-badge">от Работа.ру</span></div>
+          <div><span class="src-badge">от ${vacanciesSource === 'hh.ru' ? 'HH.ru' : 'Работа.ру'}</span></div>
         </div>
         <div class="card-dist">📍 ${v.loc}</div>
       </div>
@@ -262,12 +368,215 @@ function render() {
 }
 
 render();
+loadVacancies();
 
 setTimeout(() => {
   const t = document.getElementById('toast');
   t.classList.add('show');
   setTimeout(() => t.classList.remove('show'), 3000);
 }, 600);
+
+// === ИИ-коуч ===
+const coachQuestions = [
+  { q: "Привет! Я Профи 👋 Помогу понять, какая работа тебе зайдёт.", auto: true },
+  { q: "Ответь на 4 коротких вопроса — подберу профессию и пару вакансий в твоём городе.", auto: true },
+  { q: "Что тебе ближе? 🤔", options: [
+    { label: "Общаться с людьми", key: "people" },
+    { label: "Работать руками", key: "hands" },
+    { label: "Сидеть за компом", key: "digital" }
+  ] },
+  { q: "Где удобнее работать? 🏠", options: [
+    { label: "Из дома", key: "remote" },
+    { label: "Не важно", key: "any-place" },
+    { label: "Только не дома", key: "onsite" }
+  ] },
+  { q: "Какой график подходит? 📅", options: [
+    { label: "Подработка", key: "part" },
+    { label: "Постоянка", key: "perm" },
+    { label: "Без разницы", key: "any-sched" }
+  ] },
+  { q: "На что хочешь накопить? 💸", options: [
+    { label: "Гаджеты", key: "gadgets" },
+    { label: "Шмот", key: "clothes" },
+    { label: "Билеты/тусовки", key: "tickets" },
+    { label: "Свои деньги", key: "freedom" }
+  ] }
+];
+
+const goalText = {
+  gadgets: "На новый телефон или гаджеты",
+  clothes: "Чтобы обновить гардероб",
+  tickets: "Чтобы оторваться на концерте или в кино",
+  freedom: "Чтобы были свои карманные"
+};
+
+const coachAnswers = [];
+let coachStep = 0;
+
+function openCoach() {
+  document.getElementById('coach-overlay').classList.add('open');
+  resetCoach();
+}
+function closeCoach() {
+  document.getElementById('coach-overlay').classList.remove('open');
+}
+function resetCoach() {
+  coachAnswers.length = 0;
+  coachStep = 0;
+  document.getElementById('coach-messages').innerHTML = '';
+  document.getElementById('coach-options').innerHTML = '';
+  askNext();
+}
+
+function askNext() {
+  if (coachStep >= coachQuestions.length) { finishCoach(); return; }
+  const item = coachQuestions[coachStep];
+  showTyping(() => {
+    addMsg('bot', item.q);
+    if (item.auto) {
+      coachStep++;
+      setTimeout(askNext, 500);
+    } else {
+      renderOptions(item.options);
+    }
+  });
+}
+
+function addMsg(role, text) {
+  const m = document.createElement('div');
+  m.className = 'msg msg-' + role;
+  m.textContent = text;
+  const c = document.getElementById('coach-messages');
+  c.appendChild(m);
+  c.scrollTop = c.scrollHeight;
+}
+
+function showTyping(cb) {
+  const el = document.createElement('div');
+  el.className = 'typing';
+  el.innerHTML = '<span></span><span></span><span></span>';
+  const c = document.getElementById('coach-messages');
+  c.appendChild(el);
+  c.scrollTop = c.scrollHeight;
+  document.getElementById('coach-options').innerHTML = '';
+  setTimeout(() => { el.remove(); cb(); }, 700);
+}
+
+function renderOptions(options) {
+  const box = document.getElementById('coach-options');
+  box.innerHTML = '';
+  options.forEach(o => {
+    const b = document.createElement('button');
+    b.className = 'coach-opt';
+    b.textContent = o.label;
+    b.addEventListener('click', () => {
+      coachAnswers.push(o.key);
+      addMsg('user', o.label);
+      coachStep++;
+      box.innerHTML = '';
+      askNext();
+    });
+    box.appendChild(b);
+  });
+}
+
+function pickArchetype(a) {
+  const [activity, place] = a;
+  if (activity === 'people') return {
+    title: "Сервис и общение 💁",
+    desc: "Продавец, кассир, администратор, официант — там, где встречают людей.",
+    match: v => /продав|кассир|админ|официант|менедж|ассистент/i.test(v.title)
+  };
+  if (activity === 'hands') return {
+    title: "Курьер и склад 📦",
+    desc: "Пеший курьер, упаковщик, сборщик, грузчик — простой вход и быстрые деньги.",
+    match: v => /грузчик|упаковщик|сборщик|пеший|склад|кладовщик|повар|слесар|курьер|водитель/i.test(v.title)
+  };
+  if (activity === 'digital' && place === 'remote') return {
+    title: "Удалёнка из дома 💻",
+    desc: "Поддержка, контент-менеджер, маркетплейсы — работа в чатах с ноутбука.",
+    match: v => v.remote
+  };
+  return {
+    title: "Колл-центр и поддержка ☎️",
+    desc: "Оператор колл-центра, поддержка клиентов — стабильная нагрузка и понятные KPI.",
+    match: v => /оператор|колл|поддерж|менедж/i.test(v.title)
+  };
+}
+
+function finishCoach() {
+  const arch = pickArchetype(coachAnswers);
+  const sched = coachAnswers[2];
+  let pool = vacancies.filter(v => v.city === currentCity && arch.match(v));
+  if (sched === 'part') pool = pool.filter(v => v.part).concat(pool.filter(v => !v.part));
+  if (sched === 'perm') pool = pool.filter(v => v.perm).concat(pool.filter(v => !v.perm));
+  const picks = [];
+  const seen = new Set();
+  for (const v of pool) {
+    if (!seen.has(v.title)) { picks.push(v); seen.add(v.title); }
+    if (picks.length >= 3) break;
+  }
+
+  const goal = coachAnswers[3];
+  const intro = goalText[goal] ? `${goalText[goal]} — держи топ вакансий 👇` : "Готово! Вот что тебе подойдёт 👇";
+
+  showTyping(() => {
+    addMsg('bot', intro);
+    const card = document.createElement('div');
+    card.className = 'coach-result';
+    card.innerHTML = `
+      <div class="coach-result-title">${arch.title}</div>
+      <div class="coach-result-desc">${arch.desc}</div>
+      ${picks.length
+        ? picks.map(v => `
+          <div class="coach-vac" data-url="${v.url}">
+            <div class="coach-vac-title">${v.title}</div>
+            <div class="coach-vac-salary">${v.salary}</div>
+            <div class="coach-vac-emp">${v.emp} · ${v.loc}</div>
+          </div>
+        `).join('')
+        : `<div class="coach-empty">В ${currentCity} пока нет подходящих вакансий — попробуй сменить город или ответить иначе.</div>`
+      }
+    `;
+    const msgs = document.getElementById('coach-messages');
+    msgs.appendChild(card);
+    msgs.scrollTop = msgs.scrollHeight;
+    card.querySelectorAll('.coach-vac').forEach(el => {
+      el.addEventListener('click', () => window.open(el.dataset.url, '_blank'));
+    });
+    document.getElementById('coach-options').innerHTML = '<button class="coach-opt coach-restart" id="coach-restart">↺ Начать заново</button>';
+    document.getElementById('coach-restart').addEventListener('click', resetCoach);
+  });
+}
+
+document.getElementById('coach-btn').addEventListener('click', openCoach);
+document.getElementById('coach-close').addEventListener('click', closeCoach);
+document.getElementById('coach-overlay').addEventListener('click', e => {
+  if (e.target === document.getElementById('coach-overlay')) closeCoach();
+});
+
+// === "Не нашёл ничего интересного" ===
+document.getElementById('notfound-btn').addEventListener('click', () => {
+  document.getElementById('notfound-btn').style.display = 'none';
+  document.getElementById('notfound-form').classList.add('open');
+  document.getElementById('notfound-input').focus();
+});
+document.getElementById('notfound-form').addEventListener('submit', e => {
+  e.preventDefault();
+  const input = document.getElementById('notfound-input');
+  const v = input.value.trim();
+  if (!v) return;
+  input.value = '';
+  document.getElementById('notfound-form').classList.remove('open');
+  document.getElementById('notfound-btn').style.display = 'flex';
+  const t = document.getElementById('toast');
+  t.textContent = '✨ Спасибо! Подберём похожее';
+  t.classList.add('show');
+  setTimeout(() => {
+    t.classList.remove('show');
+    setTimeout(() => { t.textContent = '✨ Подобрали вакансии под тебя!'; }, 300);
+  }, 2500);
+});
 </script>
 </body>
 </html>
