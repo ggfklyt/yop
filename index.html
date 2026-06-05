@@ -1,0 +1,216 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+<title>работёнка | Поиск работы</title>
+<style>
+* { box-sizing: border-box; margin: 0; padding: 0; -webkit-tap-highlight-color: transparent; }
+html, body { background: #f0f0f0; font-family: -apple-system, 'SF Pro Text', 'Helvetica Neue', Arial, sans-serif; color: #111; }
+.app { max-width: 430px; margin: 0 auto; min-height: 100vh; background: #f0f0f0; }
+
+.toast { position: fixed; top: 14px; left: 50%; transform: translateX(-50%) translateY(-80px); background: #111; color: #fff; font-size: 13px; font-weight: 600; padding: 10px 20px; border-radius: 20px; z-index: 100; transition: transform 0.3s ease; white-space: nowrap; }
+.toast.show { transform: translateX(-50%) translateY(0); }
+
+.header { background: #fff; padding: 14px 16px; border-bottom: 2px solid #111; }
+.header-row { display: flex; align-items: center; justify-content: space-between; }
+.logo-wrap { display: flex; align-items: center; gap: 10px; }
+.logo-icon { width: 36px; height: 36px; border-radius: 50%; background: #c6f135; border: 2.5px solid #111; display: flex; align-items: center; justify-content: center; }
+.logo-dot { width: 12px; height: 12px; border-radius: 50%; background: #111; }
+.logo-text { font-size: 24px; font-weight: 900; letter-spacing: -0.5px; }
+.header-right { display: flex; flex-direction: column; align-items: flex-end; gap: 6px; }
+.pill { border: 2px solid #111; border-radius: 20px; font-size: 12px; font-weight: 700; padding: 4px 12px; background: #fff; }
+.pill-fire { background: #111; color: #fff; }
+
+.safezone { background: #f77cdb; border-bottom: 2px solid #111; padding: 10px 16px; display: flex; align-items: center; gap: 8px; }
+.safezone-text { font-size: 12px; font-weight: 800; text-transform: uppercase; letter-spacing: 0.3px; }
+
+.hero { margin: 12px 12px 0; background: #c6f135; border: 2.5px solid #111; border-radius: 18px; padding: 14px 16px; display: flex; align-items: center; gap: 14px; }
+.hero-icon { font-size: 38px; flex-shrink: 0; }
+.hero-title { font-size: 15px; font-weight: 900; text-transform: uppercase; margin-bottom: 4px; }
+.hero-sub { font-size: 12px; font-weight: 500; line-height: 1.4; }
+
+.filters-section { margin: 12px 12px 0; }
+.filter-toggle { background: #fff; border: 2.5px solid #111; border-radius: 16px; display: flex; overflow: hidden; margin-bottom: 10px; }
+.toggle-btn { flex: 1; font-size: 15px; font-weight: 700; padding: 13px 10px; text-align: center; cursor: pointer; background: transparent; border: none; color: #111; transition: background 0.15s; }
+.toggle-btn.active { background: #111; color: #fff; }
+.filter-chips { display: flex; gap: 8px; flex-wrap: wrap; }
+.chip { font-size: 14px; font-weight: 700; padding: 9px 18px; border-radius: 25px; border: 2.5px solid #111; background: #fff; color: #111; cursor: pointer; transition: all 0.12s; user-select: none; }
+.chip.active { background: #111; color: #fff; }
+
+.results-bar { padding: 10px 16px 4px; font-size: 12px; font-weight: 600; color: #888; }
+
+.list { padding: 0 12px 100px; display: flex; flex-direction: column; gap: 10px; }
+
+.card { background: #fff; border-radius: 18px; border: 2.5px solid #111; padding: 14px; }
+.card-top { display: flex; justify-content: space-between; align-items: flex-start; margin-bottom: 8px; }
+.emp-badge { display: inline-block; background: #c6f135; border: 2px solid #111; border-radius: 8px; font-size: 11px; font-weight: 900; text-transform: uppercase; letter-spacing: 0.5px; padding: 3px 9px; color: #111; margin-bottom: 5px; max-width: 220px; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+.src-badge { display: inline-block; border: 1.5px solid #111; border-radius: 6px; font-size: 10px; font-weight: 700; text-transform: uppercase; letter-spacing: 0.3px; padding: 2px 7px; color: #111; background: #fff; }
+.card-dist { font-size: 12px; font-weight: 600; white-space: nowrap; flex-shrink: 0; margin-left: 8px; }
+.card-title { font-size: 17px; font-weight: 900; line-height: 1.2; letter-spacing: -0.3px; margin-bottom: 2px; }
+.card-salary { font-size: 16px; font-weight: 900; margin-bottom: 10px; color: #111; }
+.card-tags { display: flex; gap: 6px; flex-wrap: wrap; margin-bottom: 12px; }
+.tag { font-size: 12px; font-weight: 700; padding: 5px 12px; border-radius: 8px; border: 2px solid #111; background: #fff; color: #111; }
+.tag-audience { background: #f0f0f0; border-color: #bbb; color: #555; }
+.btn-apply { display: block; width: 100%; font-size: 16px; font-weight: 900; padding: 14px; border-radius: 14px; border: 2.5px solid #111; background: #c6f135; color: #111; cursor: pointer; text-align: center; text-decoration: none; transition: transform 0.1s; }
+.btn-apply:active { transform: scale(0.97); }
+
+.empty { text-align: center; padding: 60px 20px; }
+.empty-icon { font-size: 44px; margin-bottom: 14px; }
+.empty-title { font-size: 17px; font-weight: 900; margin-bottom: 6px; }
+.empty-sub { font-size: 13px; color: #888; font-weight: 500; }
+
+.bottom-cta { background: #fff; border-top: 2.5px solid #111; padding: 12px; position: fixed; bottom: 0; left: 50%; transform: translateX(-50%); width: 100%; max-width: 430px; z-index: 20; display: flex; gap: 8px; }
+.cta-btn { flex: 1; font-size: 12px; font-weight: 800; padding: 11px 8px; border-radius: 14px; border: 2.5px solid #111; background: #f0f0f0; color: #111; cursor: pointer; text-align: center; line-height: 1.4; }
+.cta-btn-dark { background: #111; color: #fff; border-color: #111; }
+</style>
+</head>
+<body>
+<div class="app">
+
+<div class="toast" id="toast">✨ Подобрали вакансии под тебя!</div>
+
+<div class="header">
+  <div class="header-row">
+    <div class="logo-wrap">
+      <div class="logo-icon"><div class="logo-dot"></div></div>
+      <div class="logo-text">работёнка</div>
+    </div>
+    <div class="header-right">
+      <div class="pill">📍 Москва</div>
+      <div class="pill pill-fire">🔥 16 789 юзеров с нами</div>
+    </div>
+  </div>
+</div>
+
+<div class="safezone">
+  <span>🛡️</span>
+  <span class="safezone-text">Сейф-зона: агрегатор проверенных вакансий</span>
+</div>
+
+<div class="hero">
+  <div class="hero-icon">🎮</div>
+  <div>
+    <div class="hero-title">Заработай на хотелки</div>
+    <div class="hero-sub">Гаджеты, шмот или билеты? Найди подработку или постоянную работу рядом с домом.</div>
+  </div>
+</div>
+
+<div class="filters-section">
+  <div class="filter-toggle">
+    <button class="toggle-btn active" data-f="part">Подработка</button>
+    <button class="toggle-btn" data-f="perm">Постоянная</button>
+  </div>
+  <div class="filter-chips">
+    <div class="chip" data-f="remote">Удаленно</div>
+    <div class="chip" data-f="noexp">Без опыта</div>
+    <div class="chip" data-f="students">Студентам</div>
+  </div>
+</div>
+
+<div class="results-bar" id="results-bar"></div>
+<div class="list" id="list"></div>
+
+<div class="bottom-cta">
+  <button class="cta-btn cta-btn-dark">🎙️ Войс-тренажёр<br><span style="font-weight:500;font-size:10px">Отрепетируй собес с ИИ-HR</span></button>
+  <button class="cta-btn">🤔 Не знаешь кем стать?<br><span style="font-weight:500;font-size:10px">Спроси ИИ-коуча</span></button>
+</div>
+
+</div>
+<script>
+const vacancies = [
+  {id:1, title:"Работник торгового зала (ТЦ Ярославский)", emp:"Familia", salary:"до 40 000 руб./мес.", location:"м. Алексеевская", tags:["Студентам","Пенсионерам"], part:true, perm:false, remote:false, noexp:true, students:true, url:"https://www.rabota.ru/vacancy/54293424/"},
+  {id:2, title:"Водитель-курьер с личным авто", emp:"Самокат", salary:"до 317 136 руб./мес.", location:"р-н Троицк", tags:["Студентам"], part:true, perm:false, remote:false, noexp:true, students:true, url:"https://www.rabota.ru/vacancy/54219836/"},
+  {id:3, title:"Водитель-курьер Яндекс Доставка", emp:"Яндекс.Доставка", salary:"до 8 540 руб./смену", location:"г. Москва", tags:[], part:true, perm:false, remote:false, noexp:true, students:false, url:"https://www.rabota.ru/vacancy/54211995/"},
+  {id:4, title:"Водитель-курьер Яндекс Доставка (аренда авто)", emp:"Яндекс.Доставка", salary:"до 8 540 руб./смену", location:"г. Москва", tags:[], part:true, perm:false, remote:false, noexp:true, students:false, url:"https://www.rabota.ru/vacancy/54211993/"},
+  {id:5, title:"Водитель-курьер", emp:"Яндекс.Еда", salary:"260 000 — 310 000 руб./мес.", location:"м. Площадь Революции", tags:["Студентам"], part:true, perm:false, remote:false, noexp:true, students:true, url:"https://www.rabota.ru/vacancy/54275288/"},
+  {id:6, title:"Грузчик", emp:"Трезвый грузчик", salary:"50 000 — 90 000 руб./мес.", location:"м. Кунцевская", tags:[], part:true, perm:false, remote:false, noexp:true, students:false, url:"https://www.rabota.ru/vacancy/54298880/"},
+  {id:7, title:"Кассир зоны самообслуживания", emp:"Работа — это проСТО", salary:"69 300 — 79 200 руб./мес.", location:"м. Теплый Стан", tags:["Студентам"], part:true, perm:false, remote:false, noexp:true, students:true, url:"https://www.rabota.ru/vacancy/54272264/"},
+  {id:8, title:"Упаковщик на склад косметики", emp:"Медиапартнерс", salary:"до 8 000–9 000 руб./день", location:"г. Москва", tags:[], part:true, perm:false, remote:false, noexp:true, students:false, url:"https://www.rabota.ru/vacancy/54297722/"},
+  {id:9, title:"Кассир зоны самообслуживания", emp:"Работа — это проСТО", salary:"69 300 — 79 200 руб./мес.", location:"м. Южная", tags:["Студентам"], part:true, perm:false, remote:false, noexp:true, students:true, url:"https://www.rabota.ru/vacancy/54258162/"},
+  {id:10, title:"Продавец / Работник зала (ТЦ Город)", emp:"Familia", salary:"до 52 200 руб./мес.", location:"м. Косино", tags:["Студентам"], part:true, perm:false, remote:false, noexp:true, students:true, url:"https://www.rabota.ru/vacancy/53934520/"},
+  {id:11, title:"Дворник / Разнорабочий", emp:"Управление бизнес-центрами", salary:"50 000 — 60 000 руб./мес.", location:"м. Бульвар Рокоссовского", tags:[], part:false, perm:true, remote:false, noexp:true, students:false, url:"https://www.rabota.ru/vacancy/54285271/"},
+  {id:12, title:"Продавец / Работник зала (ТЦ Ленинский 101)", emp:"Familia", salary:"до 60 000 руб./мес.", location:"м. Новаторская", tags:["Студентам"], part:true, perm:false, remote:false, noexp:true, students:true, url:"https://www.rabota.ru/vacancy/54297128/"},
+  {id:13, title:"Уборщик офисных помещений", emp:"ЦНИИОИЗ Минздрава", salary:"30 000 — 35 000 руб./мес.", location:"м. Кузнецкий мост", tags:[], part:false, perm:true, remote:false, noexp:true, students:false, url:"https://www.rabota.ru/vacancy/54296936/"},
+  {id:14, title:"Администратор-кассир (сушибар)", emp:"Лосось Сан", salary:"от 50 000 руб./мес.", location:"м. Римская", tags:[], part:true, perm:false, remote:false, noexp:true, students:false, url:"https://www.rabota.ru/vacancy/54295188/"},
+  {id:15, title:"Оператор текстовой поддержки маркетплейса", emp:"Федоров К.А.", salary:"50 000 — 70 000 руб./мес.", location:"Удаленно", tags:["Студентам"], part:true, perm:false, remote:true, noexp:true, students:true, url:"https://www.rabota.ru/vacancy/54272116/"},
+  {id:16, title:"Грузчик в магазин", emp:"Трезвый грузчик", salary:"от 65 000 руб./мес.", location:"м. Бутырская", tags:[], part:true, perm:false, remote:false, noexp:true, students:false, url:"https://www.rabota.ru/vacancy/53490537/"},
+  {id:17, title:"Сборщик интернет-заказов", emp:"КА от Работа.ру", salary:"до 128 000 руб./мес.", location:"м. Новохохловская", tags:["Студентам"], part:true, perm:false, remote:false, noexp:true, students:true, url:"https://www.rabota.ru/vacancy/54291084/"},
+  {id:18, title:"Грузчик", emp:"Трезвый грузчик", salary:"50 000 — 70 000 руб./мес.", location:"м. ВДНХ", tags:[], part:true, perm:false, remote:false, noexp:true, students:false, url:"https://www.rabota.ru/vacancy/54295444/"},
+  {id:19, title:"Сборщик интернет-заказов", emp:"КА от Работа.ру", salary:"до 128 000 руб./мес.", location:"м. Свиблово", tags:["Студентам"], part:true, perm:false, remote:false, noexp:true, students:true, url:"https://www.rabota.ru/vacancy/54291086/"},
+  {id:20, title:"Сборщик интернет-заказов", emp:"КА от Работа.ру", salary:"до 128 000 руб./мес.", location:"м. Профсоюзная", tags:["Студентам"], part:true, perm:false, remote:false, noexp:true, students:true, url:"https://www.rabota.ru/vacancy/54291082/"},
+  {id:21, title:"Водитель-курьер (развозка супермаркета)", emp:"Медиапартнерс", salary:"от 135 000 руб./мес.", location:"г. Москва", tags:[], part:true, perm:false, remote:false, noexp:true, students:false, url:"https://www.rabota.ru/vacancy/54287247/"},
+  {id:22, title:"Помощник дизайнера карточек маркетплейсов", emp:"ИП Родионов А.Ю.", salary:"15 000 — 40 000 руб./мес.", location:"Удаленно", tags:[], part:true, perm:false, remote:true, noexp:true, students:false, url:"https://www.rabota.ru/vacancy/54294729/"},
+  {id:23, title:"Кладовщик склад Яндекс Маркет", emp:"Медиапартнерс", salary:"от 120 000 руб./мес.", location:"г. Москва", tags:[], part:false, perm:true, remote:false, noexp:true, students:false, url:"https://www.rabota.ru/vacancy/54286477/"},
+  {id:24, title:"Уборщик", emp:"ООО Промэкс", salary:"30 000 руб./мес.", location:"м. Волгоградский пр-т", tags:[], part:false, perm:true, remote:false, noexp:true, students:false, url:"https://www.rabota.ru/vacancy/54294628/"},
+  {id:25, title:"Педагог-хореограф", emp:"АНО Центр ШАГИ", salary:"30 000 — 100 000 руб./мес.", location:"г. Москва", tags:[], part:true, perm:false, remote:false, noexp:false, students:false, url:"https://www.rabota.ru/vacancy/54290935/"},
+  {id:26, title:"Инструктор по пейнтболу", emp:"Пейнтбольный клуб Пейнтленд", salary:"50 000 — 90 000 руб./мес.", location:"м. Кузьминки", tags:["Студентам"], part:true, perm:false, remote:false, noexp:true, students:true, url:"https://www.rabota.ru/vacancy/54268975/"},
+  {id:27, title:"Продавец-кассир", emp:"Красное и белое", salary:"от 82 000 руб./мес.", location:"г. Москва", tags:["Студентам"], part:false, perm:true, remote:false, noexp:true, students:true, url:"https://www.rabota.ru/vacancy/54202810/"},
+  {id:28, title:"Работник торгового зала", emp:"Работа — это проСТО", salary:"72 450 — 87 840 руб./мес.", location:"м. Площадь Революции", tags:["Студентам"], part:true, perm:false, remote:false, noexp:true, students:true, url:"https://www.rabota.ru/vacancy/54258487/"},
+  {id:29, title:"Слесарь-ремонтник", emp:"Инжиниринг-service", salary:"350 000 — 400 000 руб./мес.", location:"р-н Измайлово", tags:["Студентам"], part:false, perm:true, remote:false, noexp:true, students:true, url:"https://www.rabota.ru/vacancy/54269703/"},
+  {id:30, title:"Помощник мастера", emp:"Инжиниринг-service", salary:"300 000 — 350 000 руб./мес.", location:"м. Комсомольская", tags:["Студентам"], part:false, perm:true, remote:false, noexp:true, students:true, url:"https://www.rabota.ru/vacancy/49988653/"},
+];
+
+const active = new Set(['part']);
+
+document.querySelectorAll('.toggle-btn').forEach(btn => {
+  btn.addEventListener('click', () => {
+    const f = btn.dataset.f;
+    const other = f === 'part' ? 'perm' : 'part';
+    if (active.has(f)) {
+      active.delete(f); btn.classList.remove('active');
+    } else {
+      active.add(f); btn.classList.add('active');
+      active.delete(other);
+      document.querySelector(`.toggle-btn[data-f="${other}"]`).classList.remove('active');
+    }
+    render();
+  });
+});
+
+document.querySelectorAll('.chip').forEach(c => {
+  c.addEventListener('click', () => {
+    const f = c.dataset.f;
+    active.has(f) ? (active.delete(f), c.classList.remove('active')) : (active.add(f), c.classList.add('active'));
+    render();
+  });
+});
+
+function render() {
+  const filtered = vacancies.filter(v => {
+    for (const f of active) if (!v[f]) return false;
+    return true;
+  });
+  document.getElementById('results-bar').textContent = filtered.length + ' вакансий';
+  const list = document.getElementById('list');
+  if (!filtered.length) {
+    list.innerHTML = '<div class="empty"><div class="empty-icon">🤷‍♂️</div><div class="empty-title">Пока ничего не нашлось</div><div class="empty-sub">Попробуй отключить часть фильтров</div></div>';
+    return;
+  }
+  list.innerHTML = filtered.map(v => `
+    <div class="card">
+      <div class="card-top">
+        <div>
+          <div><span class="emp-badge">${v.emp}</span></div>
+          <div><span class="src-badge">от Работа.ру</span></div>
+        </div>
+        <div class="card-dist">📍 ${v.location}</div>
+      </div>
+      <div class="card-title">${v.title}</div>
+      <div class="card-salary">${v.salary}</div>
+      ${v.tags.length ? `<div class="card-tags">${v.tags.map(t=>`<span class="tag tag-audience">${t}</span>`).join('')}</div>` : ''}
+      <button class="btn-apply" onclick="window.open(this.dataset.url,'_blank')" data-url="${v.url}">Откликнуться →</button>
+    </div>
+  `).join('');
+}
+
+render();
+
+setTimeout(() => {
+  const t = document.getElementById('toast');
+  t.classList.add('show');
+  setTimeout(() => t.classList.remove('show'), 3000);
+}, 600);
+</script>
+</body>
+</html>
