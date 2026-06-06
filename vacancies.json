@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-06T14:07:50.304Z",
+  "updatedAt": "2026-06-06T17:35:27.852Z",
   "source": "trudvsem.ru",
   "vacancies": [
     {
@@ -384,6 +384,23 @@
       "url": "https://trudvsem.ru/vacancy/card/1037739518200/e073ac85-cbf4-11ee-9331-d549be31d974"
     },
     {
+      "id": "a8ee79d5-58d7-11f1-b860-87bb8eb8da0c",
+      "city": "Москва",
+      "title": "Менеджер маркетплейсов OZON",
+      "emp": "Ю. С. Пласт",
+      "salary": "80 000 руб./мес.",
+      "loc": "г Москва, Большая Андроньевская улица",
+      "tags": [
+        "Студентам"
+      ],
+      "part": false,
+      "perm": true,
+      "remote": false,
+      "noexp": true,
+      "students": true,
+      "url": "https://trudvsem.ru/vacancy/card/1027700404797/a8ee79d5-58d7-11f1-b860-87bb8eb8da0c"
+    },
+    {
       "id": "2e423ed8-d9a5-11f0-ac9e-d130ff98d028",
       "city": "Москва",
       "title": "Облицовщик-плиточник в филиал Северо-восточный",
@@ -418,12 +435,12 @@
       "url": "https://trudvsem.ru/vacancy/card/1037739376223/3aad2a78-ad88-11f0-b508-cfc470d59925"
     },
     {
-      "id": "a8ee79d5-58d7-11f1-b860-87bb8eb8da0c",
+      "id": "e76cefe5-5dc6-11f1-ac3e-cba5233439cc",
       "city": "Москва",
-      "title": "Менеджер маркетплейсов OZON",
-      "emp": "Ю. С. Пласт",
+      "title": "Менеджер по снабжению / Менеджер отдела снабжения",
+      "emp": "ТСК",
       "salary": "80 000 руб./мес.",
-      "loc": "г Москва, Большая Андроньевская улица",
+      "loc": "г Москва, Андропова проспект",
       "tags": [
         "Студентам"
       ],
@@ -432,7 +449,24 @@
       "remote": false,
       "noexp": true,
       "students": true,
-      "url": "https://trudvsem.ru/vacancy/card/1027700404797/a8ee79d5-58d7-11f1-b860-87bb8eb8da0c"
+      "url": "https://trudvsem.ru/vacancy/card/1027700404797/e76cefe5-5dc6-11f1-ac3e-cba5233439cc"
+    },
+    {
+      "id": "8b6b3285-56e2-11ee-aefd-0d972cff014f",
+      "city": "Москва",
+      "title": "Инженер-проектировщик систем отопления и вентиляции 1-3 категории",
+      "emp": "ООО \"ГП-МФС\"",
+      "salary": "60 000 — 120 000 руб./мес.",
+      "loc": "г Москва, Баррикадная улица",
+      "tags": [
+        "Студентам"
+      ],
+      "part": false,
+      "perm": true,
+      "remote": false,
+      "noexp": true,
+      "students": true,
+      "url": "https://trudvsem.ru/vacancy/card/1047796934195/8b6b3285-56e2-11ee-aefd-0d972cff014f"
     },
     {
       "id": "913f6388-fd10-11f0-86b8-d7eb1379acaa",
@@ -465,40 +499,6 @@
       "noexp": true,
       "students": true,
       "url": "https://trudvsem.ru/vacancy/card/1227700114465/dca1d5b8-9dcf-11f0-b214-efc3bb2eec02"
-    },
-    {
-      "id": "54687f78-600a-11f1-ae65-05b28ac604d6",
-      "city": "Москва",
-      "title": "Уборщик служебных помещений",
-      "emp": "ООО \"ФЭСИЛИТИ СЕРВИСИЗ РУС\"",
-      "salary": "11 385 руб./мес.",
-      "loc": "Удаленно",
-      "tags": [
-        "Студентам"
-      ],
-      "part": true,
-      "perm": false,
-      "remote": true,
-      "noexp": true,
-      "students": true,
-      "url": "https://trudvsem.ru/vacancy/card/1047796682670/54687f78-600a-11f1-ae65-05b28ac604d6"
-    },
-    {
-      "id": "832088d8-081c-11f1-93cf-9fd44cff2ded",
-      "city": "Москва",
-      "title": "Уборщик производственных и служебных помещений",
-      "emp": "ГКУ СО \"ГПК\"",
-      "salary": "50 000 — 55 000 руб./мес.",
-      "loc": "Удаленно",
-      "tags": [
-        "Студентам"
-      ],
-      "part": false,
-      "perm": true,
-      "remote": true,
-      "noexp": true,
-      "students": true,
-      "url": "https://trudvsem.ru/vacancy/card/1096315000396/832088d8-081c-11f1-93cf-9fd44cff2ded"
     },
     {
       "id": "3ad8e945-5f5c-11f1-ac3e-cba5233439cc",
@@ -1298,21 +1298,6 @@
       "url": "https://trudvsem.ru/vacancy/card/1027806078255/1f3e24c5-4731-11ee-a404-df76e8ab7d11"
     },
     {
-      "id": "3550b030-3193-11f1-b21a-1b28a4f1f176",
-      "city": "Санкт-Петербург",
-      "title": "Врач-колопроктолог",
-      "emp": "ООО \"ТАУРАС - МЕД\"",
-      "salary": "40 000 руб./мес.",
-      "loc": "Удаленно",
-      "tags": [],
-      "part": false,
-      "perm": true,
-      "remote": true,
-      "noexp": false,
-      "students": false,
-      "url": "https://trudvsem.ru/vacancy/card/1037832015891/3550b030-3193-11f1-b21a-1b28a4f1f176"
-    },
-    {
       "id": "4b46a2e8-1ecf-11f1-99d5-5f9d65125ca1",
       "city": "Санкт-Петербург",
       "title": "Уборщик производственных и служебных помещений",
@@ -1328,6 +1313,21 @@
       "noexp": true,
       "students": true,
       "url": "https://trudvsem.ru/vacancy/card/1117847434990/4b46a2e8-1ecf-11f1-99d5-5f9d65125ca1"
+    },
+    {
+      "id": "3550b030-3193-11f1-b21a-1b28a4f1f176",
+      "city": "Санкт-Петербург",
+      "title": "Врач-колопроктолог",
+      "emp": "ООО \"ТАУРАС - МЕД\"",
+      "salary": "40 000 руб./мес.",
+      "loc": "Удаленно",
+      "tags": [],
+      "part": false,
+      "perm": true,
+      "remote": true,
+      "noexp": false,
+      "students": false,
+      "url": "https://trudvsem.ru/vacancy/card/1037832015891/3550b030-3193-11f1-b21a-1b28a4f1f176"
     },
     {
       "id": "3a4b2cf8-f6c9-11f0-a027-0dd543315e5a",
