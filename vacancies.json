@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-06T17:35:27.852Z",
+  "updatedAt": "2026-06-06T21:17:42.009Z",
   "source": "trudvsem.ru",
   "vacancies": [
     {
@@ -384,23 +384,6 @@
       "url": "https://trudvsem.ru/vacancy/card/1037739518200/e073ac85-cbf4-11ee-9331-d549be31d974"
     },
     {
-      "id": "a8ee79d5-58d7-11f1-b860-87bb8eb8da0c",
-      "city": "Москва",
-      "title": "Менеджер маркетплейсов OZON",
-      "emp": "Ю. С. Пласт",
-      "salary": "80 000 руб./мес.",
-      "loc": "г Москва, Большая Андроньевская улица",
-      "tags": [
-        "Студентам"
-      ],
-      "part": false,
-      "perm": true,
-      "remote": false,
-      "noexp": true,
-      "students": true,
-      "url": "https://trudvsem.ru/vacancy/card/1027700404797/a8ee79d5-58d7-11f1-b860-87bb8eb8da0c"
-    },
-    {
       "id": "2e423ed8-d9a5-11f0-ac9e-d130ff98d028",
       "city": "Москва",
       "title": "Облицовщик-плиточник в филиал Северо-восточный",
@@ -435,12 +418,12 @@
       "url": "https://trudvsem.ru/vacancy/card/1037739376223/3aad2a78-ad88-11f0-b508-cfc470d59925"
     },
     {
-      "id": "e76cefe5-5dc6-11f1-ac3e-cba5233439cc",
+      "id": "a8ee79d5-58d7-11f1-b860-87bb8eb8da0c",
       "city": "Москва",
-      "title": "Менеджер по снабжению / Менеджер отдела снабжения",
-      "emp": "ТСК",
+      "title": "Менеджер маркетплейсов OZON",
+      "emp": "Ю. С. Пласт",
       "salary": "80 000 руб./мес.",
-      "loc": "г Москва, Андропова проспект",
+      "loc": "г Москва, Большая Андроньевская улица",
       "tags": [
         "Студентам"
       ],
@@ -449,24 +432,7 @@
       "remote": false,
       "noexp": true,
       "students": true,
-      "url": "https://trudvsem.ru/vacancy/card/1027700404797/e76cefe5-5dc6-11f1-ac3e-cba5233439cc"
-    },
-    {
-      "id": "8b6b3285-56e2-11ee-aefd-0d972cff014f",
-      "city": "Москва",
-      "title": "Инженер-проектировщик систем отопления и вентиляции 1-3 категории",
-      "emp": "ООО \"ГП-МФС\"",
-      "salary": "60 000 — 120 000 руб./мес.",
-      "loc": "г Москва, Баррикадная улица",
-      "tags": [
-        "Студентам"
-      ],
-      "part": false,
-      "perm": true,
-      "remote": false,
-      "noexp": true,
-      "students": true,
-      "url": "https://trudvsem.ru/vacancy/card/1047796934195/8b6b3285-56e2-11ee-aefd-0d972cff014f"
+      "url": "https://trudvsem.ru/vacancy/card/1027700404797/a8ee79d5-58d7-11f1-b860-87bb8eb8da0c"
     },
     {
       "id": "913f6388-fd10-11f0-86b8-d7eb1379acaa",
@@ -499,6 +465,40 @@
       "noexp": true,
       "students": true,
       "url": "https://trudvsem.ru/vacancy/card/1227700114465/dca1d5b8-9dcf-11f0-b214-efc3bb2eec02"
+    },
+    {
+      "id": "54687f78-600a-11f1-ae65-05b28ac604d6",
+      "city": "Москва",
+      "title": "Уборщик служебных помещений",
+      "emp": "ООО \"ФЭСИЛИТИ СЕРВИСИЗ РУС\"",
+      "salary": "11 385 руб./мес.",
+      "loc": "Удаленно",
+      "tags": [
+        "Студентам"
+      ],
+      "part": true,
+      "perm": false,
+      "remote": true,
+      "noexp": true,
+      "students": true,
+      "url": "https://trudvsem.ru/vacancy/card/1047796682670/54687f78-600a-11f1-ae65-05b28ac604d6"
+    },
+    {
+      "id": "832088d8-081c-11f1-93cf-9fd44cff2ded",
+      "city": "Москва",
+      "title": "Уборщик производственных и служебных помещений",
+      "emp": "ГКУ СО \"ГПК\"",
+      "salary": "50 000 — 55 000 руб./мес.",
+      "loc": "Удаленно",
+      "tags": [
+        "Студентам"
+      ],
+      "part": false,
+      "perm": true,
+      "remote": true,
+      "noexp": true,
+      "students": true,
+      "url": "https://trudvsem.ru/vacancy/card/1096315000396/832088d8-081c-11f1-93cf-9fd44cff2ded"
     },
     {
       "id": "3ad8e945-5f5c-11f1-ac3e-cba5233439cc",
@@ -2138,23 +2138,6 @@
       "url": "https://trudvsem.ru/vacancy/card/f0cf4730-8432-11ec-a92f-57fc951f3846/8d012c88-21ce-11f1-a132-1bfbe2e9d3d5"
     },
     {
-      "id": "3ecb4188-4844-11f1-9a83-03f66f346c8b",
-      "city": "Екатеринбург",
-      "title": "Врач-стажер (стоматология терапевтическая)",
-      "emp": "ГАУЗ СО \"СП№ 1\"",
-      "salary": "49 400 — 57 000 руб./мес.",
-      "loc": "Удаленно",
-      "tags": [
-        "Студентам"
-      ],
-      "part": true,
-      "perm": false,
-      "remote": true,
-      "noexp": true,
-      "students": true,
-      "url": "https://trudvsem.ru/vacancy/card/1026605246690/3ecb4188-4844-11f1-9a83-03f66f346c8b"
-    },
-    {
       "id": "736c08d8-5338-11f1-a357-dd844a575753",
       "city": "Екатеринбург",
       "title": "Врач-стажер (стоматология терапевтическая)",
@@ -2172,21 +2155,21 @@
       "url": "https://trudvsem.ru/vacancy/card/1026605246690/736c08d8-5338-11f1-a357-dd844a575753"
     },
     {
-      "id": "e47a1ff2-5996-11ef-b3aa-25abf1fceba2",
+      "id": "3ecb4188-4844-11f1-9a83-03f66f346c8b",
       "city": "Екатеринбург",
-      "title": "Врач-дерматолог",
-      "emp": "Международный медицинский центр УРО-ПРО",
-      "salary": "120 000 руб./мес.",
+      "title": "Врач-стажер (стоматология терапевтическая)",
+      "emp": "ГАУЗ СО \"СП№ 1\"",
+      "salary": "49 400 — 57 000 руб./мес.",
       "loc": "Удаленно",
       "tags": [
         "Студентам"
       ],
-      "part": false,
-      "perm": true,
+      "part": true,
+      "perm": false,
       "remote": true,
       "noexp": true,
       "students": true,
-      "url": "https://trudvsem.ru/vacancy/card/1027700404797/e47a1ff2-5996-11ef-b3aa-25abf1fceba2"
+      "url": "https://trudvsem.ru/vacancy/card/1026605246690/3ecb4188-4844-11f1-9a83-03f66f346c8b"
     },
     {
       "id": "ca8c2f48-d4d6-11f0-b730-d758e7e1c196",
@@ -2202,6 +2185,23 @@
       "noexp": false,
       "students": false,
       "url": "https://trudvsem.ru/vacancy/card/1196658076185/ca8c2f48-d4d6-11f0-b730-d758e7e1c196"
+    },
+    {
+      "id": "e47a1ff2-5996-11ef-b3aa-25abf1fceba2",
+      "city": "Екатеринбург",
+      "title": "Врач-дерматолог",
+      "emp": "Международный медицинский центр УРО-ПРО",
+      "salary": "120 000 руб./мес.",
+      "loc": "Удаленно",
+      "tags": [
+        "Студентам"
+      ],
+      "part": false,
+      "perm": true,
+      "remote": true,
+      "noexp": true,
+      "students": true,
+      "url": "https://trudvsem.ru/vacancy/card/1027700404797/e47a1ff2-5996-11ef-b3aa-25abf1fceba2"
     },
     {
       "id": "b44d1398-606c-11f0-b4ef-d549be31d974",
