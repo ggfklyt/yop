@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-09T11:33:46.641Z",
+  "updatedAt": "2026-06-09T15:27:25.556Z",
   "source": "trudvsem.ru",
   "vacancies": [
     {
@@ -1283,6 +1283,21 @@
       "url": "https://trudvsem.ru/vacancy/card/1027806078255/1f3e24c5-4731-11ee-a404-df76e8ab7d11"
     },
     {
+      "id": "3550b030-3193-11f1-b21a-1b28a4f1f176",
+      "city": "Санкт-Петербург",
+      "title": "Врач-колопроктолог",
+      "emp": "ООО \"ТАУРАС - МЕД\"",
+      "salary": "40 000 руб./мес.",
+      "loc": "Удаленно",
+      "tags": [],
+      "part": false,
+      "perm": true,
+      "remote": true,
+      "noexp": false,
+      "students": false,
+      "url": "https://trudvsem.ru/vacancy/card/1037832015891/3550b030-3193-11f1-b21a-1b28a4f1f176"
+    },
+    {
       "id": "4b46a2e8-1ecf-11f1-99d5-5f9d65125ca1",
       "city": "Санкт-Петербург",
       "title": "Уборщик производственных и служебных помещений",
@@ -1298,21 +1313,6 @@
       "noexp": true,
       "students": true,
       "url": "https://trudvsem.ru/vacancy/card/1117847434990/4b46a2e8-1ecf-11f1-99d5-5f9d65125ca1"
-    },
-    {
-      "id": "3550b030-3193-11f1-b21a-1b28a4f1f176",
-      "city": "Санкт-Петербург",
-      "title": "Врач-колопроктолог",
-      "emp": "ООО \"ТАУРАС - МЕД\"",
-      "salary": "40 000 руб./мес.",
-      "loc": "Удаленно",
-      "tags": [],
-      "part": false,
-      "perm": true,
-      "remote": true,
-      "noexp": false,
-      "students": false,
-      "url": "https://trudvsem.ru/vacancy/card/1037832015891/3550b030-3193-11f1-b21a-1b28a4f1f176"
     },
     {
       "id": "3a4b2cf8-f6c9-11f0-a027-0dd543315e5a",
@@ -1483,21 +1483,6 @@
       "url": "https://trudvsem.ru/vacancy/card/1257800017188/2429daa1-2c29-11f1-b896-f7acc8f2fb19"
     },
     {
-      "id": "4662ce18-f348-11ef-8409-cb26dff57dd7",
-      "city": "Санкт-Петербург",
-      "title": "инженер-программист",
-      "emp": "СПБ ГКУ \"ЦЕНТРАЛИЗОВАННАЯ БУХГАЛТЕРИЯ АДМИНИСТРАЦИИ КУРОРТНОГО РАЙОНА СПБ\"",
-      "salary": "70 000 руб./мес.",
-      "loc": "г Санкт-Петербург, г Сестрорецк",
-      "tags": [],
-      "part": false,
-      "perm": true,
-      "remote": false,
-      "noexp": false,
-      "students": false,
-      "url": "https://trudvsem.ru/vacancy/card/1047855150507/4662ce18-f348-11ef-8409-cb26dff57dd7"
-    },
-    {
       "id": "15be9cec-5426-11f1-9bb5-a37b5f7031a5",
       "city": "Санкт-Петербург",
       "title": "Маляр",
@@ -1513,6 +1498,23 @@
       "noexp": true,
       "students": true,
       "url": "https://trudvsem.ru/vacancy/card/1027802505279/15be9cec-5426-11f1-9bb5-a37b5f7031a5"
+    },
+    {
+      "id": "769be470-30e8-11f1-ba7f-7f43f2c6d407",
+      "city": "Санкт-Петербург",
+      "title": "Уборщик служебных помещений",
+      "emp": "КИРОВСКОЕ РЖА",
+      "salary": "57 400 руб./мес.",
+      "loc": "Удаленно",
+      "tags": [
+        "Студентам"
+      ],
+      "part": false,
+      "perm": true,
+      "remote": true,
+      "noexp": true,
+      "students": true,
+      "url": "https://trudvsem.ru/vacancy/card/1027802757410/769be470-30e8-11f1-ba7f-7f43f2c6d407"
     },
     {
       "id": "b4168710-3a08-11f0-8062-e7d0d2cf29b1",
