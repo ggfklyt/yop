@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-10T18:42:48.846Z",
+  "updatedAt": "2026-06-10T22:20:44.991Z",
   "source": "trudvsem.ru",
   "vacancies": [
     {
@@ -352,23 +352,6 @@
       "url": "https://trudvsem.ru/vacancy/card/1207700399356/1707c5d9-08ba-11f0-a533-cb26dff57dd7"
     },
     {
-      "id": "a8ee79d5-58d7-11f1-b860-87bb8eb8da0c",
-      "city": "Москва",
-      "title": "Менеджер маркетплейсов OZON",
-      "emp": "Ю. С. Пласт",
-      "salary": "80 000 руб./мес.",
-      "loc": "г Москва, Большая Андроньевская улица",
-      "tags": [
-        "Студентам"
-      ],
-      "part": false,
-      "perm": true,
-      "remote": false,
-      "noexp": true,
-      "students": true,
-      "url": "https://trudvsem.ru/vacancy/card/1027700404797/a8ee79d5-58d7-11f1-b860-87bb8eb8da0c"
-    },
-    {
       "id": "2e423ed8-d9a5-11f0-ac9e-d130ff98d028",
       "city": "Москва",
       "title": "Облицовщик-плиточник в филиал Северо-восточный",
@@ -403,29 +386,12 @@
       "url": "https://trudvsem.ru/vacancy/card/1037739376223/3aad2a78-ad88-11f0-b508-cfc470d59925"
     },
     {
-      "id": "8b6b3285-56e2-11ee-aefd-0d972cff014f",
+      "id": "a8ee79d5-58d7-11f1-b860-87bb8eb8da0c",
       "city": "Москва",
-      "title": "Инженер-проектировщик систем отопления и вентиляции 1-3 категории",
-      "emp": "ООО \"ГП-МФС\"",
-      "salary": "60 000 — 120 000 руб./мес.",
-      "loc": "г Москва, Баррикадная улица",
-      "tags": [
-        "Студентам"
-      ],
-      "part": false,
-      "perm": true,
-      "remote": false,
-      "noexp": true,
-      "students": true,
-      "url": "https://trudvsem.ru/vacancy/card/1047796934195/8b6b3285-56e2-11ee-aefd-0d972cff014f"
-    },
-    {
-      "id": "e76cefe5-5dc6-11f1-ac3e-cba5233439cc",
-      "city": "Москва",
-      "title": "Менеджер по снабжению / Менеджер отдела снабжения",
-      "emp": "ТСК",
+      "title": "Менеджер маркетплейсов OZON",
+      "emp": "Ю. С. Пласт",
       "salary": "80 000 руб./мес.",
-      "loc": "г Москва, Андропова проспект",
+      "loc": "г Москва, Большая Андроньевская улица",
       "tags": [
         "Студентам"
       ],
@@ -434,7 +400,7 @@
       "remote": false,
       "noexp": true,
       "students": true,
-      "url": "https://trudvsem.ru/vacancy/card/1027700404797/e76cefe5-5dc6-11f1-ac3e-cba5233439cc"
+      "url": "https://trudvsem.ru/vacancy/card/1027700404797/a8ee79d5-58d7-11f1-b860-87bb8eb8da0c"
     },
     {
       "id": "dca1d5b8-9dcf-11f0-b214-efc3bb2eec02",
@@ -467,6 +433,40 @@
       "noexp": false,
       "students": false,
       "url": "https://trudvsem.ru/vacancy/card/1037739430200/913f6388-fd10-11f0-86b8-d7eb1379acaa"
+    },
+    {
+      "id": "8b6b3285-56e2-11ee-aefd-0d972cff014f",
+      "city": "Москва",
+      "title": "Инженер-проектировщик систем отопления и вентиляции 1-3 категории",
+      "emp": "ООО \"ГП-МФС\"",
+      "salary": "60 000 — 120 000 руб./мес.",
+      "loc": "г Москва, Баррикадная улица",
+      "tags": [
+        "Студентам"
+      ],
+      "part": false,
+      "perm": true,
+      "remote": false,
+      "noexp": true,
+      "students": true,
+      "url": "https://trudvsem.ru/vacancy/card/1047796934195/8b6b3285-56e2-11ee-aefd-0d972cff014f"
+    },
+    {
+      "id": "e76cefe5-5dc6-11f1-ac3e-cba5233439cc",
+      "city": "Москва",
+      "title": "Менеджер по снабжению / Менеджер отдела снабжения",
+      "emp": "ТСК",
+      "salary": "80 000 руб./мес.",
+      "loc": "г Москва, Андропова проспект",
+      "tags": [
+        "Студентам"
+      ],
+      "part": false,
+      "perm": true,
+      "remote": false,
+      "noexp": true,
+      "students": true,
+      "url": "https://trudvsem.ru/vacancy/card/1027700404797/e76cefe5-5dc6-11f1-ac3e-cba5233439cc"
     },
     {
       "id": "54687f78-600a-11f1-ae65-05b28ac604d6",
@@ -2189,23 +2189,6 @@
       "url": "https://trudvsem.ru/vacancy/card/1196658076185/ca8c2f48-d4d6-11f0-b730-d758e7e1c196"
     },
     {
-      "id": "2418f085-e04a-11ee-af44-e7d0d2cf29b1",
-      "city": "Екатеринбург",
-      "title": "Уборщик служебных помещений",
-      "emp": "УРГЮУ ИМЕНИ В.Ф. ЯКОВЛЕВА, ФГБОУ ВО \"УРАЛЬСКИЙ ГОСУДАРСТВЕННЫЙ ЮРИДИЧЕСКИЙ УНИВЕРСИТЕТ ИМЕНИ В.Ф. ЯКОВЛЕВА\", УРАЛЬСКИЙ ГОСУДАРСТВЕННЫЙ ЮРИДИЧЕСКИЙ УНИВЕРСИТЕТ ИМЕНИ В.Ф. ЯКОВЛЕВА, ФГБОУ ВО \"УРГЮУ ИМЕНИ В.Ф. ЯКОВЛЕВА\".",
-      "salary": "до 22 600 руб./мес.",
-      "loc": "Удаленно",
-      "tags": [
-        "Студентам"
-      ],
-      "part": true,
-      "perm": false,
-      "remote": true,
-      "noexp": true,
-      "students": true,
-      "url": "https://trudvsem.ru/vacancy/card/1026604932860/2418f085-e04a-11ee-af44-e7d0d2cf29b1"
-    },
-    {
       "id": "b44d1398-606c-11f0-b4ef-d549be31d974",
       "city": "Екатеринбург",
       "title": "Врач-эндоскопист",
@@ -2221,6 +2204,23 @@
       "noexp": true,
       "students": true,
       "url": "https://trudvsem.ru/vacancy/card/1026605413878/b44d1398-606c-11f0-b4ef-d549be31d974"
+    },
+    {
+      "id": "2418f085-e04a-11ee-af44-e7d0d2cf29b1",
+      "city": "Екатеринбург",
+      "title": "Уборщик служебных помещений",
+      "emp": "УРГЮУ ИМЕНИ В.Ф. ЯКОВЛЕВА, ФГБОУ ВО \"УРАЛЬСКИЙ ГОСУДАРСТВЕННЫЙ ЮРИДИЧЕСКИЙ УНИВЕРСИТЕТ ИМЕНИ В.Ф. ЯКОВЛЕВА\", УРАЛЬСКИЙ ГОСУДАРСТВЕННЫЙ ЮРИДИЧЕСКИЙ УНИВЕРСИТЕТ ИМЕНИ В.Ф. ЯКОВЛЕВА, ФГБОУ ВО \"УРГЮУ ИМЕНИ В.Ф. ЯКОВЛЕВА\".",
+      "salary": "до 22 600 руб./мес.",
+      "loc": "Удаленно",
+      "tags": [
+        "Студентам"
+      ],
+      "part": true,
+      "perm": false,
+      "remote": true,
+      "noexp": true,
+      "students": true,
+      "url": "https://trudvsem.ru/vacancy/card/1026604932860/2418f085-e04a-11ee-af44-e7d0d2cf29b1"
     },
     {
       "id": "f0a82430-33be-11f1-adf8-bb12de7893c2",
