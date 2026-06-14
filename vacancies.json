@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-14T14:28:06.767Z",
+  "updatedAt": "2026-06-14T17:46:57.147Z",
   "source": "trudvsem.ru",
   "vacancies": [
     {
@@ -301,6 +301,40 @@
       "url": "https://trudvsem.ru/vacancy/card/1037739430200/913f6388-fd10-11f0-86b8-d7eb1379acaa"
     },
     {
+      "id": "8b6b3285-56e2-11ee-aefd-0d972cff014f",
+      "city": "Москва",
+      "title": "Инженер-проектировщик систем отопления и вентиляции 1-3 категории",
+      "emp": "ООО \"ГП-МФС\"",
+      "salary": "60 000 — 120 000 руб./мес.",
+      "loc": "г Москва, Баррикадная улица",
+      "tags": [
+        "Студентам"
+      ],
+      "part": false,
+      "perm": true,
+      "remote": false,
+      "noexp": true,
+      "students": true,
+      "url": "https://trudvsem.ru/vacancy/card/1047796934195/8b6b3285-56e2-11ee-aefd-0d972cff014f"
+    },
+    {
+      "id": "e76cefe5-5dc6-11f1-ac3e-cba5233439cc",
+      "city": "Москва",
+      "title": "Менеджер по снабжению / Менеджер отдела снабжения",
+      "emp": "ТСК",
+      "salary": "80 000 руб./мес.",
+      "loc": "г Москва, Андропова проспект",
+      "tags": [
+        "Студентам"
+      ],
+      "part": false,
+      "perm": true,
+      "remote": false,
+      "noexp": true,
+      "students": true,
+      "url": "https://trudvsem.ru/vacancy/card/1027700404797/e76cefe5-5dc6-11f1-ac3e-cba5233439cc"
+    },
+    {
       "id": "54687f78-600a-11f1-ae65-05b28ac604d6",
       "city": "Москва",
       "title": "Уборщик служебных помещений",
@@ -350,40 +384,6 @@
       "noexp": true,
       "students": true,
       "url": "https://trudvsem.ru/vacancy/card/1225000026350/6df76700-54ff-11f1-a0a5-674b4089da46"
-    },
-    {
-      "id": "8b6b3285-56e2-11ee-aefd-0d972cff014f",
-      "city": "Москва",
-      "title": "Инженер-проектировщик систем отопления и вентиляции 1-3 категории",
-      "emp": "ООО \"ГП-МФС\"",
-      "salary": "60 000 — 120 000 руб./мес.",
-      "loc": "г Москва, Баррикадная улица",
-      "tags": [
-        "Студентам"
-      ],
-      "part": false,
-      "perm": true,
-      "remote": false,
-      "noexp": true,
-      "students": true,
-      "url": "https://trudvsem.ru/vacancy/card/1047796934195/8b6b3285-56e2-11ee-aefd-0d972cff014f"
-    },
-    {
-      "id": "e76cefe5-5dc6-11f1-ac3e-cba5233439cc",
-      "city": "Москва",
-      "title": "Менеджер по снабжению / Менеджер отдела снабжения",
-      "emp": "ТСК",
-      "salary": "80 000 руб./мес.",
-      "loc": "г Москва, Андропова проспект",
-      "tags": [
-        "Студентам"
-      ],
-      "part": false,
-      "perm": true,
-      "remote": false,
-      "noexp": true,
-      "students": true,
-      "url": "https://trudvsem.ru/vacancy/card/1027700404797/e76cefe5-5dc6-11f1-ac3e-cba5233439cc"
     },
     {
       "id": "3aa97468-c5ae-11ef-87be-cb26dff57dd7",
@@ -2750,23 +2750,6 @@
       "url": "https://trudvsem.ru/vacancy/card/ee7cd1a0-8350-11e8-8b9e-ef76bd2a03c1/558a9348-d4cb-11f0-95a5-b982dbc00f11"
     },
     {
-      "id": "2013b508-b704-11f0-a1f0-cffd1e1c368e",
-      "city": "Екатеринбург",
-      "title": "Кассир",
-      "emp": "ООО \"ДПЕ\"",
-      "salary": "45 000 — 80 000 руб./мес.",
-      "loc": "Свердловская область, г Екатеринбург",
-      "tags": [
-        "Студентам"
-      ],
-      "part": true,
-      "perm": false,
-      "remote": false,
-      "noexp": true,
-      "students": true,
-      "url": "https://trudvsem.ru/vacancy/card/1247300008460/2013b508-b704-11f0-a1f0-cffd1e1c368e"
-    },
-    {
       "id": "b8aba688-fb5e-11f0-92a3-c18feac190ff",
       "city": "Екатеринбург",
       "title": "Кассир (билетный)",
@@ -2782,6 +2765,23 @@
       "noexp": true,
       "students": true,
       "url": "https://trudvsem.ru/vacancy/card/77917ca0-7099-11e7-ab40-736ab11edb0c/b8aba688-fb5e-11f0-92a3-c18feac190ff"
+    },
+    {
+      "id": "2013b508-b704-11f0-a1f0-cffd1e1c368e",
+      "city": "Екатеринбург",
+      "title": "Кассир",
+      "emp": "ООО \"ДПЕ\"",
+      "salary": "45 000 — 80 000 руб./мес.",
+      "loc": "Свердловская область, г Екатеринбург",
+      "tags": [
+        "Студентам"
+      ],
+      "part": true,
+      "perm": false,
+      "remote": false,
+      "noexp": true,
+      "students": true,
+      "url": "https://trudvsem.ru/vacancy/card/1247300008460/2013b508-b704-11f0-a1f0-cffd1e1c368e"
     },
     {
       "id": "acb72ca4-65f3-11f1-b292-77cedb184e42",
