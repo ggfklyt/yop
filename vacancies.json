@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-15T22:29:09.007Z",
+  "updatedAt": "2026-06-16T05:33:43.396Z",
   "source": "trudvsem.ru",
   "vacancies": [
     {
@@ -352,38 +352,6 @@
       "url": "https://trudvsem.ru/vacancy/card/1225000026350/6df76700-54ff-11f1-a0a5-674b4089da46"
     },
     {
-      "id": "3aa97468-c5ae-11ef-87be-cb26dff57dd7",
-      "city": "Москва",
-      "title": "Горничная",
-      "emp": "ИП ЗАВЬЯЛОВ Л. Н.",
-      "salary": "40 000 — 45 000 руб./мес.",
-      "loc": "Удаленно",
-      "tags": [],
-      "part": false,
-      "perm": true,
-      "remote": true,
-      "noexp": false,
-      "students": false,
-      "url": "https://trudvsem.ru/vacancy/card/319774600209621/3aa97468-c5ae-11ef-87be-cb26dff57dd7"
-    },
-    {
-      "id": "24e15058-2cfd-11f1-a71f-0dcd003ac4b5",
-      "city": "Москва",
-      "title": "Главный специалист службы поддержки рабочих станций",
-      "emp": "АО \"ОЭК\"",
-      "salary": "99 000 — 130 000 руб./мес.",
-      "loc": "Удаленно",
-      "tags": [
-        "Студентам"
-      ],
-      "part": false,
-      "perm": true,
-      "remote": true,
-      "noexp": true,
-      "students": true,
-      "url": "https://trudvsem.ru/vacancy/card/1057746394155/24e15058-2cfd-11f1-a71f-0dcd003ac4b5"
-    },
-    {
       "id": "8f6e2dc8-658e-11f1-98c0-a9a9a5f8a21c",
       "city": "Москва",
       "title": "Кровельщик по стальным кровлям",
@@ -416,6 +384,38 @@
       "noexp": true,
       "students": true,
       "url": "https://trudvsem.ru/vacancy/card/275d0920-c7fe-11e9-be6f-037acc02728d/c351cb28-5a7f-11f1-ab98-0542b89dd3fc"
+    },
+    {
+      "id": "24e15058-2cfd-11f1-a71f-0dcd003ac4b5",
+      "city": "Москва",
+      "title": "Главный специалист службы поддержки рабочих станций",
+      "emp": "АО \"ОЭК\"",
+      "salary": "99 000 — 130 000 руб./мес.",
+      "loc": "Удаленно",
+      "tags": [
+        "Студентам"
+      ],
+      "part": false,
+      "perm": true,
+      "remote": true,
+      "noexp": true,
+      "students": true,
+      "url": "https://trudvsem.ru/vacancy/card/1057746394155/24e15058-2cfd-11f1-a71f-0dcd003ac4b5"
+    },
+    {
+      "id": "3aa97468-c5ae-11ef-87be-cb26dff57dd7",
+      "city": "Москва",
+      "title": "Горничная",
+      "emp": "ИП ЗАВЬЯЛОВ Л. Н.",
+      "salary": "40 000 — 45 000 руб./мес.",
+      "loc": "Удаленно",
+      "tags": [],
+      "part": false,
+      "perm": true,
+      "remote": true,
+      "noexp": false,
+      "students": false,
+      "url": "https://trudvsem.ru/vacancy/card/319774600209621/3aa97468-c5ae-11ef-87be-cb26dff57dd7"
     },
     {
       "id": "49cf73b8-6411-11f1-bd45-5b3fedaf23dc",
@@ -486,11 +486,11 @@
       "url": "https://trudvsem.ru/vacancy/card/1037739485937/bd2a9928-5fde-11f1-a885-41d00752341b"
     },
     {
-      "id": "b84b5010-05bc-11f1-8a1f-09ba9925910c",
+      "id": "1689d0f0-324c-11f1-9b21-e9a401f18d9b",
       "city": "Москва",
-      "title": "уборщик офисных помещений",
-      "emp": "ООО \"ИНТЕРСЕРВИС\"",
-      "salary": "35 000 руб./мес.",
+      "title": "Рабочий зеленого хозяйства",
+      "emp": "ГБУ \"АВТОМОБИЛЬНЫЕ ДОРОГИ ЗАО\"",
+      "salary": "80 000 — 95 000 руб./мес.",
       "loc": "Удаленно",
       "tags": [
         "Студентам"
@@ -500,7 +500,7 @@
       "remote": true,
       "noexp": true,
       "students": true,
-      "url": "https://trudvsem.ru/vacancy/card/5137746156675/b84b5010-05bc-11f1-8a1f-09ba9925910c"
+      "url": "https://trudvsem.ru/vacancy/card/1117746772406/1689d0f0-324c-11f1-9b21-e9a401f18d9b"
     },
     {
       "id": "3ad8e945-5f5c-11f1-ac3e-cba5233439cc",
@@ -2208,23 +2208,6 @@
       "url": "https://trudvsem.ru/vacancy/card/1196658076185/ca8c2f48-d4d6-11f0-b730-d758e7e1c196"
     },
     {
-      "id": "b44d1398-606c-11f0-b4ef-d549be31d974",
-      "city": "Екатеринбург",
-      "title": "Врач-эндоскопист",
-      "emp": "ГБУЗ СО \"ЦГКБ № 1\"",
-      "salary": "80 000 руб./мес.",
-      "loc": "Удаленно",
-      "tags": [
-        "Студентам"
-      ],
-      "part": false,
-      "perm": true,
-      "remote": true,
-      "noexp": true,
-      "students": true,
-      "url": "https://trudvsem.ru/vacancy/card/1026605413878/b44d1398-606c-11f0-b4ef-d549be31d974"
-    },
-    {
       "id": "2418f085-e04a-11ee-af44-e7d0d2cf29b1",
       "city": "Екатеринбург",
       "title": "Уборщик служебных помещений",
@@ -2240,6 +2223,23 @@
       "noexp": true,
       "students": true,
       "url": "https://trudvsem.ru/vacancy/card/1026604932860/2418f085-e04a-11ee-af44-e7d0d2cf29b1"
+    },
+    {
+      "id": "b44d1398-606c-11f0-b4ef-d549be31d974",
+      "city": "Екатеринбург",
+      "title": "Врач-эндоскопист",
+      "emp": "ГБУЗ СО \"ЦГКБ № 1\"",
+      "salary": "80 000 руб./мес.",
+      "loc": "Удаленно",
+      "tags": [
+        "Студентам"
+      ],
+      "part": false,
+      "perm": true,
+      "remote": true,
+      "noexp": true,
+      "students": true,
+      "url": "https://trudvsem.ru/vacancy/card/1026605413878/b44d1398-606c-11f0-b4ef-d549be31d974"
     },
     {
       "id": "f0a82430-33be-11f1-adf8-bb12de7893c2",
