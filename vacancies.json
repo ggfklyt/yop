@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-16T19:50:41.168Z",
+  "updatedAt": "2026-06-16T22:22:34.763Z",
   "source": "trudvsem.ru",
   "vacancies": [
     {
@@ -1334,23 +1334,6 @@
       "url": "https://trudvsem.ru/vacancy/card/1037832015891/3550b030-3193-11f1-b21a-1b28a4f1f176"
     },
     {
-      "id": "3a4b2cf8-f6c9-11f0-a027-0dd543315e5a",
-      "city": "Санкт-Петербург",
-      "title": "Дворник",
-      "emp": "ГБОУ ГИМНАЗИЯ № 664",
-      "salary": "32 000 — 46 000 руб./мес.",
-      "loc": "Удаленно",
-      "tags": [
-        "Студентам"
-      ],
-      "part": false,
-      "perm": true,
-      "remote": true,
-      "noexp": true,
-      "students": true,
-      "url": "https://trudvsem.ru/vacancy/card/1027804182559/3a4b2cf8-f6c9-11f0-a027-0dd543315e5a"
-    },
-    {
       "id": "4b46a2e8-1ecf-11f1-99d5-5f9d65125ca1",
       "city": "Санкт-Петербург",
       "title": "Уборщик производственных и служебных помещений",
@@ -1366,6 +1349,23 @@
       "noexp": true,
       "students": true,
       "url": "https://trudvsem.ru/vacancy/card/1117847434990/4b46a2e8-1ecf-11f1-99d5-5f9d65125ca1"
+    },
+    {
+      "id": "3a4b2cf8-f6c9-11f0-a027-0dd543315e5a",
+      "city": "Санкт-Петербург",
+      "title": "Дворник",
+      "emp": "ГБОУ ГИМНАЗИЯ № 664",
+      "salary": "32 000 — 46 000 руб./мес.",
+      "loc": "Удаленно",
+      "tags": [
+        "Студентам"
+      ],
+      "part": false,
+      "perm": true,
+      "remote": true,
+      "noexp": true,
+      "students": true,
+      "url": "https://trudvsem.ru/vacancy/card/1027804182559/3a4b2cf8-f6c9-11f0-a027-0dd543315e5a"
     },
     {
       "id": "8a2bc578-4f6d-11f1-9112-eb3b2f9245e3",
