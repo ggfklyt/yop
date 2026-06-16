@@ -1,7 +1,24 @@
 {
-  "updatedAt": "2026-06-16T05:33:43.396Z",
+  "updatedAt": "2026-06-16T13:06:21.211Z",
   "source": "trudvsem.ru",
   "vacancies": [
+    {
+      "id": "9412f314-68c2-11f1-9e25-39200c16bc9b",
+      "city": "Москва",
+      "title": "Менеджер по логистике (удаленно)",
+      "emp": "ООО \"Джобкарт\"",
+      "salary": "30 000 — 200 000 руб./мес.",
+      "loc": "Удаленно",
+      "tags": [
+        "Студентам"
+      ],
+      "part": false,
+      "perm": true,
+      "remote": true,
+      "noexp": true,
+      "students": true,
+      "url": "https://trudvsem.ru/vacancy/card/5147746474134/9412f314-68c2-11f1-9e25-39200c16bc9b"
+    },
     {
       "id": "3386d350-1ed4-11f1-b26c-af1153b4c800",
       "city": "Москва",
@@ -101,6 +118,23 @@
       "noexp": true,
       "students": true,
       "url": "https://trudvsem.ru/vacancy/card/5147746474134/f7d82ca4-6573-11f1-8522-edb08a482750"
+    },
+    {
+      "id": "e0ac8d10-68b5-11f1-9c38-bd48021b08e2",
+      "city": "Москва",
+      "title": "Оператор на телефоне (удаленно)",
+      "emp": "СПЛАЙН-ЦЕНТР",
+      "salary": "65 500 руб./мес.",
+      "loc": "Удаленно",
+      "tags": [
+        "Студентам"
+      ],
+      "part": true,
+      "perm": false,
+      "remote": true,
+      "noexp": true,
+      "students": true,
+      "url": "https://trudvsem.ru/vacancy/card/1027700404797/e0ac8d10-68b5-11f1-9c38-bd48021b08e2"
     },
     {
       "id": "015333a0-4c2b-11f0-840e-25abf1fceba2",
@@ -203,6 +237,21 @@
       "url": "https://trudvsem.ru/vacancy/card/1077763818450/719e28b8-43b8-11f1-aa71-659f9ad1813b"
     },
     {
+      "id": "1707c5d9-08ba-11f0-a533-cb26dff57dd7",
+      "city": "Москва",
+      "title": "Инженер федеральной технической поддержки автоматизированного рабочего места",
+      "emp": "ООО «МЕГАТЕХ»",
+      "salary": "80 000 руб./мес.",
+      "loc": "Удаленно",
+      "tags": [],
+      "part": false,
+      "perm": true,
+      "remote": true,
+      "noexp": false,
+      "students": false,
+      "url": "https://trudvsem.ru/vacancy/card/1207700399356/1707c5d9-08ba-11f0-a533-cb26dff57dd7"
+    },
+    {
       "id": "e073ac85-cbf4-11ee-9331-d549be31d974",
       "city": "Москва",
       "title": "уборщик служебных помещений",
@@ -220,26 +269,11 @@
       "url": "https://trudvsem.ru/vacancy/card/1037739518200/e073ac85-cbf4-11ee-9331-d549be31d974"
     },
     {
-      "id": "1707c5d9-08ba-11f0-a533-cb26dff57dd7",
+      "id": "2e423ed8-d9a5-11f0-ac9e-d130ff98d028",
       "city": "Москва",
-      "title": "Инженер федеральной технической поддержки автоматизированного рабочего места",
-      "emp": "ООО «МЕГАТЕХ»",
-      "salary": "80 000 руб./мес.",
-      "loc": "Удаленно",
-      "tags": [],
-      "part": false,
-      "perm": true,
-      "remote": true,
-      "noexp": false,
-      "students": false,
-      "url": "https://trudvsem.ru/vacancy/card/1207700399356/1707c5d9-08ba-11f0-a533-cb26dff57dd7"
-    },
-    {
-      "id": "dca1d5b8-9dcf-11f0-b214-efc3bb2eec02",
-      "city": "Москва",
-      "title": "Облицовщик-плиточник",
-      "emp": "ГБУ \"СППМ\"",
-      "salary": "55 000 — 65 000 руб./мес.",
+      "title": "Облицовщик-плиточник в филиал Северо-восточный",
+      "emp": "ГУП \"МОСГОРТРАНС\"",
+      "salary": "67 000 руб./мес.",
       "loc": "Удаленно",
       "tags": [
         "Студентам"
@@ -249,7 +283,24 @@
       "remote": true,
       "noexp": true,
       "students": true,
-      "url": "https://trudvsem.ru/vacancy/card/1227700114465/dca1d5b8-9dcf-11f0-b214-efc3bb2eec02"
+      "url": "https://trudvsem.ru/vacancy/card/1037739376223/2e423ed8-d9a5-11f0-ac9e-d130ff98d028"
+    },
+    {
+      "id": "3aad2a78-ad88-11f0-b508-cfc470d59925",
+      "city": "Москва",
+      "title": "Облицовщик-плиточник в филиал Северо-западный",
+      "emp": "ГУП \"МОСГОРТРАНС\"",
+      "salary": "65 000 — 70 000 руб./мес.",
+      "loc": "Удаленно",
+      "tags": [
+        "Студентам"
+      ],
+      "part": true,
+      "perm": false,
+      "remote": true,
+      "noexp": true,
+      "students": true,
+      "url": "https://trudvsem.ru/vacancy/card/1037739376223/3aad2a78-ad88-11f0-b508-cfc470d59925"
     },
     {
       "id": "40d4a2a8-689c-11f1-a95e-05a97d193f2d",
@@ -282,6 +333,23 @@
       "noexp": false,
       "students": false,
       "url": "https://trudvsem.ru/vacancy/card/1037739430200/913f6388-fd10-11f0-86b8-d7eb1379acaa"
+    },
+    {
+      "id": "dca1d5b8-9dcf-11f0-b214-efc3bb2eec02",
+      "city": "Москва",
+      "title": "Облицовщик-плиточник",
+      "emp": "ГБУ \"СППМ\"",
+      "salary": "55 000 — 65 000 руб./мес.",
+      "loc": "Удаленно",
+      "tags": [
+        "Студентам"
+      ],
+      "part": false,
+      "perm": true,
+      "remote": true,
+      "noexp": true,
+      "students": true,
+      "url": "https://trudvsem.ru/vacancy/card/1227700114465/dca1d5b8-9dcf-11f0-b214-efc3bb2eec02"
     },
     {
       "id": "8b6b3285-56e2-11ee-aefd-0d972cff014f",
@@ -435,74 +503,6 @@
       "url": "https://trudvsem.ru/vacancy/card/1257700331767/49cf73b8-6411-11f1-bd45-5b3fedaf23dc"
     },
     {
-      "id": "770b5d38-5f4d-11f1-aaeb-750452cc88fa",
-      "city": "Москва",
-      "title": "Медицинская сестра стоматологии",
-      "emp": "АО \"ГРУППА КОМПАНИЙ \"МЕДСИ\"",
-      "salary": "104 000 руб./мес.",
-      "loc": "Удаленно",
-      "tags": [
-        "Студентам"
-      ],
-      "part": true,
-      "perm": false,
-      "remote": true,
-      "noexp": true,
-      "students": true,
-      "url": "https://trudvsem.ru/vacancy/card/5067746338732/770b5d38-5f4d-11f1-aaeb-750452cc88fa"
-    },
-    {
-      "id": "5f28b495-64fe-11f1-8a63-3730a5f9a5b8",
-      "city": "Москва",
-      "title": "Врач-оториноларинголог",
-      "emp": "Сеть диагностических центров ТОМОГРАД",
-      "salary": "120 000 руб./мес.",
-      "loc": "Удаленно",
-      "tags": [
-        "Студентам"
-      ],
-      "part": false,
-      "perm": true,
-      "remote": true,
-      "noexp": true,
-      "students": true,
-      "url": "https://trudvsem.ru/vacancy/card/1027700404797/5f28b495-64fe-11f1-8a63-3730a5f9a5b8"
-    },
-    {
-      "id": "bd2a9928-5fde-11f1-a885-41d00752341b",
-      "city": "Москва",
-      "title": "Уборщик территории",
-      "emp": "ГБУЗ \"ГВВ № 3 ДЗМ\"",
-      "salary": "60 000 — 65 000 руб./мес.",
-      "loc": "Удаленно",
-      "tags": [
-        "Студентам"
-      ],
-      "part": false,
-      "perm": true,
-      "remote": true,
-      "noexp": true,
-      "students": true,
-      "url": "https://trudvsem.ru/vacancy/card/1037739485937/bd2a9928-5fde-11f1-a885-41d00752341b"
-    },
-    {
-      "id": "1689d0f0-324c-11f1-9b21-e9a401f18d9b",
-      "city": "Москва",
-      "title": "Рабочий зеленого хозяйства",
-      "emp": "ГБУ \"АВТОМОБИЛЬНЫЕ ДОРОГИ ЗАО\"",
-      "salary": "80 000 — 95 000 руб./мес.",
-      "loc": "Удаленно",
-      "tags": [
-        "Студентам"
-      ],
-      "part": true,
-      "perm": false,
-      "remote": true,
-      "noexp": true,
-      "students": true,
-      "url": "https://trudvsem.ru/vacancy/card/1117746772406/1689d0f0-324c-11f1-9b21-e9a401f18d9b"
-    },
-    {
       "id": "3ad8e945-5f5c-11f1-ac3e-cba5233439cc",
       "city": "Москва",
       "title": "Стажер",
@@ -588,23 +588,6 @@
       "url": "https://trudvsem.ru/vacancy/card/7226c750-02f1-11eb-8600-bfd13399602c/d95b9fc0-55b8-11f1-9283-e9f7f814ebca"
     },
     {
-      "id": "a4e75c30-5ff8-11f1-b4a8-cb523d2e9346",
-      "city": "Москва",
-      "title": "Тренер-стажёр по гимнастике / акробатике",
-      "emp": "GYMKiDs",
-      "salary": "50 000 руб./мес.",
-      "loc": "г Москва, Авиаконструктора Миля улица",
-      "tags": [
-        "Студентам"
-      ],
-      "part": false,
-      "perm": true,
-      "remote": false,
-      "noexp": true,
-      "students": true,
-      "url": "https://trudvsem.ru/vacancy/card/1027700404797/a4e75c30-5ff8-11f1-b4a8-cb523d2e9346"
-    },
-    {
       "id": "adb05095-2111-11f1-8447-cdfc0f76d495",
       "city": "Москва",
       "title": "Риэлтор-стажер",
@@ -620,6 +603,23 @@
       "noexp": true,
       "students": true,
       "url": "https://trudvsem.ru/vacancy/card/1027700404797/adb05095-2111-11f1-8447-cdfc0f76d495"
+    },
+    {
+      "id": "a4e75c30-5ff8-11f1-b4a8-cb523d2e9346",
+      "city": "Москва",
+      "title": "Тренер-стажёр по гимнастике / акробатике",
+      "emp": "GYMKiDs",
+      "salary": "50 000 руб./мес.",
+      "loc": "г Москва, Авиаконструктора Миля улица",
+      "tags": [
+        "Студентам"
+      ],
+      "part": false,
+      "perm": true,
+      "remote": false,
+      "noexp": true,
+      "students": true,
+      "url": "https://trudvsem.ru/vacancy/card/1027700404797/a4e75c30-5ff8-11f1-b4a8-cb523d2e9346"
     },
     {
       "id": "00581e91-4eb8-11f1-9112-eb3b2f9245e3",
@@ -809,6 +809,23 @@
       "url": "https://trudvsem.ru/vacancy/card/1027700198767/1f71a848-5089-11f1-b37c-614806db9c9b"
     },
     {
+      "id": "b66f2b60-72a3-11f0-b34a-e7d0d2cf29b1",
+      "city": "Москва",
+      "title": "Стажер специалиста по работе с клиентами",
+      "emp": "АО \"СЭ\"",
+      "salary": "50 000 руб./мес.",
+      "loc": "г Москва, Волгоградский проспект",
+      "tags": [
+        "Студентам"
+      ],
+      "part": true,
+      "perm": false,
+      "remote": false,
+      "noexp": true,
+      "students": true,
+      "url": "https://trudvsem.ru/vacancy/card/1027739393637/b66f2b60-72a3-11f0-b34a-e7d0d2cf29b1"
+    },
+    {
       "id": "aebe8110-d5b6-11f0-8275-113a9df2fe29",
       "city": "Москва",
       "title": "Риэлтор по недвижимости / стажер с обучением",
@@ -943,23 +960,6 @@
       "noexp": true,
       "students": true,
       "url": "https://trudvsem.ru/vacancy/card/1027700149124/19c03ae8-4302-11f1-9e37-73ccecd88317"
-    },
-    {
-      "id": "b66f2b60-72a3-11f0-b34a-e7d0d2cf29b1",
-      "city": "Москва",
-      "title": "Стажер специалиста по работе с клиентами",
-      "emp": "АО \"СЭ\"",
-      "salary": "50 000 руб./мес.",
-      "loc": "г Москва, Волгоградский проспект",
-      "tags": [
-        "Студентам"
-      ],
-      "part": true,
-      "perm": false,
-      "remote": false,
-      "noexp": true,
-      "students": true,
-      "url": "https://trudvsem.ru/vacancy/card/1027739393637/b66f2b60-72a3-11f0-b34a-e7d0d2cf29b1"
     },
     {
       "id": "25506c48-5351-11f1-9bb5-a37b5f7031a5",
@@ -1319,23 +1319,6 @@
       "url": "https://trudvsem.ru/vacancy/card/1027806078255/1f3e24c5-4731-11ee-a404-df76e8ab7d11"
     },
     {
-      "id": "4b46a2e8-1ecf-11f1-99d5-5f9d65125ca1",
-      "city": "Санкт-Петербург",
-      "title": "Уборщик производственных и служебных помещений",
-      "emp": "ФГБОУ ВО СЗГМУ ИМ. И.И. МЕЧНИКОВА МИНЗДРАВА РОССИИ",
-      "salary": "35 000 руб./мес.",
-      "loc": "Удаленно",
-      "tags": [
-        "Студентам"
-      ],
-      "part": false,
-      "perm": true,
-      "remote": true,
-      "noexp": true,
-      "students": true,
-      "url": "https://trudvsem.ru/vacancy/card/1117847434990/4b46a2e8-1ecf-11f1-99d5-5f9d65125ca1"
-    },
-    {
       "id": "3550b030-3193-11f1-b21a-1b28a4f1f176",
       "city": "Санкт-Петербург",
       "title": "Врач-колопроктолог",
@@ -1366,6 +1349,23 @@
       "noexp": true,
       "students": true,
       "url": "https://trudvsem.ru/vacancy/card/1027804182559/3a4b2cf8-f6c9-11f0-a027-0dd543315e5a"
+    },
+    {
+      "id": "4b46a2e8-1ecf-11f1-99d5-5f9d65125ca1",
+      "city": "Санкт-Петербург",
+      "title": "Уборщик производственных и служебных помещений",
+      "emp": "ФГБОУ ВО СЗГМУ ИМ. И.И. МЕЧНИКОВА МИНЗДРАВА РОССИИ",
+      "salary": "35 000 руб./мес.",
+      "loc": "Удаленно",
+      "tags": [
+        "Студентам"
+      ],
+      "part": false,
+      "perm": true,
+      "remote": true,
+      "noexp": true,
+      "students": true,
+      "url": "https://trudvsem.ru/vacancy/card/1117847434990/4b46a2e8-1ecf-11f1-99d5-5f9d65125ca1"
     },
     {
       "id": "8a2bc578-4f6d-11f1-9112-eb3b2f9245e3",
@@ -1672,6 +1672,23 @@
       "url": "https://trudvsem.ru/vacancy/card/1027700404797/8637ae80-5fed-11f1-a1a8-d94d829abf3c"
     },
     {
+      "id": "9fced3d4-68b4-11f1-98e9-f786b459adae",
+      "city": "Санкт-Петербург",
+      "title": "Менеджер по продажам недвижимости (стажер)",
+      "emp": "JOBCART.RU",
+      "salary": "150 000 — 450 000 руб./мес.",
+      "loc": "г Санкт-Петербург, Московский проспект",
+      "tags": [
+        "Студентам"
+      ],
+      "part": false,
+      "perm": true,
+      "remote": false,
+      "noexp": true,
+      "students": true,
+      "url": "https://trudvsem.ru/vacancy/card/1027700404797/9fced3d4-68b4-11f1-98e9-f786b459adae"
+    },
+    {
       "id": "367d3ec0-5ff5-11f1-b4a8-cb523d2e9346",
       "city": "Санкт-Петербург",
       "title": "Стажёр учитель математики в школе",
@@ -1723,12 +1740,12 @@
       "url": "https://trudvsem.ru/vacancy/card/5147746474134/a603c234-52d2-11f1-a670-d9077f57b045"
     },
     {
-      "id": "308b6094-b24a-11f0-87a1-fd10715ed576",
+      "id": "6c1c35f3-6959-11f1-be18-ff560cf82783",
       "city": "Санкт-Петербург",
       "title": "Курьер",
-      "emp": "ИНДИВИДУАЛЬНЫЙ ПРЕДПРИНИМАТЕЛЬ ВАСИЛЬЕВА АНАСТАСИЯ АЛЕКСЕЕВНА",
-      "salary": "48 500 — 50 000 руб./мес.",
-      "loc": "г Санкт-Петербург, Заневский проспект",
+      "emp": "ООО \"Джейкет.ру\"",
+      "salary": "от 200 000 руб./мес.",
+      "loc": "г Санкт-Петербург, Санкт-Петербург",
       "tags": [
         "Студентам"
       ],
@@ -1737,7 +1754,7 @@
       "remote": false,
       "noexp": true,
       "students": true,
-      "url": "https://trudvsem.ru/vacancy/card/5147746474134/308b6094-b24a-11f0-87a1-fd10715ed576"
+      "url": "https://trudvsem.ru/vacancy/card/5147746474134/6c1c35f3-6959-11f1-be18-ff560cf82783"
     },
     {
       "id": "276894f5-492c-11f1-aff5-fda69a5c8381",
@@ -2012,23 +2029,6 @@
       "url": "https://trudvsem.ru/vacancy/card/1027700404797/90752480-09db-11f1-91fa-e1b8e480845b"
     },
     {
-      "id": "a40d7420-fc25-11f0-a71d-f91014319011",
-      "city": "Санкт-Петербург",
-      "title": "Водитель-курьер на личном автомобиле",
-      "emp": "КУПЕР",
-      "salary": "336 000 руб./мес.",
-      "loc": "г Санкт-Петербург, Заневский парк",
-      "tags": [
-        "Студентам"
-      ],
-      "part": true,
-      "perm": false,
-      "remote": false,
-      "noexp": true,
-      "students": true,
-      "url": "https://trudvsem.ru/vacancy/card/1027700404797/a40d7420-fc25-11f0-a71d-f91014319011"
-    },
-    {
       "id": "1bc68ad4-5b6f-11f1-b16d-27a041be8bc3",
       "city": "Екатеринбург",
       "title": "Менеджер по продажам (удаленно)",
@@ -2142,6 +2142,21 @@
       "url": "https://trudvsem.ru/vacancy/card/1036605185319/a3126848-4906-11f1-862b-c921de52508b"
     },
     {
+      "id": "ca8c2f48-d4d6-11f0-b730-d758e7e1c196",
+      "city": "Екатеринбург",
+      "title": "Аналитик-технолог",
+      "emp": "ООО \"СКБ-ОНЛАЙН\"",
+      "salary": "50 000 — 80 000 руб./мес.",
+      "loc": "Свердловская область, г Екатеринбург",
+      "tags": [],
+      "part": false,
+      "perm": true,
+      "remote": false,
+      "noexp": false,
+      "students": false,
+      "url": "https://trudvsem.ru/vacancy/card/1196658076185/ca8c2f48-d4d6-11f0-b730-d758e7e1c196"
+    },
+    {
       "id": "8d012c88-21ce-11f1-a132-1bfbe2e9d3d5",
       "city": "Екатеринбург",
       "title": "Резчик эластомеров и резины",
@@ -2191,21 +2206,6 @@
       "noexp": true,
       "students": true,
       "url": "https://trudvsem.ru/vacancy/card/1026605246690/3ecb4188-4844-11f1-9a83-03f66f346c8b"
-    },
-    {
-      "id": "ca8c2f48-d4d6-11f0-b730-d758e7e1c196",
-      "city": "Екатеринбург",
-      "title": "Аналитик-технолог",
-      "emp": "ООО \"СКБ-ОНЛАЙН\"",
-      "salary": "50 000 — 80 000 руб./мес.",
-      "loc": "Свердловская область, г Екатеринбург",
-      "tags": [],
-      "part": false,
-      "perm": true,
-      "remote": false,
-      "noexp": false,
-      "students": false,
-      "url": "https://trudvsem.ru/vacancy/card/1196658076185/ca8c2f48-d4d6-11f0-b730-d758e7e1c196"
     },
     {
       "id": "2418f085-e04a-11ee-af44-e7d0d2cf29b1",
@@ -2376,74 +2376,6 @@
       "noexp": true,
       "students": true,
       "url": "https://trudvsem.ru/vacancy/card/1027700404797/41f3c4f4-4aa5-11f1-a10a-41e62dff80b5"
-    },
-    {
-      "id": "0428e3a0-4878-11f1-b433-116fdc25cfeb",
-      "city": "Екатеринбург",
-      "title": "Почтальон/курьер",
-      "emp": "Почта России",
-      "salary": "32 000 — 42 000 руб./мес.",
-      "loc": "Свердловская область, г Екатеринбург",
-      "tags": [
-        "Студентам"
-      ],
-      "part": false,
-      "perm": true,
-      "remote": false,
-      "noexp": true,
-      "students": true,
-      "url": "https://trudvsem.ru/vacancy/card/1027700404797/0428e3a0-4878-11f1-b433-116fdc25cfeb"
-    },
-    {
-      "id": "fa87d4f5-4877-11f1-b4b9-53857b216dd1",
-      "city": "Екатеринбург",
-      "title": "Почтальон/курьер",
-      "emp": "Почта России",
-      "salary": "32 000 — 42 000 руб./мес.",
-      "loc": "Свердловская область, г Екатеринбург",
-      "tags": [
-        "Студентам"
-      ],
-      "part": false,
-      "perm": true,
-      "remote": false,
-      "noexp": true,
-      "students": true,
-      "url": "https://trudvsem.ru/vacancy/card/1027700404797/fa87d4f5-4877-11f1-b4b9-53857b216dd1"
-    },
-    {
-      "id": "f6c66025-4877-11f1-80a1-31a0c33d52e7",
-      "city": "Екатеринбург",
-      "title": "Почтальон/курьер",
-      "emp": "Почта России",
-      "salary": "32 000 — 42 000 руб./мес.",
-      "loc": "Свердловская область, г Екатеринбург",
-      "tags": [
-        "Студентам"
-      ],
-      "part": false,
-      "perm": true,
-      "remote": false,
-      "noexp": true,
-      "students": true,
-      "url": "https://trudvsem.ru/vacancy/card/1027700404797/f6c66025-4877-11f1-80a1-31a0c33d52e7"
-    },
-    {
-      "id": "554cf155-4877-11f1-b4b9-53857b216dd1",
-      "city": "Екатеринбург",
-      "title": "Почтальон/курьер",
-      "emp": "Почта России",
-      "salary": "32 000 — 42 000 руб./мес.",
-      "loc": "Свердловская область, г Екатеринбург",
-      "tags": [
-        "Студентам"
-      ],
-      "part": false,
-      "perm": true,
-      "remote": false,
-      "noexp": true,
-      "students": true,
-      "url": "https://trudvsem.ru/vacancy/card/1027700404797/554cf155-4877-11f1-b4b9-53857b216dd1"
     },
     {
       "id": "aa130015-387f-11f1-b128-9bbe2e9e3a78",
@@ -2650,11 +2582,11 @@
       "url": "https://trudvsem.ru/vacancy/card/1115543032890/082a28a8-0571-11f1-8a1f-09ba9925910c"
     },
     {
-      "id": "239450b5-4906-11f1-9bdb-550718aca3ff",
+      "id": "e92adc94-6887-11f1-9e25-39200c16bc9b",
       "city": "Екатеринбург",
-      "title": "Почтальон",
-      "emp": "Почта России",
-      "salary": "32 000 — 42 000 руб./мес.",
+      "title": "Сборщик заказов в Гипермаркет (Екатеринбург, Владимира Высоцкого, 12)",
+      "emp": "МАГНИТ, Розничная сеть",
+      "salary": "52 800 — 86 700 руб./мес.",
       "loc": "Свердловская область, г Екатеринбург",
       "tags": [
         "Студентам"
@@ -2664,58 +2596,7 @@
       "remote": false,
       "noexp": true,
       "students": true,
-      "url": "https://trudvsem.ru/vacancy/card/1027700404797/239450b5-4906-11f1-9bdb-550718aca3ff"
-    },
-    {
-      "id": "4165c9d5-4905-11f1-b083-d3994b776f2a",
-      "city": "Екатеринбург",
-      "title": "Почтальон",
-      "emp": "Почта России",
-      "salary": "32 000 — 42 000 руб./мес.",
-      "loc": "Свердловская область, г Екатеринбург",
-      "tags": [
-        "Студентам"
-      ],
-      "part": false,
-      "perm": true,
-      "remote": false,
-      "noexp": true,
-      "students": true,
-      "url": "https://trudvsem.ru/vacancy/card/1027700404797/4165c9d5-4905-11f1-b083-d3994b776f2a"
-    },
-    {
-      "id": "3f6fed45-4905-11f1-a4d8-2703234eb817",
-      "city": "Екатеринбург",
-      "title": "Почтальон",
-      "emp": "Почта России",
-      "salary": "32 000 — 42 000 руб./мес.",
-      "loc": "Свердловская область, г Екатеринбург",
-      "tags": [
-        "Студентам"
-      ],
-      "part": false,
-      "perm": true,
-      "remote": false,
-      "noexp": true,
-      "students": true,
-      "url": "https://trudvsem.ru/vacancy/card/1027700404797/3f6fed45-4905-11f1-a4d8-2703234eb817"
-    },
-    {
-      "id": "3dcd12b5-4905-11f1-9bdb-550718aca3ff",
-      "city": "Екатеринбург",
-      "title": "Почтальон",
-      "emp": "Почта России",
-      "salary": "32 000 — 42 000 руб./мес.",
-      "loc": "Свердловская область, г Екатеринбург",
-      "tags": [
-        "Студентам"
-      ],
-      "part": false,
-      "perm": true,
-      "remote": false,
-      "noexp": true,
-      "students": true,
-      "url": "https://trudvsem.ru/vacancy/card/1027700404797/3dcd12b5-4905-11f1-9bdb-550718aca3ff"
+      "url": "https://trudvsem.ru/vacancy/card/7226c750-02f1-11eb-8600-bfd13399602c/e92adc94-6887-11f1-9e25-39200c16bc9b"
     },
     {
       "id": "a3a46ee8-37ca-11f1-889f-09fcf7d79153",
@@ -2939,7 +2820,7 @@
       "url": "https://trudvsem.ru/vacancy/card/1027700404797/1ed22005-57f4-11f1-9cfc-d1f29d9076ad"
     },
     {
-      "id": "b018f034-50f5-11f1-8888-2d6765da1e37",
+      "id": "83366724-49cd-11f1-905d-bdc0ab7ceef5",
       "city": "Екатеринбург",
       "title": "Продавец-кассир",
       "emp": "Пятёрочка",
@@ -2953,10 +2834,10 @@
       "remote": false,
       "noexp": true,
       "students": true,
-      "url": "https://trudvsem.ru/vacancy/card/1027700404797/b018f034-50f5-11f1-8888-2d6765da1e37"
+      "url": "https://trudvsem.ru/vacancy/card/1027700404797/83366724-49cd-11f1-905d-bdc0ab7ceef5"
     },
     {
-      "id": "a478dd34-50f5-11f1-8949-717e8ddfcd33",
+      "id": "51640134-50e4-11f1-8949-717e8ddfcd33",
       "city": "Екатеринбург",
       "title": "Продавец-кассир",
       "emp": "Пятёрочка",
@@ -2970,10 +2851,10 @@
       "remote": false,
       "noexp": true,
       "students": true,
-      "url": "https://trudvsem.ru/vacancy/card/1027700404797/a478dd34-50f5-11f1-8949-717e8ddfcd33"
+      "url": "https://trudvsem.ru/vacancy/card/1027700404797/51640134-50e4-11f1-8949-717e8ddfcd33"
     },
     {
-      "id": "5aaba874-50e8-11f1-8949-717e8ddfcd33",
+      "id": "e1415ba4-5bd3-11f1-a2ba-074e0929bd84",
       "city": "Екатеринбург",
       "title": "Продавец-кассир",
       "emp": "Пятёрочка",
@@ -2987,24 +2868,7 @@
       "remote": false,
       "noexp": true,
       "students": true,
-      "url": "https://trudvsem.ru/vacancy/card/1027700404797/5aaba874-50e8-11f1-8949-717e8ddfcd33"
-    },
-    {
-      "id": "529f6a94-50e8-11f1-a4da-93e549eeb61c",
-      "city": "Екатеринбург",
-      "title": "Продавец-кассир",
-      "emp": "Пятёрочка",
-      "salary": "50 200 — 67 800 руб./мес.",
-      "loc": "Свердловская область, г Екатеринбург",
-      "tags": [
-        "Студентам"
-      ],
-      "part": true,
-      "perm": false,
-      "remote": false,
-      "noexp": true,
-      "students": true,
-      "url": "https://trudvsem.ru/vacancy/card/1027700404797/529f6a94-50e8-11f1-a4da-93e549eeb61c"
+      "url": "https://trudvsem.ru/vacancy/card/1027700404797/e1415ba4-5bd3-11f1-a2ba-074e0929bd84"
     },
     {
       "id": "96b9d048-5d76-11f1-a733-0758b1506dc0",
@@ -3039,6 +2903,142 @@
       "noexp": true,
       "students": true,
       "url": "https://trudvsem.ru/vacancy/card/1027402893418/81262828-33fd-11f1-9360-31b295f0b520"
+    },
+    {
+      "id": "863d6e60-334c-11f1-83af-756a9c261f68",
+      "city": "Екатеринбург",
+      "title": "Продавец",
+      "emp": "ООО \"ЛУКОЙЛ-УРАЛНЕФТЕПРОДУКТ\"",
+      "salary": "36 051 руб./мес.",
+      "loc": "Свердловская область, г Екатеринбург",
+      "tags": [
+        "Студентам"
+      ],
+      "part": true,
+      "perm": false,
+      "remote": false,
+      "noexp": true,
+      "students": true,
+      "url": "https://trudvsem.ru/vacancy/card/1027402893418/863d6e60-334c-11f1-83af-756a9c261f68"
+    },
+    {
+      "id": "7695e868-49ff-11f1-8c6f-f9950f8969de",
+      "city": "Екатеринбург",
+      "title": "Продавец",
+      "emp": "ООО \"ЛУКОЙЛ-УРАЛНЕФТЕПРОДУКТ\"",
+      "salary": "36 051 руб./мес.",
+      "loc": "Свердловская область, г Первоуральск",
+      "tags": [
+        "Студентам"
+      ],
+      "part": true,
+      "perm": false,
+      "remote": false,
+      "noexp": true,
+      "students": true,
+      "url": "https://trudvsem.ru/vacancy/card/1027402893418/7695e868-49ff-11f1-8c6f-f9950f8969de"
+    },
+    {
+      "id": "cffdbd78-4aa8-11f1-accd-43d20294f9b3",
+      "city": "Екатеринбург",
+      "title": "Продавец",
+      "emp": "ООО \"ЛУКОЙЛ-УРАЛНЕФТЕПРОДУКТ\"",
+      "salary": "36 051 руб./мес.",
+      "loc": "Свердловская область, г Екатеринбург",
+      "tags": [
+        "Студентам"
+      ],
+      "part": true,
+      "perm": false,
+      "remote": false,
+      "noexp": true,
+      "students": true,
+      "url": "https://trudvsem.ru/vacancy/card/1027402893418/cffdbd78-4aa8-11f1-accd-43d20294f9b3"
+    },
+    {
+      "id": "4eddef8a-f503-11f0-a027-0dd543315e5a",
+      "city": "Екатеринбург",
+      "title": "Продавец-консультант",
+      "emp": "ООО \"КРОНА\"",
+      "salary": "40 000 — 50 000 руб./мес.",
+      "loc": "Свердловская область, г Екатеринбург",
+      "tags": [
+        "Студентам"
+      ],
+      "part": true,
+      "perm": false,
+      "remote": false,
+      "noexp": true,
+      "students": true,
+      "url": "https://trudvsem.ru/vacancy/card/1126658010643/4eddef8a-f503-11f0-a027-0dd543315e5a"
+    },
+    {
+      "id": "c85e63c8-5f44-11f1-9171-c73cd5942599",
+      "city": "Екатеринбург",
+      "title": "Продавец-кассир",
+      "emp": "ООО \"ЦЕНТР САНТЕХНИКИ\"",
+      "salary": "31 160 — 70 000 руб./мес.",
+      "loc": "Свердловская область, г Екатеринбург",
+      "tags": [
+        "Студентам"
+      ],
+      "part": false,
+      "perm": true,
+      "remote": false,
+      "noexp": true,
+      "students": true,
+      "url": "https://trudvsem.ru/vacancy/card/1072308001589/c85e63c8-5f44-11f1-9171-c73cd5942599"
+    },
+    {
+      "id": "79755514-58ba-11f1-bab0-41ec381737f7",
+      "city": "Екатеринбург",
+      "title": "Продавец-кассир",
+      "emp": "Пятёрочка",
+      "salary": "50 200 — 67 800 руб./мес.",
+      "loc": "Свердловская область, г Екатеринбург",
+      "tags": [
+        "Студентам"
+      ],
+      "part": true,
+      "perm": false,
+      "remote": false,
+      "noexp": true,
+      "students": true,
+      "url": "https://trudvsem.ru/vacancy/card/1027700404797/79755514-58ba-11f1-bab0-41ec381737f7"
+    },
+    {
+      "id": "ddbad104-64a7-11f1-b51c-edfe0b6d11c5",
+      "city": "Екатеринбург",
+      "title": "Продавец-кассир",
+      "emp": "Пятёрочка",
+      "salary": "50 200 — 67 800 руб./мес.",
+      "loc": "Свердловская область, г Екатеринбург",
+      "tags": [
+        "Студентам"
+      ],
+      "part": true,
+      "perm": false,
+      "remote": false,
+      "noexp": true,
+      "students": true,
+      "url": "https://trudvsem.ru/vacancy/card/1027700404797/ddbad104-64a7-11f1-b51c-edfe0b6d11c5"
+    },
+    {
+      "id": "220df744-63bf-11f1-98ad-ebddbd2d9713",
+      "city": "Екатеринбург",
+      "title": "Продавец-кассир",
+      "emp": "Пятёрочка",
+      "salary": "50 200 — 67 800 руб./мес.",
+      "loc": "Свердловская область, г Екатеринбург",
+      "tags": [
+        "Студентам"
+      ],
+      "part": true,
+      "perm": false,
+      "remote": false,
+      "noexp": true,
+      "students": true,
+      "url": "https://trudvsem.ru/vacancy/card/1027700404797/220df744-63bf-11f1-98ad-ebddbd2d9713"
     }
   ]
 }
