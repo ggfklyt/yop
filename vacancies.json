@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-21T17:51:43.144Z",
+  "updatedAt": "2026-06-21T21:42:46.955Z",
   "source": "trudvsem.ru",
   "vacancies": [
     {
@@ -1134,23 +1134,6 @@
       "url": "https://trudvsem.ru/vacancy/card/1027807583968/d0c23218-0811-11f1-b61c-b780d0024235"
     },
     {
-      "id": "7db5c944-6584-11f1-98c0-a9a9a5f8a21c",
-      "city": "Санкт-Петербург",
-      "title": "Врач-стоматолог детский",
-      "emp": "СПБ ГБУЗ \"ДЕТСКАЯ СТОМАТОЛОГИЧЕСКАЯ ПОЛИКЛИНИКА № 3\"",
-      "salary": "120 000 — 200 000 руб./мес.",
-      "loc": "Удаленно",
-      "tags": [
-        "Студентам"
-      ],
-      "part": true,
-      "perm": false,
-      "remote": true,
-      "noexp": true,
-      "students": true,
-      "url": "https://trudvsem.ru/vacancy/card/1027802492343/7db5c944-6584-11f1-98c0-a9a9a5f8a21c"
-    },
-    {
       "id": "2f1fa468-1d2e-11f1-8f30-01f4356002f8",
       "city": "Санкт-Петербург",
       "title": "Врач-офтальмолог",
@@ -1166,6 +1149,23 @@
       "noexp": true,
       "students": true,
       "url": "https://trudvsem.ru/vacancy/card/1079847076407/2f1fa468-1d2e-11f1-8f30-01f4356002f8"
+    },
+    {
+      "id": "7db5c944-6584-11f1-98c0-a9a9a5f8a21c",
+      "city": "Санкт-Петербург",
+      "title": "Врач-стоматолог детский",
+      "emp": "СПБ ГБУЗ \"ДЕТСКАЯ СТОМАТОЛОГИЧЕСКАЯ ПОЛИКЛИНИКА № 3\"",
+      "salary": "120 000 — 200 000 руб./мес.",
+      "loc": "Удаленно",
+      "tags": [
+        "Студентам"
+      ],
+      "part": true,
+      "perm": false,
+      "remote": true,
+      "noexp": true,
+      "students": true,
+      "url": "https://trudvsem.ru/vacancy/card/1027802492343/7db5c944-6584-11f1-98c0-a9a9a5f8a21c"
     },
     {
       "id": "ab223c10-029b-11f1-ad67-3142780bee2f",
