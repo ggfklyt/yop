@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-24T15:07:27.024Z",
+  "updatedAt": "2026-06-24T18:09:19.712Z",
   "source": "trudvsem.ru",
   "vacancies": [
     {
@@ -2127,23 +2127,6 @@
       "url": "https://trudvsem.ru/vacancy/card/1036605185319/a3126848-4906-11f1-862b-c921de52508b"
     },
     {
-      "id": "b0d7ade0-d4d6-11f0-95a5-b982dbc00f11",
-      "city": "Екатеринбург",
-      "title": "Инженер администрирования",
-      "emp": "ООО \"СКБ-ОНЛАЙН\"",
-      "salary": "50 000 — 70 000 руб./мес.",
-      "loc": "Свердловская область, г Екатеринбург",
-      "tags": [
-        "Студентам"
-      ],
-      "part": false,
-      "perm": true,
-      "remote": false,
-      "noexp": true,
-      "students": true,
-      "url": "https://trudvsem.ru/vacancy/card/1196658076185/b0d7ade0-d4d6-11f0-95a5-b982dbc00f11"
-    },
-    {
       "id": "736c08d8-5338-11f1-a357-dd844a575753",
       "city": "Екатеринбург",
       "title": "Врач-стажер (стоматология терапевтическая)",
@@ -2176,6 +2159,23 @@
       "noexp": true,
       "students": true,
       "url": "https://trudvsem.ru/vacancy/card/1026605246690/3ecb4188-4844-11f1-9a83-03f66f346c8b"
+    },
+    {
+      "id": "b0d7ade0-d4d6-11f0-95a5-b982dbc00f11",
+      "city": "Екатеринбург",
+      "title": "Инженер администрирования",
+      "emp": "ООО \"СКБ-ОНЛАЙН\"",
+      "salary": "50 000 — 70 000 руб./мес.",
+      "loc": "Свердловская область, г Екатеринбург",
+      "tags": [
+        "Студентам"
+      ],
+      "part": false,
+      "perm": true,
+      "remote": false,
+      "noexp": true,
+      "students": true,
+      "url": "https://trudvsem.ru/vacancy/card/1196658076185/b0d7ade0-d4d6-11f0-95a5-b982dbc00f11"
     },
     {
       "id": "b44d1398-606c-11f0-b4ef-d549be31d974",
