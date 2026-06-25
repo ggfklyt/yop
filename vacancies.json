@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-25T15:12:23.101Z",
+  "updatedAt": "2026-06-25T18:25:19.243Z",
   "source": "trudvsem.ru",
   "vacancies": [
     {
@@ -205,23 +205,6 @@
       "url": "https://trudvsem.ru/vacancy/card/1077763818450/719e28b8-43b8-11f1-aa71-659f9ad1813b"
     },
     {
-      "id": "e073ac85-cbf4-11ee-9331-d549be31d974",
-      "city": "Москва",
-      "title": "уборщик служебных помещений",
-      "emp": "ГКУ ЦСА ИМЕНИ Е.П. ГЛИНКИ",
-      "salary": "55 000 — 65 000 руб./мес.",
-      "loc": "Удаленно",
-      "tags": [
-        "Студентам"
-      ],
-      "part": false,
-      "perm": true,
-      "remote": true,
-      "noexp": true,
-      "students": true,
-      "url": "https://trudvsem.ru/vacancy/card/1037739518200/e073ac85-cbf4-11ee-9331-d549be31d974"
-    },
-    {
       "id": "1707c5d9-08ba-11f0-a533-cb26dff57dd7",
       "city": "Москва",
       "title": "Инженер федеральной технической поддержки автоматизированного рабочего места",
@@ -237,38 +220,21 @@
       "url": "https://trudvsem.ru/vacancy/card/1207700399356/1707c5d9-08ba-11f0-a533-cb26dff57dd7"
     },
     {
-      "id": "8b6b3285-56e2-11ee-aefd-0d972cff014f",
+      "id": "e073ac85-cbf4-11ee-9331-d549be31d974",
       "city": "Москва",
-      "title": "Инженер-проектировщик систем отопления и вентиляции 1-3 категории",
-      "emp": "ООО \"ГП-МФС\"",
-      "salary": "60 000 — 120 000 руб./мес.",
-      "loc": "г Москва, Баррикадная улица",
+      "title": "уборщик служебных помещений",
+      "emp": "ГКУ ЦСА ИМЕНИ Е.П. ГЛИНКИ",
+      "salary": "55 000 — 65 000 руб./мес.",
+      "loc": "Удаленно",
       "tags": [
         "Студентам"
       ],
       "part": false,
       "perm": true,
-      "remote": false,
+      "remote": true,
       "noexp": true,
       "students": true,
-      "url": "https://trudvsem.ru/vacancy/card/1047796934195/8b6b3285-56e2-11ee-aefd-0d972cff014f"
-    },
-    {
-      "id": "e76cefe5-5dc6-11f1-ac3e-cba5233439cc",
-      "city": "Москва",
-      "title": "Менеджер по снабжению / Менеджер отдела снабжения",
-      "emp": "ТСК",
-      "salary": "80 000 руб./мес.",
-      "loc": "г Москва, Андропова проспект",
-      "tags": [
-        "Студентам"
-      ],
-      "part": false,
-      "perm": true,
-      "remote": false,
-      "noexp": true,
-      "students": true,
-      "url": "https://trudvsem.ru/vacancy/card/1027700404797/e76cefe5-5dc6-11f1-ac3e-cba5233439cc"
+      "url": "https://trudvsem.ru/vacancy/card/1037739518200/e073ac85-cbf4-11ee-9331-d549be31d974"
     },
     {
       "id": "2e423ed8-d9a5-11f0-ac9e-d130ff98d028",
@@ -303,6 +269,40 @@
       "noexp": true,
       "students": true,
       "url": "https://trudvsem.ru/vacancy/card/1037739376223/3aad2a78-ad88-11f0-b508-cfc470d59925"
+    },
+    {
+      "id": "8b6b3285-56e2-11ee-aefd-0d972cff014f",
+      "city": "Москва",
+      "title": "Инженер-проектировщик систем отопления и вентиляции 1-3 категории",
+      "emp": "ООО \"ГП-МФС\"",
+      "salary": "60 000 — 120 000 руб./мес.",
+      "loc": "г Москва, Баррикадная улица",
+      "tags": [
+        "Студентам"
+      ],
+      "part": false,
+      "perm": true,
+      "remote": false,
+      "noexp": true,
+      "students": true,
+      "url": "https://trudvsem.ru/vacancy/card/1047796934195/8b6b3285-56e2-11ee-aefd-0d972cff014f"
+    },
+    {
+      "id": "e76cefe5-5dc6-11f1-ac3e-cba5233439cc",
+      "city": "Москва",
+      "title": "Менеджер по снабжению / Менеджер отдела снабжения",
+      "emp": "ТСК",
+      "salary": "80 000 руб./мес.",
+      "loc": "г Москва, Андропова проспект",
+      "tags": [
+        "Студентам"
+      ],
+      "part": false,
+      "perm": true,
+      "remote": false,
+      "noexp": true,
+      "students": true,
+      "url": "https://trudvsem.ru/vacancy/card/1027700404797/e76cefe5-5dc6-11f1-ac3e-cba5233439cc"
     },
     {
       "id": "832088d8-081c-11f1-93cf-9fd44cff2ded",
@@ -354,21 +354,6 @@
       "noexp": true,
       "students": true,
       "url": "https://trudvsem.ru/vacancy/card/275d0920-c7fe-11e9-be6f-037acc02728d/c351cb28-5a7f-11f1-ab98-0542b89dd3fc"
-    },
-    {
-      "id": "e3b6eb65-0814-11f1-a57f-d541999c0597",
-      "city": "Москва",
-      "title": "Инженер ПТО по строительному контролю (куратор объекта)",
-      "emp": "Прогресс Строй",
-      "salary": "от 0",
-      "loc": "г Москва, Дмитровское шоссе",
-      "tags": [],
-      "part": false,
-      "perm": true,
-      "remote": false,
-      "noexp": false,
-      "students": false,
-      "url": "https://trudvsem.ru/vacancy/card/1027700404797/e3b6eb65-0814-11f1-a57f-d541999c0597"
     },
     {
       "id": "24e15058-2cfd-11f1-a71f-0dcd003ac4b5",
@@ -435,6 +420,21 @@
       "noexp": true,
       "students": true,
       "url": "https://trudvsem.ru/vacancy/card/5067746338732/770b5d38-5f4d-11f1-aaeb-750452cc88fa"
+    },
+    {
+      "id": "e3b6eb65-0814-11f1-a57f-d541999c0597",
+      "city": "Москва",
+      "title": "Инженер ПТО по строительному контролю (куратор объекта)",
+      "emp": "Прогресс Строй",
+      "salary": "от 0",
+      "loc": "г Москва, Дмитровское шоссе",
+      "tags": [],
+      "part": false,
+      "perm": true,
+      "remote": false,
+      "noexp": false,
+      "students": false,
+      "url": "https://trudvsem.ru/vacancy/card/1027700404797/e3b6eb65-0814-11f1-a57f-d541999c0597"
     },
     {
       "id": "5f28b495-64fe-11f1-8a63-3730a5f9a5b8",
