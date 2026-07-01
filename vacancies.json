@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-01T11:33:59.918Z",
+  "updatedAt": "2026-07-01T15:11:43.087Z",
   "source": "trudvsem.ru",
   "vacancies": [
     {
@@ -1632,6 +1632,23 @@
       "url": "https://trudvsem.ru/vacancy/card/1027700404797/8637ae80-5fed-11f1-a1a8-d94d829abf3c"
     },
     {
+      "id": "45ecea78-6984-11f1-b58e-dd53c9fce633",
+      "city": "Санкт-Петербург",
+      "title": "Специалист по персоналу",
+      "emp": "АО \"ГАЗСТРОЙПРОМ\"",
+      "salary": "63 800 руб./мес.",
+      "loc": "г Санкт-Петербург, Ташкентская улица",
+      "tags": [
+        "Студентам"
+      ],
+      "part": false,
+      "perm": true,
+      "remote": false,
+      "noexp": true,
+      "students": true,
+      "url": "https://trudvsem.ru/vacancy/card/1187847178705/45ecea78-6984-11f1-b58e-dd53c9fce633"
+    },
+    {
       "id": "88e2d4f4-6bac-11f1-8a68-21da28828f6b",
       "city": "Санкт-Петербург",
       "title": "Старший клиентский менеджер (стажер)",
@@ -1715,23 +1732,6 @@
       "noexp": true,
       "students": true,
       "url": "https://trudvsem.ru/vacancy/card/1027700404797/80f7fe25-5fed-11f1-b4a8-cb523d2e9346"
-    },
-    {
-      "id": "45ecea78-6984-11f1-b58e-dd53c9fce633",
-      "city": "Санкт-Петербург",
-      "title": "Специалист по персоналу",
-      "emp": "АО \"ГАЗСТРОЙПРОМ\"",
-      "salary": "63 800 руб./мес.",
-      "loc": "г Санкт-Петербург, Ташкентская улица",
-      "tags": [
-        "Студентам"
-      ],
-      "part": false,
-      "perm": true,
-      "remote": false,
-      "noexp": true,
-      "students": true,
-      "url": "https://trudvsem.ru/vacancy/card/1187847178705/45ecea78-6984-11f1-b58e-dd53c9fce633"
     },
     {
       "id": "88869424-6afc-11f1-b4fb-b3e428880a8b",
