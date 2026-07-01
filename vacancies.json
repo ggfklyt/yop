@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-01T18:15:57.859Z",
+  "updatedAt": "2026-07-01T21:46:39.591Z",
   "source": "trudvsem.ru",
   "vacancies": [
     {
@@ -1632,6 +1632,23 @@
       "url": "https://trudvsem.ru/vacancy/card/1027700404797/8637ae80-5fed-11f1-a1a8-d94d829abf3c"
     },
     {
+      "id": "45ecea78-6984-11f1-b58e-dd53c9fce633",
+      "city": "Санкт-Петербург",
+      "title": "Специалист по персоналу",
+      "emp": "АО \"ГАЗСТРОЙПРОМ\"",
+      "salary": "63 800 руб./мес.",
+      "loc": "г Санкт-Петербург, Ташкентская улица",
+      "tags": [
+        "Студентам"
+      ],
+      "part": false,
+      "perm": true,
+      "remote": false,
+      "noexp": true,
+      "students": true,
+      "url": "https://trudvsem.ru/vacancy/card/1187847178705/45ecea78-6984-11f1-b58e-dd53c9fce633"
+    },
+    {
       "id": "88e2d4f4-6bac-11f1-8a68-21da28828f6b",
       "city": "Санкт-Петербург",
       "title": "Старший клиентский менеджер (стажер)",
@@ -1715,23 +1732,6 @@
       "noexp": true,
       "students": true,
       "url": "https://trudvsem.ru/vacancy/card/1027700404797/80f7fe25-5fed-11f1-b4a8-cb523d2e9346"
-    },
-    {
-      "id": "45ecea78-6984-11f1-b58e-dd53c9fce633",
-      "city": "Санкт-Петербург",
-      "title": "Специалист по персоналу",
-      "emp": "АО \"ГАЗСТРОЙПРОМ\"",
-      "salary": "63 800 руб./мес.",
-      "loc": "г Санкт-Петербург, Ташкентская улица",
-      "tags": [
-        "Студентам"
-      ],
-      "part": false,
-      "perm": true,
-      "remote": false,
-      "noexp": true,
-      "students": true,
-      "url": "https://trudvsem.ru/vacancy/card/1187847178705/45ecea78-6984-11f1-b58e-dd53c9fce633"
     },
     {
       "id": "88869424-6afc-11f1-b4fb-b3e428880a8b",
@@ -2104,23 +2104,6 @@
       "url": "https://trudvsem.ru/vacancy/card/1036605185319/a3126848-4906-11f1-862b-c921de52508b"
     },
     {
-      "id": "b0d7ade0-d4d6-11f0-95a5-b982dbc00f11",
-      "city": "Екатеринбург",
-      "title": "Инженер администрирования",
-      "emp": "ООО \"СКБ-ОНЛАЙН\"",
-      "salary": "50 000 — 70 000 руб./мес.",
-      "loc": "Свердловская область, г Екатеринбург",
-      "tags": [
-        "Студентам"
-      ],
-      "part": false,
-      "perm": true,
-      "remote": false,
-      "noexp": true,
-      "students": true,
-      "url": "https://trudvsem.ru/vacancy/card/1196658076185/b0d7ade0-d4d6-11f0-95a5-b982dbc00f11"
-    },
-    {
       "id": "736c08d8-5338-11f1-a357-dd844a575753",
       "city": "Екатеринбург",
       "title": "Врач-стажер (стоматология терапевтическая)",
@@ -2153,6 +2136,23 @@
       "noexp": true,
       "students": true,
       "url": "https://trudvsem.ru/vacancy/card/1026605246690/3ecb4188-4844-11f1-9a83-03f66f346c8b"
+    },
+    {
+      "id": "b0d7ade0-d4d6-11f0-95a5-b982dbc00f11",
+      "city": "Екатеринбург",
+      "title": "Инженер администрирования",
+      "emp": "ООО \"СКБ-ОНЛАЙН\"",
+      "salary": "50 000 — 70 000 руб./мес.",
+      "loc": "Свердловская область, г Екатеринбург",
+      "tags": [
+        "Студентам"
+      ],
+      "part": false,
+      "perm": true,
+      "remote": false,
+      "noexp": true,
+      "students": true,
+      "url": "https://trudvsem.ru/vacancy/card/1196658076185/b0d7ade0-d4d6-11f0-95a5-b982dbc00f11"
     },
     {
       "id": "b44d1398-606c-11f0-b4ef-d549be31d974",
