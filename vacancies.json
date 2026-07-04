@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-04T07:14:26.142Z",
+  "updatedAt": "2026-07-04T10:25:36.748Z",
   "source": "trudvsem.ru",
   "vacancies": [
     {
@@ -403,6 +403,21 @@
       "url": "https://trudvsem.ru/vacancy/card/1057746394155/24e15058-2cfd-11f1-a71f-0dcd003ac4b5"
     },
     {
+      "id": "3aa97468-c5ae-11ef-87be-cb26dff57dd7",
+      "city": "Москва",
+      "title": "Горничная",
+      "emp": "ИП ЗАВЬЯЛОВ Л. Н.",
+      "salary": "40 000 — 45 000 руб./мес.",
+      "loc": "Удаленно",
+      "tags": [],
+      "part": false,
+      "perm": true,
+      "remote": true,
+      "noexp": false,
+      "students": false,
+      "url": "https://trudvsem.ru/vacancy/card/319774600209621/3aa97468-c5ae-11ef-87be-cb26dff57dd7"
+    },
+    {
       "id": "770b5d38-5f4d-11f1-aaeb-750452cc88fa",
       "city": "Москва",
       "title": "Медицинская сестра стоматологии",
@@ -437,38 +452,6 @@
       "url": "https://trudvsem.ru/vacancy/card/1257700331767/49cf73b8-6411-11f1-bd45-5b3fedaf23dc"
     },
     {
-      "id": "3aa97468-c5ae-11ef-87be-cb26dff57dd7",
-      "city": "Москва",
-      "title": "Горничная",
-      "emp": "ИП ЗАВЬЯЛОВ Л. Н.",
-      "salary": "40 000 — 45 000 руб./мес.",
-      "loc": "Удаленно",
-      "tags": [],
-      "part": false,
-      "perm": true,
-      "remote": true,
-      "noexp": false,
-      "students": false,
-      "url": "https://trudvsem.ru/vacancy/card/319774600209621/3aa97468-c5ae-11ef-87be-cb26dff57dd7"
-    },
-    {
-      "id": "1689d0f0-324c-11f1-9b21-e9a401f18d9b",
-      "city": "Москва",
-      "title": "Рабочий зеленого хозяйства",
-      "emp": "ГБУ \"АВТОМОБИЛЬНЫЕ ДОРОГИ ЗАО\"",
-      "salary": "80 000 — 95 000 руб./мес.",
-      "loc": "Удаленно",
-      "tags": [
-        "Студентам"
-      ],
-      "part": true,
-      "perm": false,
-      "remote": true,
-      "noexp": true,
-      "students": true,
-      "url": "https://trudvsem.ru/vacancy/card/1117746772406/1689d0f0-324c-11f1-9b21-e9a401f18d9b"
-    },
-    {
       "id": "bd2a9928-5fde-11f1-a885-41d00752341b",
       "city": "Москва",
       "title": "Уборщик территории",
@@ -501,6 +484,23 @@
       "noexp": true,
       "students": true,
       "url": "https://trudvsem.ru/vacancy/card/1027700404797/5f28b495-64fe-11f1-8a63-3730a5f9a5b8"
+    },
+    {
+      "id": "1689d0f0-324c-11f1-9b21-e9a401f18d9b",
+      "city": "Москва",
+      "title": "Рабочий зеленого хозяйства",
+      "emp": "ГБУ \"АВТОМОБИЛЬНЫЕ ДОРОГИ ЗАО\"",
+      "salary": "80 000 — 95 000 руб./мес.",
+      "loc": "Удаленно",
+      "tags": [
+        "Студентам"
+      ],
+      "part": true,
+      "perm": false,
+      "remote": true,
+      "noexp": true,
+      "students": true,
+      "url": "https://trudvsem.ru/vacancy/card/1117746772406/1689d0f0-324c-11f1-9b21-e9a401f18d9b"
     },
     {
       "id": "9a8e6db0-f5d5-11f0-b1fe-f1978b6702aa",
