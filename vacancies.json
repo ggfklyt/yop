@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-09T15:33:28.889Z",
+  "updatedAt": "2026-07-09T18:08:14.785Z",
   "source": "trudvsem.ru",
   "vacancies": [
     {
@@ -671,23 +671,6 @@
       "url": "https://trudvsem.ru/vacancy/card/7226c750-02f1-11eb-8600-bfd13399602c/411e2454-7a9b-11f1-9ab6-8bbd99f06d1e"
     },
     {
-      "id": "417c22d4-7a9b-11f1-8673-45b033f36c49",
-      "city": "Москва",
-      "title": "Стажер в департаменте управления данными и бизнес-поддержки",
-      "emp": "Bayer",
-      "salary": "от 78 000 руб./мес.",
-      "loc": "г Москва, 3-я Рыбинская ул.",
-      "tags": [
-        "Студентам"
-      ],
-      "part": false,
-      "perm": true,
-      "remote": false,
-      "noexp": true,
-      "students": true,
-      "url": "https://trudvsem.ru/vacancy/card/7226c750-02f1-11eb-8600-bfd13399602c/417c22d4-7a9b-11f1-8673-45b033f36c49"
-    },
-    {
       "id": "41b55b40-7a9b-11f1-9c66-2fef8d2eaa81",
       "city": "Москва",
       "title": "Стажер в отдел поставок и клиентского сервиса СНГ",
@@ -703,6 +686,23 @@
       "noexp": true,
       "students": true,
       "url": "https://trudvsem.ru/vacancy/card/7226c750-02f1-11eb-8600-bfd13399602c/41b55b40-7a9b-11f1-9c66-2fef8d2eaa81"
+    },
+    {
+      "id": "417c22d4-7a9b-11f1-8673-45b033f36c49",
+      "city": "Москва",
+      "title": "Стажер в департаменте управления данными и бизнес-поддержки",
+      "emp": "Bayer",
+      "salary": "от 78 000 руб./мес.",
+      "loc": "г Москва, 3-я Рыбинская ул.",
+      "tags": [
+        "Студентам"
+      ],
+      "part": false,
+      "perm": true,
+      "remote": false,
+      "noexp": true,
+      "students": true,
+      "url": "https://trudvsem.ru/vacancy/card/7226c750-02f1-11eb-8600-bfd13399602c/417c22d4-7a9b-11f1-8673-45b033f36c49"
     },
     {
       "id": "3f8cfd00-7a9b-11f1-9bdd-f72ade970a8c",
