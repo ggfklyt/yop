@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-10T18:02:07.684Z",
+  "updatedAt": "2026-07-10T21:20:29.931Z",
   "source": "trudvsem.ru",
   "vacancies": [
     {
@@ -2174,23 +2174,6 @@
       "url": "https://trudvsem.ru/vacancy/card/1026605413878/b44d1398-606c-11f0-b4ef-d549be31d974"
     },
     {
-      "id": "ad8b1270-751d-11f1-8cac-592f72d140bc",
-      "city": "Екатеринбург",
-      "title": "Библиограф",
-      "emp": "УРАЛЬСКИЙ ИНСТИТУТ ГПС МЧС РОССИИ",
-      "salary": "32 000 — 35 000 руб./мес.",
-      "loc": "Удаленно",
-      "tags": [
-        "Студентам"
-      ],
-      "part": false,
-      "perm": true,
-      "remote": true,
-      "noexp": true,
-      "students": true,
-      "url": "https://trudvsem.ru/vacancy/card/1057747900143/ad8b1270-751d-11f1-8cac-592f72d140bc"
-    },
-    {
       "id": "2418f085-e04a-11ee-af44-e7d0d2cf29b1",
       "city": "Екатеринбург",
       "title": "Уборщик служебных помещений",
@@ -2206,6 +2189,23 @@
       "noexp": true,
       "students": true,
       "url": "https://trudvsem.ru/vacancy/card/1026604932860/2418f085-e04a-11ee-af44-e7d0d2cf29b1"
+    },
+    {
+      "id": "ad8b1270-751d-11f1-8cac-592f72d140bc",
+      "city": "Екатеринбург",
+      "title": "Библиограф",
+      "emp": "УРАЛЬСКИЙ ИНСТИТУТ ГПС МЧС РОССИИ",
+      "salary": "32 000 — 35 000 руб./мес.",
+      "loc": "Удаленно",
+      "tags": [
+        "Студентам"
+      ],
+      "part": false,
+      "perm": true,
+      "remote": true,
+      "noexp": true,
+      "students": true,
+      "url": "https://trudvsem.ru/vacancy/card/1057747900143/ad8b1270-751d-11f1-8cac-592f72d140bc"
     },
     {
       "id": "f0a82430-33be-11f1-adf8-bb12de7893c2",
