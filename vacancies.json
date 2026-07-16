@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-15T21:14:46.375Z",
+  "updatedAt": "2026-07-16T03:35:36.093Z",
   "source": "trudvsem.ru",
   "vacancies": [
     {
@@ -1545,23 +1545,6 @@
       "url": "https://trudvsem.ru/vacancy/card/1027810339072/c9d54ef8-7e96-11f1-af90-fdfd96230151"
     },
     {
-      "id": "b3b28cc8-7c5a-11f1-b266-6d68c0c14a7f",
-      "city": "Санкт-Петербург",
-      "title": "Врач-стажер",
-      "emp": "ГКУЗ ЛО БСМЭ",
-      "salary": "45 000 — 50 000 руб./мес.",
-      "loc": "г Санкт-Петербург, Шкапина улица",
-      "tags": [
-        "Студентам"
-      ],
-      "part": true,
-      "perm": false,
-      "remote": false,
-      "noexp": true,
-      "students": true,
-      "url": "https://trudvsem.ru/vacancy/card/1027810339072/b3b28cc8-7c5a-11f1-b266-6d68c0c14a7f"
-    },
-    {
       "id": "f791bed0-7c5e-11f1-a52c-31bad1da56d3",
       "city": "Санкт-Петербург",
       "title": "Врач-стажер",
@@ -1577,6 +1560,23 @@
       "noexp": true,
       "students": true,
       "url": "https://trudvsem.ru/vacancy/card/1027810339072/f791bed0-7c5e-11f1-a52c-31bad1da56d3"
+    },
+    {
+      "id": "b3b28cc8-7c5a-11f1-b266-6d68c0c14a7f",
+      "city": "Санкт-Петербург",
+      "title": "Врач-стажер",
+      "emp": "ГКУЗ ЛО БСМЭ",
+      "salary": "45 000 — 50 000 руб./мес.",
+      "loc": "г Санкт-Петербург, Шкапина улица",
+      "tags": [
+        "Студентам"
+      ],
+      "part": true,
+      "perm": false,
+      "remote": false,
+      "noexp": true,
+      "students": true,
+      "url": "https://trudvsem.ru/vacancy/card/1027810339072/b3b28cc8-7c5a-11f1-b266-6d68c0c14a7f"
     },
     {
       "id": "81045420-76ec-11f1-a323-9d73f5e76293",
@@ -2085,23 +2085,6 @@
       "url": "https://trudvsem.ru/vacancy/card/1196658076185/442487e8-d4d6-11f0-8987-1f09eae535df"
     },
     {
-      "id": "b0d7ade0-d4d6-11f0-95a5-b982dbc00f11",
-      "city": "Екатеринбург",
-      "title": "Инженер администрирования",
-      "emp": "ООО \"СКБ-ОНЛАЙН\"",
-      "salary": "50 000 — 70 000 руб./мес.",
-      "loc": "Свердловская область, г Екатеринбург",
-      "tags": [
-        "Студентам"
-      ],
-      "part": false,
-      "perm": true,
-      "remote": false,
-      "noexp": true,
-      "students": true,
-      "url": "https://trudvsem.ru/vacancy/card/1196658076185/b0d7ade0-d4d6-11f0-95a5-b982dbc00f11"
-    },
-    {
       "id": "a3126848-4906-11f1-862b-c921de52508b",
       "city": "Екатеринбург",
       "title": "Врач-стоматолог-хирург",
@@ -2117,6 +2100,23 @@
       "noexp": true,
       "students": true,
       "url": "https://trudvsem.ru/vacancy/card/1036605185319/a3126848-4906-11f1-862b-c921de52508b"
+    },
+    {
+      "id": "b0d7ade0-d4d6-11f0-95a5-b982dbc00f11",
+      "city": "Екатеринбург",
+      "title": "Инженер администрирования",
+      "emp": "ООО \"СКБ-ОНЛАЙН\"",
+      "salary": "50 000 — 70 000 руб./мес.",
+      "loc": "Свердловская область, г Екатеринбург",
+      "tags": [
+        "Студентам"
+      ],
+      "part": false,
+      "perm": true,
+      "remote": false,
+      "noexp": true,
+      "students": true,
+      "url": "https://trudvsem.ru/vacancy/card/1196658076185/b0d7ade0-d4d6-11f0-95a5-b982dbc00f11"
     },
     {
       "id": "3ecb4188-4844-11f1-9a83-03f66f346c8b",
@@ -2168,11 +2168,11 @@
       "url": "https://trudvsem.ru/vacancy/card/1196658076185/ca8c2f48-d4d6-11f0-b730-d758e7e1c196"
     },
     {
-      "id": "ad8b1270-751d-11f1-8cac-592f72d140bc",
+      "id": "b44d1398-606c-11f0-b4ef-d549be31d974",
       "city": "Екатеринбург",
-      "title": "Библиограф",
-      "emp": "УРАЛЬСКИЙ ИНСТИТУТ ГПС МЧС РОССИИ",
-      "salary": "32 000 — 35 000 руб./мес.",
+      "title": "Врач-эндоскопист",
+      "emp": "ГБУЗ СО \"ЦГКБ № 1\"",
+      "salary": "80 000 руб./мес.",
       "loc": "Удаленно",
       "tags": [
         "Студентам"
@@ -2182,7 +2182,7 @@
       "remote": true,
       "noexp": true,
       "students": true,
-      "url": "https://trudvsem.ru/vacancy/card/1057747900143/ad8b1270-751d-11f1-8cac-592f72d140bc"
+      "url": "https://trudvsem.ru/vacancy/card/1026605413878/b44d1398-606c-11f0-b4ef-d549be31d974"
     },
     {
       "id": "2418f085-e04a-11ee-af44-e7d0d2cf29b1",
@@ -2202,11 +2202,11 @@
       "url": "https://trudvsem.ru/vacancy/card/1026604932860/2418f085-e04a-11ee-af44-e7d0d2cf29b1"
     },
     {
-      "id": "b44d1398-606c-11f0-b4ef-d549be31d974",
+      "id": "ad8b1270-751d-11f1-8cac-592f72d140bc",
       "city": "Екатеринбург",
-      "title": "Врач-эндоскопист",
-      "emp": "ГБУЗ СО \"ЦГКБ № 1\"",
-      "salary": "80 000 руб./мес.",
+      "title": "Библиограф",
+      "emp": "УРАЛЬСКИЙ ИНСТИТУТ ГПС МЧС РОССИИ",
+      "salary": "32 000 — 35 000 руб./мес.",
       "loc": "Удаленно",
       "tags": [
         "Студентам"
@@ -2216,7 +2216,7 @@
       "remote": true,
       "noexp": true,
       "students": true,
-      "url": "https://trudvsem.ru/vacancy/card/1026605413878/b44d1398-606c-11f0-b4ef-d549be31d974"
+      "url": "https://trudvsem.ru/vacancy/card/1057747900143/ad8b1270-751d-11f1-8cac-592f72d140bc"
     },
     {
       "id": "f0a82430-33be-11f1-adf8-bb12de7893c2",
