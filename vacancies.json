@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-17T06:27:29.784Z",
+  "updatedAt": "2026-07-17T10:12:09.619Z",
   "source": "trudvsem.ru",
   "vacancies": [
     {
@@ -1292,21 +1292,6 @@
       "url": "https://trudvsem.ru/vacancy/card/1037851004620/41f8ccfd-37ec-11f1-889f-09fcf7d79153"
     },
     {
-      "id": "623879b0-364f-11f0-b5e5-25abf1fceba2",
-      "city": "Санкт-Петербург",
-      "title": "Ведущий архитектор",
-      "emp": "Артстройпроект",
-      "salary": "90 000 руб./мес.",
-      "loc": "г Санкт-Петербург, Обводного канала набережная",
-      "tags": [],
-      "part": false,
-      "perm": true,
-      "remote": false,
-      "noexp": false,
-      "students": false,
-      "url": "https://trudvsem.ru/vacancy/card/1027700404797/623879b0-364f-11f0-b5e5-25abf1fceba2"
-    },
-    {
       "id": "1f3e24c5-4731-11ee-a404-df76e8ab7d11",
       "city": "Санкт-Петербург",
       "title": "Санитарка",
@@ -1322,6 +1307,21 @@
       "noexp": true,
       "students": true,
       "url": "https://trudvsem.ru/vacancy/card/1027806078255/1f3e24c5-4731-11ee-a404-df76e8ab7d11"
+    },
+    {
+      "id": "623879b0-364f-11f0-b5e5-25abf1fceba2",
+      "city": "Санкт-Петербург",
+      "title": "Ведущий архитектор",
+      "emp": "Артстройпроект",
+      "salary": "90 000 руб./мес.",
+      "loc": "г Санкт-Петербург, Обводного канала набережная",
+      "tags": [],
+      "part": false,
+      "perm": true,
+      "remote": false,
+      "noexp": false,
+      "students": false,
+      "url": "https://trudvsem.ru/vacancy/card/1027700404797/623879b0-364f-11f0-b5e5-25abf1fceba2"
     },
     {
       "id": "4b46a2e8-1ecf-11f1-99d5-5f9d65125ca1",
@@ -1543,23 +1543,6 @@
       "url": "https://trudvsem.ru/vacancy/card/1027810339072/c9d54ef8-7e96-11f1-af90-fdfd96230151"
     },
     {
-      "id": "f791bed0-7c5e-11f1-a52c-31bad1da56d3",
-      "city": "Санкт-Петербург",
-      "title": "Врач-стажер",
-      "emp": "ГКУЗ ЛО БСМЭ",
-      "salary": "45 000 — 50 000 руб./мес.",
-      "loc": "г Санкт-Петербург, Шкапина улица",
-      "tags": [
-        "Студентам"
-      ],
-      "part": true,
-      "perm": false,
-      "remote": false,
-      "noexp": true,
-      "students": true,
-      "url": "https://trudvsem.ru/vacancy/card/1027810339072/f791bed0-7c5e-11f1-a52c-31bad1da56d3"
-    },
-    {
       "id": "b3b28cc8-7c5a-11f1-b266-6d68c0c14a7f",
       "city": "Санкт-Петербург",
       "title": "Врач-стажер",
@@ -1575,6 +1558,23 @@
       "noexp": true,
       "students": true,
       "url": "https://trudvsem.ru/vacancy/card/1027810339072/b3b28cc8-7c5a-11f1-b266-6d68c0c14a7f"
+    },
+    {
+      "id": "f791bed0-7c5e-11f1-a52c-31bad1da56d3",
+      "city": "Санкт-Петербург",
+      "title": "Врач-стажер",
+      "emp": "ГКУЗ ЛО БСМЭ",
+      "salary": "45 000 — 50 000 руб./мес.",
+      "loc": "г Санкт-Петербург, Шкапина улица",
+      "tags": [
+        "Студентам"
+      ],
+      "part": true,
+      "perm": false,
+      "remote": false,
+      "noexp": true,
+      "students": true,
+      "url": "https://trudvsem.ru/vacancy/card/1027810339072/f791bed0-7c5e-11f1-a52c-31bad1da56d3"
     },
     {
       "id": "81045420-76ec-11f1-a323-9d73f5e76293",
@@ -1628,6 +1628,23 @@
       "url": "https://trudvsem.ru/vacancy/card/1027739039240/1cd6d178-0b22-11f1-8187-d30096f1aeab"
     },
     {
+      "id": "45ecea78-6984-11f1-b58e-dd53c9fce633",
+      "city": "Санкт-Петербург",
+      "title": "Специалист по персоналу",
+      "emp": "АО \"ГАЗСТРОЙПРОМ\"",
+      "salary": "63 800 руб./мес.",
+      "loc": "г Санкт-Петербург, Ташкентская улица",
+      "tags": [
+        "Студентам"
+      ],
+      "part": false,
+      "perm": true,
+      "remote": false,
+      "noexp": true,
+      "students": true,
+      "url": "https://trudvsem.ru/vacancy/card/1187847178705/45ecea78-6984-11f1-b58e-dd53c9fce633"
+    },
+    {
       "id": "b4813465-76e9-11f1-962f-05afb02d3492",
       "city": "Санкт-Петербург",
       "title": "Стажёр, Преподаватель-организатор ОБЗР",
@@ -1677,23 +1694,6 @@
       "noexp": true,
       "students": true,
       "url": "https://trudvsem.ru/vacancy/card/5147746474134/88e2d4f4-6bac-11f1-8a68-21da28828f6b"
-    },
-    {
-      "id": "45ecea78-6984-11f1-b58e-dd53c9fce633",
-      "city": "Санкт-Петербург",
-      "title": "Специалист по персоналу",
-      "emp": "АО \"ГАЗСТРОЙПРОМ\"",
-      "salary": "63 800 руб./мес.",
-      "loc": "г Санкт-Петербург, Ташкентская улица",
-      "tags": [
-        "Студентам"
-      ],
-      "part": false,
-      "perm": true,
-      "remote": false,
-      "noexp": true,
-      "students": true,
-      "url": "https://trudvsem.ru/vacancy/card/1187847178705/45ecea78-6984-11f1-b58e-dd53c9fce633"
     },
     {
       "id": "0f502e25-7b02-11f1-9c66-2fef8d2eaa81",
@@ -1985,29 +1985,12 @@
       "url": "https://trudvsem.ru/vacancy/card/1027700404797/3de6a485-d59e-11f0-bcf8-234333cdfef6"
     },
     {
-      "id": "77345a19-5f2e-11f1-aaeb-750452cc88fa",
+      "id": "88f85184-3e35-11f1-82f7-870f82653847",
       "city": "Санкт-Петербург",
-      "title": "курьер по доставке банковских продуктов",
-      "emp": "ИП ЯКУНИНА С. А.",
-      "salary": "110 000 — 150 000 руб./мес.",
-      "loc": "г Санкт-Петербург, Литейный проспект",
-      "tags": [
-        "Студентам"
-      ],
-      "part": true,
-      "perm": false,
-      "remote": false,
-      "noexp": true,
-      "students": true,
-      "url": "https://trudvsem.ru/vacancy/card/324632700033689/77345a19-5f2e-11f1-aaeb-750452cc88fa"
-    },
-    {
-      "id": "32bf1d28-3866-11ef-b0ef-29eee561bb17",
-      "city": "Санкт-Петербург",
-      "title": "Курьер (доставка банковских карт)",
-      "emp": "ИП ЖОХОВ С. А.",
-      "salary": "80 000 — 150 000 руб./мес.",
-      "loc": "г Санкт-Петербург, Ленинский проспект",
+      "title": "Водитель-курьер на личном автомобиле (Красногвардейский р-н.)",
+      "emp": "СДЭК",
+      "salary": "100 000 — 140 000 руб./мес.",
+      "loc": "г Санкт-Петербург, Индустриальный проспект",
       "tags": [
         "Студентам"
       ],
@@ -2016,7 +1999,24 @@
       "remote": false,
       "noexp": true,
       "students": true,
-      "url": "https://trudvsem.ru/vacancy/card/309507417600085/32bf1d28-3866-11ef-b0ef-29eee561bb17"
+      "url": "https://trudvsem.ru/vacancy/card/1027700404797/88f85184-3e35-11f1-82f7-870f82653847"
+    },
+    {
+      "id": "2aa299e4-3e6e-11f1-9251-1135a354cddf",
+      "city": "Санкт-Петербург",
+      "title": "Водитель-курьер на личном автомобиле (Красногвардейский р-н.)",
+      "emp": "СДЭК",
+      "salary": "100 000 — 140 000 руб./мес.",
+      "loc": "г Санкт-Петербург, Индустриальный проспект",
+      "tags": [
+        "Студентам"
+      ],
+      "part": false,
+      "perm": true,
+      "remote": false,
+      "noexp": true,
+      "students": true,
+      "url": "https://trudvsem.ru/vacancy/card/1027700404797/2aa299e4-3e6e-11f1-9251-1135a354cddf"
     },
     {
       "id": "cc56b991-c207-11ef-80a8-25abf1fceba2",
