@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-19T06:42:28.033Z",
+  "updatedAt": "2026-07-19T10:00:42.158Z",
   "source": "trudvsem.ru",
   "vacancies": [
     {
@@ -935,6 +935,23 @@
       "url": "https://trudvsem.ru/vacancy/card/1027700404797/6e5a6df5-7c64-11f1-978e-ddf0b3af7a30"
     },
     {
+      "id": "92fb15f5-6c9d-11f1-8a68-21da28828f6b",
+      "city": "Москва",
+      "title": "Медицинская сестра стерилизационного отделения (стажер)",
+      "emp": "В темпе жизни",
+      "salary": "32 300 — 35 500 руб./мес.",
+      "loc": "г Москва, Правды улица",
+      "tags": [
+        "Студентам"
+      ],
+      "part": true,
+      "perm": false,
+      "remote": false,
+      "noexp": true,
+      "students": true,
+      "url": "https://trudvsem.ru/vacancy/card/1027700404797/92fb15f5-6c9d-11f1-8a68-21da28828f6b"
+    },
+    {
       "id": "7e32c4c8-34d9-11f1-a643-f344d815f06b",
       "city": "Москва",
       "title": "Стажер-исследователь (в области физики и астрономии)",
@@ -967,23 +984,6 @@
       "noexp": true,
       "students": true,
       "url": "https://trudvsem.ru/vacancy/card/1027700404797/c427ebd0-7e9a-11f1-ae4a-9b267074a499"
-    },
-    {
-      "id": "92fb15f5-6c9d-11f1-8a68-21da28828f6b",
-      "city": "Москва",
-      "title": "Медицинская сестра стерилизационного отделения (стажер)",
-      "emp": "В темпе жизни",
-      "salary": "32 300 — 35 500 руб./мес.",
-      "loc": "г Москва, Правды улица",
-      "tags": [
-        "Студентам"
-      ],
-      "part": true,
-      "perm": false,
-      "remote": false,
-      "noexp": true,
-      "students": true,
-      "url": "https://trudvsem.ru/vacancy/card/1027700404797/92fb15f5-6c9d-11f1-8a68-21da28828f6b"
     },
     {
       "id": "21fe661b-79e8-11f1-be4b-5ffb8b1668a9",
