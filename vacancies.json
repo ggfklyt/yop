@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-19T13:52:00.378Z",
+  "updatedAt": "2026-07-19T17:15:20.488Z",
   "source": "trudvsem.ru",
   "vacancies": [
     {
@@ -886,6 +886,23 @@
       "url": "https://trudvsem.ru/vacancy/card/1027809169585/bac64548-78f6-11f1-a41f-c3af44321512"
     },
     {
+      "id": "a008b435-7839-11f1-9845-4f4c7f6e1997",
+      "city": "Москва",
+      "title": "Стажер-Декоратор подарочной упаковки",
+      "emp": "Wrap Me",
+      "salary": "30 000 — 50 000 руб./мес.",
+      "loc": "г Москва, Земляной Вал улица",
+      "tags": [
+        "Студентам"
+      ],
+      "part": false,
+      "perm": true,
+      "remote": false,
+      "noexp": true,
+      "students": true,
+      "url": "https://trudvsem.ru/vacancy/card/1027700404797/a008b435-7839-11f1-9845-4f4c7f6e1997"
+    },
+    {
       "id": "bd3422e8-62fb-11f1-875d-37533a592c34",
       "city": "Москва",
       "title": "Младший стажер цифровой лаборатории",
@@ -933,23 +950,6 @@
       "noexp": true,
       "students": true,
       "url": "https://trudvsem.ru/vacancy/card/1027700404797/6e5a6df5-7c64-11f1-978e-ddf0b3af7a30"
-    },
-    {
-      "id": "a008b435-7839-11f1-9845-4f4c7f6e1997",
-      "city": "Москва",
-      "title": "Стажер-Декоратор подарочной упаковки",
-      "emp": "Wrap Me",
-      "salary": "30 000 — 50 000 руб./мес.",
-      "loc": "г Москва, Земляной Вал улица",
-      "tags": [
-        "Студентам"
-      ],
-      "part": false,
-      "perm": true,
-      "remote": false,
-      "noexp": true,
-      "students": true,
-      "url": "https://trudvsem.ru/vacancy/card/1027700404797/a008b435-7839-11f1-9845-4f4c7f6e1997"
     },
     {
       "id": "7e32c4c8-34d9-11f1-a643-f344d815f06b",
