@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-20T14:32:46.670Z",
+  "updatedAt": "2026-07-20T18:18:23.696Z",
   "source": "trudvsem.ru",
   "vacancies": [
     {
@@ -2283,6 +2283,23 @@
       "url": "https://trudvsem.ru/vacancy/card/1036604783665/7c02b298-4475-11f1-8fcb-23fe0b827b56"
     },
     {
+      "id": "d91db1a8-b849-11ef-84f2-1f3aadc834d0",
+      "city": "Екатеринбург",
+      "title": "врач- стажер",
+      "emp": "ГАУЗ СО \"СОКП ГОСПИТАЛЬ ДЛЯ ВЕТЕРАНОВ ВОЙН\"",
+      "salary": "40 000 — 45 000 руб./мес.",
+      "loc": "Свердловская область, г Екатеринбург",
+      "tags": [
+        "Студентам"
+      ],
+      "part": false,
+      "perm": true,
+      "remote": false,
+      "noexp": true,
+      "students": true,
+      "url": "https://trudvsem.ru/vacancy/card/1026602341006/d91db1a8-b849-11ef-84f2-1f3aadc834d0"
+    },
+    {
       "id": "a0623f7a-df26-11f0-a9f1-77001f7c3eff",
       "city": "Екатеринбург",
       "title": "Курьер",
@@ -3010,23 +3027,6 @@
       "noexp": true,
       "students": true,
       "url": "https://trudvsem.ru/vacancy/card/1027700404797/27880f50-75d8-11f1-a1a2-dd33f993661a"
-    },
-    {
-      "id": "1b59bef4-753c-11f1-8395-15cee1476fb2",
-      "city": "Екатеринбург",
-      "title": "Продавец-кассир",
-      "emp": "Пятёрочка",
-      "salary": "50 200 — 67 800 руб./мес.",
-      "loc": "Свердловская область, г Екатеринбург",
-      "tags": [
-        "Студентам"
-      ],
-      "part": true,
-      "perm": false,
-      "remote": false,
-      "noexp": true,
-      "students": true,
-      "url": "https://trudvsem.ru/vacancy/card/1027700404797/1b59bef4-753c-11f1-8395-15cee1476fb2"
     }
   ]
 }
