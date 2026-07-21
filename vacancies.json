@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-20T21:31:56.533Z",
+  "updatedAt": "2026-07-21T03:43:46.043Z",
   "source": "trudvsem.ru",
   "vacancies": [
     {
@@ -463,23 +463,6 @@
       "url": "https://trudvsem.ru/vacancy/card/275d0920-c7fe-11e9-be6f-037acc02728d/c351cb28-5a7f-11f1-ab98-0542b89dd3fc"
     },
     {
-      "id": "24e15058-2cfd-11f1-a71f-0dcd003ac4b5",
-      "city": "Москва",
-      "title": "Главный специалист службы поддержки рабочих станций",
-      "emp": "АО \"ОЭК\"",
-      "salary": "99 000 — 130 000 руб./мес.",
-      "loc": "Удаленно",
-      "tags": [
-        "Студентам"
-      ],
-      "part": false,
-      "perm": true,
-      "remote": true,
-      "noexp": true,
-      "students": true,
-      "url": "https://trudvsem.ru/vacancy/card/1057746394155/24e15058-2cfd-11f1-a71f-0dcd003ac4b5"
-    },
-    {
       "id": "770b5d38-5f4d-11f1-aaeb-750452cc88fa",
       "city": "Москва",
       "title": "Медицинская сестра стоматологии",
@@ -495,6 +478,23 @@
       "noexp": true,
       "students": true,
       "url": "https://trudvsem.ru/vacancy/card/5067746338732/770b5d38-5f4d-11f1-aaeb-750452cc88fa"
+    },
+    {
+      "id": "24e15058-2cfd-11f1-a71f-0dcd003ac4b5",
+      "city": "Москва",
+      "title": "Главный специалист службы поддержки рабочих станций",
+      "emp": "АО \"ОЭК\"",
+      "salary": "99 000 — 130 000 руб./мес.",
+      "loc": "Удаленно",
+      "tags": [
+        "Студентам"
+      ],
+      "part": false,
+      "perm": true,
+      "remote": true,
+      "noexp": true,
+      "students": true,
+      "url": "https://trudvsem.ru/vacancy/card/1057746394155/24e15058-2cfd-11f1-a71f-0dcd003ac4b5"
     },
     {
       "id": "3f890564-7a9b-11f1-bed4-19c1c2271f71",
