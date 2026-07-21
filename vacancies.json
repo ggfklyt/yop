@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-21T03:43:46.043Z",
+  "updatedAt": "2026-07-21T06:42:23.802Z",
   "source": "trudvsem.ru",
   "vacancies": [
     {
@@ -1139,23 +1139,6 @@
       "url": "https://trudvsem.ru/vacancy/card/1027809259730/e65834d8-4f7e-11f1-a502-f17e9abd8b94"
     },
     {
-      "id": "5b12d000-0d8f-11f1-ae78-117abf1c97c6",
-      "city": "Санкт-Петербург",
-      "title": "Пескоструйщик (ТЧ2-33)",
-      "emp": "ГУП \"ПЕТЕРБУРГСКИЙ МЕТРОПОЛИТЕН\"",
-      "salary": "55 175 руб./мес.",
-      "loc": "Удаленно",
-      "tags": [
-        "Студентам"
-      ],
-      "part": false,
-      "perm": true,
-      "remote": true,
-      "noexp": true,
-      "students": true,
-      "url": "https://trudvsem.ru/vacancy/card/1027810223407/5b12d000-0d8f-11f1-ae78-117abf1c97c6"
-    },
-    {
       "id": "7fcb89e0-e35b-11f0-9979-c1b4d62e7e9b",
       "city": "Санкт-Петербург",
       "title": "Уборщик территорий",
@@ -1171,6 +1154,23 @@
       "noexp": true,
       "students": true,
       "url": "https://trudvsem.ru/vacancy/card/1027808758185/7fcb89e0-e35b-11f0-9979-c1b4d62e7e9b"
+    },
+    {
+      "id": "5b12d000-0d8f-11f1-ae78-117abf1c97c6",
+      "city": "Санкт-Петербург",
+      "title": "Пескоструйщик (ТЧ2-33)",
+      "emp": "ГУП \"ПЕТЕРБУРГСКИЙ МЕТРОПОЛИТЕН\"",
+      "salary": "55 175 руб./мес.",
+      "loc": "Удаленно",
+      "tags": [
+        "Студентам"
+      ],
+      "part": false,
+      "perm": true,
+      "remote": true,
+      "noexp": true,
+      "students": true,
+      "url": "https://trudvsem.ru/vacancy/card/1027810223407/5b12d000-0d8f-11f1-ae78-117abf1c97c6"
     },
     {
       "id": "7db5c944-6584-11f1-98c0-a9a9a5f8a21c",
@@ -1292,6 +1292,21 @@
       "url": "https://trudvsem.ru/vacancy/card/1037851004620/41f8ccfd-37ec-11f1-889f-09fcf7d79153"
     },
     {
+      "id": "623879b0-364f-11f0-b5e5-25abf1fceba2",
+      "city": "Санкт-Петербург",
+      "title": "Ведущий архитектор",
+      "emp": "Артстройпроект",
+      "salary": "90 000 руб./мес.",
+      "loc": "г Санкт-Петербург, Обводного канала набережная",
+      "tags": [],
+      "part": false,
+      "perm": true,
+      "remote": false,
+      "noexp": false,
+      "students": false,
+      "url": "https://trudvsem.ru/vacancy/card/1027700404797/623879b0-364f-11f0-b5e5-25abf1fceba2"
+    },
+    {
       "id": "1f3e24c5-4731-11ee-a404-df76e8ab7d11",
       "city": "Санкт-Петербург",
       "title": "Санитарка",
@@ -1307,21 +1322,6 @@
       "noexp": true,
       "students": true,
       "url": "https://trudvsem.ru/vacancy/card/1027806078255/1f3e24c5-4731-11ee-a404-df76e8ab7d11"
-    },
-    {
-      "id": "623879b0-364f-11f0-b5e5-25abf1fceba2",
-      "city": "Санкт-Петербург",
-      "title": "Ведущий архитектор",
-      "emp": "Артстройпроект",
-      "salary": "90 000 руб./мес.",
-      "loc": "г Санкт-Петербург, Обводного канала набережная",
-      "tags": [],
-      "part": false,
-      "perm": true,
-      "remote": false,
-      "noexp": false,
-      "students": false,
-      "url": "https://trudvsem.ru/vacancy/card/1027700404797/623879b0-364f-11f0-b5e5-25abf1fceba2"
     },
     {
       "id": "4b46a2e8-1ecf-11f1-99d5-5f9d65125ca1",
@@ -1407,6 +1407,21 @@
       "url": "https://trudvsem.ru/vacancy/card/1227800110801/e5e515b8-68ae-11f1-a95e-05a97d193f2d"
     },
     {
+      "id": "8a2bc578-4f6d-11f1-9112-eb3b2f9245e3",
+      "city": "Санкт-Петербург",
+      "title": "Специалист",
+      "emp": "АО \"ИНФОТЕКС\"",
+      "salary": "140 000 — 150 000 руб./мес.",
+      "loc": "Удаленно",
+      "tags": [],
+      "part": false,
+      "perm": true,
+      "remote": true,
+      "noexp": false,
+      "students": false,
+      "url": "https://trudvsem.ru/vacancy/card/1027739185066/8a2bc578-4f6d-11f1-9112-eb3b2f9245e3"
+    },
+    {
       "id": "757b96f8-df10-11f0-8267-f1182d825d16",
       "city": "Санкт-Петербург",
       "title": "уборщик служебных помещений",
@@ -1422,21 +1437,6 @@
       "noexp": true,
       "students": true,
       "url": "https://trudvsem.ru/vacancy/card/1027810282125/757b96f8-df10-11f0-8267-f1182d825d16"
-    },
-    {
-      "id": "8a2bc578-4f6d-11f1-9112-eb3b2f9245e3",
-      "city": "Санкт-Петербург",
-      "title": "Специалист",
-      "emp": "АО \"ИНФОТЕКС\"",
-      "salary": "140 000 — 150 000 руб./мес.",
-      "loc": "Удаленно",
-      "tags": [],
-      "part": false,
-      "perm": true,
-      "remote": true,
-      "noexp": false,
-      "students": false,
-      "url": "https://trudvsem.ru/vacancy/card/1027739185066/8a2bc578-4f6d-11f1-9112-eb3b2f9245e3"
     },
     {
       "id": "872217a8-236a-11f1-abba-8590e6dd5069",
@@ -2300,23 +2300,6 @@
       "url": "https://trudvsem.ru/vacancy/card/1036604783665/7c02b298-4475-11f1-8fcb-23fe0b827b56"
     },
     {
-      "id": "d91db1a8-b849-11ef-84f2-1f3aadc834d0",
-      "city": "Екатеринбург",
-      "title": "врач- стажер",
-      "emp": "ГАУЗ СО \"СОКП ГОСПИТАЛЬ ДЛЯ ВЕТЕРАНОВ ВОЙН\"",
-      "salary": "40 000 — 45 000 руб./мес.",
-      "loc": "Свердловская область, г Екатеринбург",
-      "tags": [
-        "Студентам"
-      ],
-      "part": false,
-      "perm": true,
-      "remote": false,
-      "noexp": true,
-      "students": true,
-      "url": "https://trudvsem.ru/vacancy/card/1026602341006/d91db1a8-b849-11ef-84f2-1f3aadc834d0"
-    },
-    {
       "id": "a0623f7a-df26-11f0-a9f1-77001f7c3eff",
       "city": "Екатеринбург",
       "title": "Курьер",
@@ -3027,6 +3010,23 @@
       "noexp": true,
       "students": true,
       "url": "https://trudvsem.ru/vacancy/card/1027700404797/4b730c64-753a-11f1-8339-b9f89d94176d"
+    },
+    {
+      "id": "27880f50-75d8-11f1-a1a2-dd33f993661a",
+      "city": "Екатеринбург",
+      "title": "Продавец-кассир",
+      "emp": "Пятёрочка",
+      "salary": "50 200 — 67 800 руб./мес.",
+      "loc": "Свердловская область, г Екатеринбург",
+      "tags": [
+        "Студентам"
+      ],
+      "part": true,
+      "perm": false,
+      "remote": false,
+      "noexp": true,
+      "students": true,
+      "url": "https://trudvsem.ru/vacancy/card/1027700404797/27880f50-75d8-11f1-a1a2-dd33f993661a"
     }
   ]
 }
