@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-24T06:40:32.551Z",
+  "updatedAt": "2026-07-24T10:29:37.547Z",
   "source": "trudvsem.ru",
   "vacancies": [
     {
@@ -2147,21 +2147,6 @@
       "url": "https://trudvsem.ru/vacancy/card/1036605185319/a3126848-4906-11f1-862b-c921de52508b"
     },
     {
-      "id": "ca8c2f48-d4d6-11f0-b730-d758e7e1c196",
-      "city": "Екатеринбург",
-      "title": "Аналитик-технолог",
-      "emp": "ООО \"СКБ-ОНЛАЙН\"",
-      "salary": "50 000 — 80 000 руб./мес.",
-      "loc": "Свердловская область, г Екатеринбург",
-      "tags": [],
-      "part": false,
-      "perm": true,
-      "remote": false,
-      "noexp": false,
-      "students": false,
-      "url": "https://trudvsem.ru/vacancy/card/1196658076185/ca8c2f48-d4d6-11f0-b730-d758e7e1c196"
-    },
-    {
       "id": "8d012c88-21ce-11f1-a132-1bfbe2e9d3d5",
       "city": "Екатеринбург",
       "title": "Резчик эластомеров и резины",
@@ -2211,6 +2196,21 @@
       "noexp": true,
       "students": true,
       "url": "https://trudvsem.ru/vacancy/card/1026605246690/736c08d8-5338-11f1-a357-dd844a575753"
+    },
+    {
+      "id": "ca8c2f48-d4d6-11f0-b730-d758e7e1c196",
+      "city": "Екатеринбург",
+      "title": "Аналитик-технолог",
+      "emp": "ООО \"СКБ-ОНЛАЙН\"",
+      "salary": "50 000 — 80 000 руб./мес.",
+      "loc": "Свердловская область, г Екатеринбург",
+      "tags": [],
+      "part": false,
+      "perm": true,
+      "remote": false,
+      "noexp": false,
+      "students": false,
+      "url": "https://trudvsem.ru/vacancy/card/1196658076185/ca8c2f48-d4d6-11f0-b730-d758e7e1c196"
     },
     {
       "id": "b44d1398-606c-11f0-b4ef-d549be31d974",
