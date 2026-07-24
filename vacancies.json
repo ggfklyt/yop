@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-23T21:21:06.991Z",
+  "updatedAt": "2026-07-24T03:42:54.405Z",
   "source": "trudvsem.ru",
   "vacancies": [
     {
@@ -1947,6 +1947,40 @@
       "url": "https://trudvsem.ru/vacancy/card/1027700404797/3de6a485-d59e-11f0-bcf8-234333cdfef6"
     },
     {
+      "id": "88f85184-3e35-11f1-82f7-870f82653847",
+      "city": "Санкт-Петербург",
+      "title": "Водитель-курьер на личном автомобиле (Красногвардейский р-н.)",
+      "emp": "СДЭК",
+      "salary": "100 000 — 140 000 руб./мес.",
+      "loc": "г Санкт-Петербург, Индустриальный проспект",
+      "tags": [
+        "Студентам"
+      ],
+      "part": false,
+      "perm": true,
+      "remote": false,
+      "noexp": true,
+      "students": true,
+      "url": "https://trudvsem.ru/vacancy/card/1027700404797/88f85184-3e35-11f1-82f7-870f82653847"
+    },
+    {
+      "id": "2aa299e4-3e6e-11f1-9251-1135a354cddf",
+      "city": "Санкт-Петербург",
+      "title": "Водитель-курьер на личном автомобиле (Красногвардейский р-н.)",
+      "emp": "СДЭК",
+      "salary": "100 000 — 140 000 руб./мес.",
+      "loc": "г Санкт-Петербург, Индустриальный проспект",
+      "tags": [
+        "Студентам"
+      ],
+      "part": false,
+      "perm": true,
+      "remote": false,
+      "noexp": true,
+      "students": true,
+      "url": "https://trudvsem.ru/vacancy/card/1027700404797/2aa299e4-3e6e-11f1-9251-1135a354cddf"
+    },
+    {
       "id": "77345a19-5f2e-11f1-aaeb-750452cc88fa",
       "city": "Санкт-Петербург",
       "title": "курьер по доставке банковских продуктов",
@@ -1979,40 +2013,6 @@
       "noexp": true,
       "students": true,
       "url": "https://trudvsem.ru/vacancy/card/1027700404797/90b4eca4-09db-11f1-aa5a-f5d2094e6888"
-    },
-    {
-      "id": "90752480-09db-11f1-91fa-e1b8e480845b",
-      "city": "Санкт-Петербург",
-      "title": "Водитель-курьер на своем автомобиле",
-      "emp": "КУПЕР",
-      "salary": "356 000 руб./мес.",
-      "loc": "г Санкт-Петербург, Лиговский проспект",
-      "tags": [
-        "Студентам"
-      ],
-      "part": true,
-      "perm": false,
-      "remote": false,
-      "noexp": true,
-      "students": true,
-      "url": "https://trudvsem.ru/vacancy/card/1027700404797/90752480-09db-11f1-91fa-e1b8e480845b"
-    },
-    {
-      "id": "a40d7420-fc25-11f0-a71d-f91014319011",
-      "city": "Санкт-Петербург",
-      "title": "Водитель-курьер на личном автомобиле",
-      "emp": "КУПЕР",
-      "salary": "356 000 руб./мес.",
-      "loc": "г Санкт-Петербург, Заневский парк",
-      "tags": [
-        "Студентам"
-      ],
-      "part": true,
-      "perm": false,
-      "remote": false,
-      "noexp": true,
-      "students": true,
-      "url": "https://trudvsem.ru/vacancy/card/1027700404797/a40d7420-fc25-11f0-a71d-f91014319011"
     },
     {
       "id": "cc56b991-c207-11ef-80a8-25abf1fceba2",
