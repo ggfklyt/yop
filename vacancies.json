@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-24T21:21:07.748Z",
+  "updatedAt": "2026-07-25T03:37:14.745Z",
   "source": "trudvsem.ru",
   "vacancies": [
     {
@@ -1109,6 +1109,21 @@
       "url": "https://trudvsem.ru/vacancy/card/1037843040784/ef038389-85d1-11f1-be40-f90a836cd168"
     },
     {
+      "id": "d9303e78-8696-11f1-be40-f90a836cd168",
+      "city": "Санкт-Петербург",
+      "title": "Инженер ИТ-инфраструктуры и корпоративной сети",
+      "emp": "ООО \"ГАРАЖ 8\"",
+      "salary": "250 000 — 280 000 руб./мес.",
+      "loc": "Удаленно",
+      "tags": [],
+      "part": false,
+      "perm": true,
+      "remote": true,
+      "noexp": false,
+      "students": false,
+      "url": "https://trudvsem.ru/vacancy/card/1177847099594/d9303e78-8696-11f1-be40-f90a836cd168"
+    },
+    {
       "id": "8032e138-a373-11f0-a18c-bdc82d0d5dcd",
       "city": "Санкт-Петербург",
       "title": "Мойщик-уборщик подвижного состава  ТМ №7",
@@ -1158,21 +1173,6 @@
       "noexp": true,
       "students": true,
       "url": "https://trudvsem.ru/vacancy/card/1027809259730/e65834d8-4f7e-11f1-a502-f17e9abd8b94"
-    },
-    {
-      "id": "d9303e78-8696-11f1-be40-f90a836cd168",
-      "city": "Санкт-Петербург",
-      "title": "Инженер ИТ-инфраструктуры и корпоративной сети",
-      "emp": "ООО \"ГАРАЖ 8\"",
-      "salary": "250 000 — 280 000 руб./мес.",
-      "loc": "Удаленно",
-      "tags": [],
-      "part": false,
-      "perm": true,
-      "remote": true,
-      "noexp": false,
-      "students": false,
-      "url": "https://trudvsem.ru/vacancy/card/1177847099594/d9303e78-8696-11f1-be40-f90a836cd168"
     },
     {
       "id": "7fcb89e0-e35b-11f0-9979-c1b4d62e7e9b",
@@ -1377,19 +1377,21 @@
       "url": "https://trudvsem.ru/vacancy/card/1037832015891/3550b030-3193-11f1-b21a-1b28a4f1f176"
     },
     {
-      "id": "623879b0-364f-11f0-b5e5-25abf1fceba2",
+      "id": "4b46a2e8-1ecf-11f1-99d5-5f9d65125ca1",
       "city": "Санкт-Петербург",
-      "title": "Ведущий архитектор",
-      "emp": "Артстройпроект",
-      "salary": "90 000 руб./мес.",
-      "loc": "г Санкт-Петербург, Обводного канала набережная",
-      "tags": [],
+      "title": "Уборщик производственных и служебных помещений",
+      "emp": "ФГБОУ ВО СЗГМУ ИМ. И.И. МЕЧНИКОВА МИНЗДРАВА РОССИИ",
+      "salary": "35 000 руб./мес.",
+      "loc": "Удаленно",
+      "tags": [
+        "Студентам"
+      ],
       "part": false,
       "perm": true,
-      "remote": false,
-      "noexp": false,
-      "students": false,
-      "url": "https://trudvsem.ru/vacancy/card/1027700404797/623879b0-364f-11f0-b5e5-25abf1fceba2"
+      "remote": true,
+      "noexp": true,
+      "students": true,
+      "url": "https://trudvsem.ru/vacancy/card/1117847434990/4b46a2e8-1ecf-11f1-99d5-5f9d65125ca1"
     },
     {
       "id": "18d75978-7c45-11f1-bfbc-a1d6d860641d",
@@ -1409,21 +1411,19 @@
       "url": "https://trudvsem.ru/vacancy/card/1027700251314/18d75978-7c45-11f1-bfbc-a1d6d860641d"
     },
     {
-      "id": "4b46a2e8-1ecf-11f1-99d5-5f9d65125ca1",
+      "id": "623879b0-364f-11f0-b5e5-25abf1fceba2",
       "city": "Санкт-Петербург",
-      "title": "Уборщик производственных и служебных помещений",
-      "emp": "ФГБОУ ВО СЗГМУ ИМ. И.И. МЕЧНИКОВА МИНЗДРАВА РОССИИ",
-      "salary": "35 000 руб./мес.",
-      "loc": "Удаленно",
-      "tags": [
-        "Студентам"
-      ],
+      "title": "Ведущий архитектор",
+      "emp": "Артстройпроект",
+      "salary": "90 000 руб./мес.",
+      "loc": "г Санкт-Петербург, Обводного канала набережная",
+      "tags": [],
       "part": false,
       "perm": true,
-      "remote": true,
-      "noexp": true,
-      "students": true,
-      "url": "https://trudvsem.ru/vacancy/card/1117847434990/4b46a2e8-1ecf-11f1-99d5-5f9d65125ca1"
+      "remote": false,
+      "noexp": false,
+      "students": false,
+      "url": "https://trudvsem.ru/vacancy/card/1027700404797/623879b0-364f-11f0-b5e5-25abf1fceba2"
     },
     {
       "id": "3a4b2cf8-f6c9-11f0-a027-0dd543315e5a",
@@ -1951,6 +1951,40 @@
       "url": "https://trudvsem.ru/vacancy/card/1027700404797/3de6a485-d59e-11f0-bcf8-234333cdfef6"
     },
     {
+      "id": "88f85184-3e35-11f1-82f7-870f82653847",
+      "city": "Санкт-Петербург",
+      "title": "Водитель-курьер на личном автомобиле (Красногвардейский р-н.)",
+      "emp": "СДЭК",
+      "salary": "100 000 — 140 000 руб./мес.",
+      "loc": "г Санкт-Петербург, Индустриальный проспект",
+      "tags": [
+        "Студентам"
+      ],
+      "part": false,
+      "perm": true,
+      "remote": false,
+      "noexp": true,
+      "students": true,
+      "url": "https://trudvsem.ru/vacancy/card/1027700404797/88f85184-3e35-11f1-82f7-870f82653847"
+    },
+    {
+      "id": "2aa299e4-3e6e-11f1-9251-1135a354cddf",
+      "city": "Санкт-Петербург",
+      "title": "Водитель-курьер на личном автомобиле (Красногвардейский р-н.)",
+      "emp": "СДЭК",
+      "salary": "100 000 — 140 000 руб./мес.",
+      "loc": "г Санкт-Петербург, Индустриальный проспект",
+      "tags": [
+        "Студентам"
+      ],
+      "part": false,
+      "perm": true,
+      "remote": false,
+      "noexp": true,
+      "students": true,
+      "url": "https://trudvsem.ru/vacancy/card/1027700404797/2aa299e4-3e6e-11f1-9251-1135a354cddf"
+    },
+    {
       "id": "90b4eca4-09db-11f1-aa5a-f5d2094e6888",
       "city": "Санкт-Петербург",
       "title": "Водитель-курьер (любой график)",
@@ -1983,40 +2017,6 @@
       "noexp": true,
       "students": true,
       "url": "https://trudvsem.ru/vacancy/card/1027700404797/90752480-09db-11f1-91fa-e1b8e480845b"
-    },
-    {
-      "id": "a40d7420-fc25-11f0-a71d-f91014319011",
-      "city": "Санкт-Петербург",
-      "title": "Водитель-курьер на личном автомобиле",
-      "emp": "КУПЕР",
-      "salary": "356 000 руб./мес.",
-      "loc": "г Санкт-Петербург, Заневский парк",
-      "tags": [
-        "Студентам"
-      ],
-      "part": true,
-      "perm": false,
-      "remote": false,
-      "noexp": true,
-      "students": true,
-      "url": "https://trudvsem.ru/vacancy/card/1027700404797/a40d7420-fc25-11f0-a71d-f91014319011"
-    },
-    {
-      "id": "77345a19-5f2e-11f1-aaeb-750452cc88fa",
-      "city": "Санкт-Петербург",
-      "title": "курьер по доставке банковских продуктов",
-      "emp": "ИП ЯКУНИНА С. А.",
-      "salary": "110 000 — 150 000 руб./мес.",
-      "loc": "г Санкт-Петербург, Литейный проспект",
-      "tags": [
-        "Студентам"
-      ],
-      "part": true,
-      "perm": false,
-      "remote": false,
-      "noexp": true,
-      "students": true,
-      "url": "https://trudvsem.ru/vacancy/card/324632700033689/77345a19-5f2e-11f1-aaeb-750452cc88fa"
     },
     {
       "id": "cc56b991-c207-11ef-80a8-25abf1fceba2",
