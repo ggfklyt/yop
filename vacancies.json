@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-25T03:37:14.745Z",
+  "updatedAt": "2026-07-25T06:28:48.298Z",
   "source": "trudvsem.ru",
   "vacancies": [
     {
@@ -633,23 +633,6 @@
       "url": "https://trudvsem.ru/vacancy/card/7226c750-02f1-11eb-8600-bfd13399602c/d4e16fc4-8730-11f1-90b1-1b732b3ea3cb"
     },
     {
-      "id": "40ecb414-7a9b-11f1-9bdd-f72ade970a8c",
-      "city": "Москва",
-      "title": "Стажер в отдел маркетинга (Консьюмер Хелс)",
-      "emp": "Bayer",
-      "salary": "от 78 000 руб./мес.",
-      "loc": "г Москва, 3-я Рыбинская ул.",
-      "tags": [
-        "Студентам"
-      ],
-      "part": false,
-      "perm": true,
-      "remote": false,
-      "noexp": true,
-      "students": true,
-      "url": "https://trudvsem.ru/vacancy/card/7226c750-02f1-11eb-8600-bfd13399602c/40ecb414-7a9b-11f1-9bdd-f72ade970a8c"
-    },
-    {
       "id": "00581e91-4eb8-11f1-9112-eb3b2f9245e3",
       "city": "Москва",
       "title": "Стажёр в команду разработки",
@@ -665,6 +648,23 @@
       "noexp": true,
       "students": true,
       "url": "https://trudvsem.ru/vacancy/card/1157746363994/00581e91-4eb8-11f1-9112-eb3b2f9245e3"
+    },
+    {
+      "id": "40ecb414-7a9b-11f1-9bdd-f72ade970a8c",
+      "city": "Москва",
+      "title": "Стажер в отдел маркетинга (Консьюмер Хелс)",
+      "emp": "Bayer",
+      "salary": "от 78 000 руб./мес.",
+      "loc": "г Москва, 3-я Рыбинская ул.",
+      "tags": [
+        "Студентам"
+      ],
+      "part": false,
+      "perm": true,
+      "remote": false,
+      "noexp": true,
+      "students": true,
+      "url": "https://trudvsem.ru/vacancy/card/7226c750-02f1-11eb-8600-bfd13399602c/40ecb414-7a9b-11f1-9bdd-f72ade970a8c"
     },
     {
       "id": "411e2454-7a9b-11f1-9ab6-8bbd99f06d1e",
@@ -1109,21 +1109,6 @@
       "url": "https://trudvsem.ru/vacancy/card/1037843040784/ef038389-85d1-11f1-be40-f90a836cd168"
     },
     {
-      "id": "d9303e78-8696-11f1-be40-f90a836cd168",
-      "city": "Санкт-Петербург",
-      "title": "Инженер ИТ-инфраструктуры и корпоративной сети",
-      "emp": "ООО \"ГАРАЖ 8\"",
-      "salary": "250 000 — 280 000 руб./мес.",
-      "loc": "Удаленно",
-      "tags": [],
-      "part": false,
-      "perm": true,
-      "remote": true,
-      "noexp": false,
-      "students": false,
-      "url": "https://trudvsem.ru/vacancy/card/1177847099594/d9303e78-8696-11f1-be40-f90a836cd168"
-    },
-    {
       "id": "8032e138-a373-11f0-a18c-bdc82d0d5dcd",
       "city": "Санкт-Петербург",
       "title": "Мойщик-уборщик подвижного состава  ТМ №7",
@@ -1173,6 +1158,21 @@
       "noexp": true,
       "students": true,
       "url": "https://trudvsem.ru/vacancy/card/1027809259730/e65834d8-4f7e-11f1-a502-f17e9abd8b94"
+    },
+    {
+      "id": "d9303e78-8696-11f1-be40-f90a836cd168",
+      "city": "Санкт-Петербург",
+      "title": "Инженер ИТ-инфраструктуры и корпоративной сети",
+      "emp": "ООО \"ГАРАЖ 8\"",
+      "salary": "250 000 — 280 000 руб./мес.",
+      "loc": "Удаленно",
+      "tags": [],
+      "part": false,
+      "perm": true,
+      "remote": true,
+      "noexp": false,
+      "students": false,
+      "url": "https://trudvsem.ru/vacancy/card/1177847099594/d9303e78-8696-11f1-be40-f90a836cd168"
     },
     {
       "id": "7fcb89e0-e35b-11f0-9979-c1b4d62e7e9b",
@@ -1377,21 +1377,19 @@
       "url": "https://trudvsem.ru/vacancy/card/1037832015891/3550b030-3193-11f1-b21a-1b28a4f1f176"
     },
     {
-      "id": "4b46a2e8-1ecf-11f1-99d5-5f9d65125ca1",
+      "id": "623879b0-364f-11f0-b5e5-25abf1fceba2",
       "city": "Санкт-Петербург",
-      "title": "Уборщик производственных и служебных помещений",
-      "emp": "ФГБОУ ВО СЗГМУ ИМ. И.И. МЕЧНИКОВА МИНЗДРАВА РОССИИ",
-      "salary": "35 000 руб./мес.",
-      "loc": "Удаленно",
-      "tags": [
-        "Студентам"
-      ],
+      "title": "Ведущий архитектор",
+      "emp": "Артстройпроект",
+      "salary": "90 000 руб./мес.",
+      "loc": "г Санкт-Петербург, Обводного канала набережная",
+      "tags": [],
       "part": false,
       "perm": true,
-      "remote": true,
-      "noexp": true,
-      "students": true,
-      "url": "https://trudvsem.ru/vacancy/card/1117847434990/4b46a2e8-1ecf-11f1-99d5-5f9d65125ca1"
+      "remote": false,
+      "noexp": false,
+      "students": false,
+      "url": "https://trudvsem.ru/vacancy/card/1027700404797/623879b0-364f-11f0-b5e5-25abf1fceba2"
     },
     {
       "id": "18d75978-7c45-11f1-bfbc-a1d6d860641d",
@@ -1411,19 +1409,21 @@
       "url": "https://trudvsem.ru/vacancy/card/1027700251314/18d75978-7c45-11f1-bfbc-a1d6d860641d"
     },
     {
-      "id": "623879b0-364f-11f0-b5e5-25abf1fceba2",
+      "id": "4b46a2e8-1ecf-11f1-99d5-5f9d65125ca1",
       "city": "Санкт-Петербург",
-      "title": "Ведущий архитектор",
-      "emp": "Артстройпроект",
-      "salary": "90 000 руб./мес.",
-      "loc": "г Санкт-Петербург, Обводного канала набережная",
-      "tags": [],
+      "title": "Уборщик производственных и служебных помещений",
+      "emp": "ФГБОУ ВО СЗГМУ ИМ. И.И. МЕЧНИКОВА МИНЗДРАВА РОССИИ",
+      "salary": "35 000 руб./мес.",
+      "loc": "Удаленно",
+      "tags": [
+        "Студентам"
+      ],
       "part": false,
       "perm": true,
-      "remote": false,
-      "noexp": false,
-      "students": false,
-      "url": "https://trudvsem.ru/vacancy/card/1027700404797/623879b0-364f-11f0-b5e5-25abf1fceba2"
+      "remote": true,
+      "noexp": true,
+      "students": true,
+      "url": "https://trudvsem.ru/vacancy/card/1117847434990/4b46a2e8-1ecf-11f1-99d5-5f9d65125ca1"
     },
     {
       "id": "3a4b2cf8-f6c9-11f0-a027-0dd543315e5a",
