@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-25T21:08:19.663Z",
+  "updatedAt": "2026-07-26T03:54:16.880Z",
   "source": "trudvsem.ru",
   "vacancies": [
     {
@@ -1951,40 +1951,6 @@
       "url": "https://trudvsem.ru/vacancy/card/1027700404797/3de6a485-d59e-11f0-bcf8-234333cdfef6"
     },
     {
-      "id": "88f85184-3e35-11f1-82f7-870f82653847",
-      "city": "Санкт-Петербург",
-      "title": "Водитель-курьер на личном автомобиле (Красногвардейский р-н.)",
-      "emp": "СДЭК",
-      "salary": "100 000 — 140 000 руб./мес.",
-      "loc": "г Санкт-Петербург, Индустриальный проспект",
-      "tags": [
-        "Студентам"
-      ],
-      "part": false,
-      "perm": true,
-      "remote": false,
-      "noexp": true,
-      "students": true,
-      "url": "https://trudvsem.ru/vacancy/card/1027700404797/88f85184-3e35-11f1-82f7-870f82653847"
-    },
-    {
-      "id": "2aa299e4-3e6e-11f1-9251-1135a354cddf",
-      "city": "Санкт-Петербург",
-      "title": "Водитель-курьер на личном автомобиле (Красногвардейский р-н.)",
-      "emp": "СДЭК",
-      "salary": "100 000 — 140 000 руб./мес.",
-      "loc": "г Санкт-Петербург, Индустриальный проспект",
-      "tags": [
-        "Студентам"
-      ],
-      "part": false,
-      "perm": true,
-      "remote": false,
-      "noexp": true,
-      "students": true,
-      "url": "https://trudvsem.ru/vacancy/card/1027700404797/2aa299e4-3e6e-11f1-9251-1135a354cddf"
-    },
-    {
       "id": "90b4eca4-09db-11f1-aa5a-f5d2094e6888",
       "city": "Санкт-Петербург",
       "title": "Водитель-курьер (любой график)",
@@ -2017,6 +1983,40 @@
       "noexp": true,
       "students": true,
       "url": "https://trudvsem.ru/vacancy/card/1027700404797/90752480-09db-11f1-91fa-e1b8e480845b"
+    },
+    {
+      "id": "a40d7420-fc25-11f0-a71d-f91014319011",
+      "city": "Санкт-Петербург",
+      "title": "Водитель-курьер на личном автомобиле",
+      "emp": "КУПЕР",
+      "salary": "411 000 руб./мес.",
+      "loc": "г Санкт-Петербург, Заневский парк",
+      "tags": [
+        "Студентам"
+      ],
+      "part": true,
+      "perm": false,
+      "remote": false,
+      "noexp": true,
+      "students": true,
+      "url": "https://trudvsem.ru/vacancy/card/1027700404797/a40d7420-fc25-11f0-a71d-f91014319011"
+    },
+    {
+      "id": "77345a19-5f2e-11f1-aaeb-750452cc88fa",
+      "city": "Санкт-Петербург",
+      "title": "курьер по доставке банковских продуктов",
+      "emp": "ИП ЯКУНИНА С. А.",
+      "salary": "110 000 — 150 000 руб./мес.",
+      "loc": "г Санкт-Петербург, Литейный проспект",
+      "tags": [
+        "Студентам"
+      ],
+      "part": true,
+      "perm": false,
+      "remote": false,
+      "noexp": true,
+      "students": true,
+      "url": "https://trudvsem.ru/vacancy/card/324632700033689/77345a19-5f2e-11f1-aaeb-750452cc88fa"
     },
     {
       "id": "cc56b991-c207-11ef-80a8-25abf1fceba2",
