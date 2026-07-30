@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-29T21:14:13.876Z",
+  "updatedAt": "2026-07-30T03:30:38.544Z",
   "source": "trudvsem.ru",
   "vacancies": [
     {
@@ -1360,21 +1360,6 @@
       "url": "https://trudvsem.ru/vacancy/card/1037851004620/41f8ccfd-37ec-11f1-889f-09fcf7d79153"
     },
     {
-      "id": "623879b0-364f-11f0-b5e5-25abf1fceba2",
-      "city": "Санкт-Петербург",
-      "title": "Ведущий архитектор",
-      "emp": "Артстройпроект",
-      "salary": "90 000 руб./мес.",
-      "loc": "г Санкт-Петербург, Обводного канала набережная",
-      "tags": [],
-      "part": false,
-      "perm": true,
-      "remote": false,
-      "noexp": false,
-      "students": false,
-      "url": "https://trudvsem.ru/vacancy/card/1027700404797/623879b0-364f-11f0-b5e5-25abf1fceba2"
-    },
-    {
       "id": "1f3e24c5-4731-11ee-a404-df76e8ab7d11",
       "city": "Санкт-Петербург",
       "title": "Санитарка",
@@ -1439,6 +1424,21 @@
       "noexp": true,
       "students": true,
       "url": "https://trudvsem.ru/vacancy/card/1027700251314/18d75978-7c45-11f1-bfbc-a1d6d860641d"
+    },
+    {
+      "id": "623879b0-364f-11f0-b5e5-25abf1fceba2",
+      "city": "Санкт-Петербург",
+      "title": "Ведущий архитектор",
+      "emp": "Артстройпроект",
+      "salary": "90 000 руб./мес.",
+      "loc": "г Санкт-Петербург, Обводного канала набережная",
+      "tags": [],
+      "part": false,
+      "perm": true,
+      "remote": false,
+      "noexp": false,
+      "students": false,
+      "url": "https://trudvsem.ru/vacancy/card/1027700404797/623879b0-364f-11f0-b5e5-25abf1fceba2"
     },
     {
       "id": "3a4b2cf8-f6c9-11f0-a027-0dd543315e5a",
@@ -2351,23 +2351,6 @@
       "url": "https://trudvsem.ru/vacancy/card/1036602641800/e79ce638-59b8-11f1-aaac-b338cf4ead7d"
     },
     {
-      "id": "19f7a2b8-59b8-11f1-aec1-4103e3ed6448",
-      "city": "Екатеринбург",
-      "title": "врач-стажер (неврология)",
-      "emp": "ГАУЗ СО \"ДГКБ № 11\"",
-      "salary": "85 000 руб./мес.",
-      "loc": "Свердловская область, г Екатеринбург",
-      "tags": [
-        "Студентам"
-      ],
-      "part": false,
-      "perm": true,
-      "remote": false,
-      "noexp": true,
-      "students": true,
-      "url": "https://trudvsem.ru/vacancy/card/1036602641800/19f7a2b8-59b8-11f1-aec1-4103e3ed6448"
-    },
-    {
       "id": "a4196eb0-606c-11f0-bc81-cb26dff57dd7",
       "city": "Екатеринбург",
       "title": "Врач-стажер (терапия)",
@@ -2383,6 +2366,23 @@
       "noexp": true,
       "students": true,
       "url": "https://trudvsem.ru/vacancy/card/1026605413878/a4196eb0-606c-11f0-bc81-cb26dff57dd7"
+    },
+    {
+      "id": "19f7a2b8-59b8-11f1-aec1-4103e3ed6448",
+      "city": "Екатеринбург",
+      "title": "врач-стажер (неврология)",
+      "emp": "ГАУЗ СО \"ДГКБ № 11\"",
+      "salary": "85 000 руб./мес.",
+      "loc": "Свердловская область, г Екатеринбург",
+      "tags": [
+        "Студентам"
+      ],
+      "part": false,
+      "perm": true,
+      "remote": false,
+      "noexp": true,
+      "students": true,
+      "url": "https://trudvsem.ru/vacancy/card/1036602641800/19f7a2b8-59b8-11f1-aec1-4103e3ed6448"
     },
     {
       "id": "cadd91c0-57de-11f0-8e74-e7d0d2cf29b1",
