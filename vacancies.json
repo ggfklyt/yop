@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-31T03:52:22.918Z",
+  "updatedAt": "2026-07-31T07:18:21.933Z",
   "source": "trudvsem.ru",
   "vacancies": [
     {
@@ -363,23 +363,6 @@
       "url": "https://trudvsem.ru/vacancy/card/1037739518200/e073ac85-cbf4-11ee-9331-d549be31d974"
     },
     {
-      "id": "8b6b3285-56e2-11ee-aefd-0d972cff014f",
-      "city": "Москва",
-      "title": "Инженер-проектировщик систем отопления и вентиляции 1-3 категории",
-      "emp": "ООО \"ГП-МФС\"",
-      "salary": "60 000 — 120 000 руб./мес.",
-      "loc": "г Москва, Баррикадная улица",
-      "tags": [
-        "Студентам"
-      ],
-      "part": false,
-      "perm": true,
-      "remote": false,
-      "noexp": true,
-      "students": true,
-      "url": "https://trudvsem.ru/vacancy/card/1047796934195/8b6b3285-56e2-11ee-aefd-0d972cff014f"
-    },
-    {
       "id": "dca1d5b8-9dcf-11f0-b214-efc3bb2eec02",
       "city": "Москва",
       "title": "Облицовщик-плиточник",
@@ -395,6 +378,23 @@
       "noexp": true,
       "students": true,
       "url": "https://trudvsem.ru/vacancy/card/1227700114465/dca1d5b8-9dcf-11f0-b214-efc3bb2eec02"
+    },
+    {
+      "id": "8b6b3285-56e2-11ee-aefd-0d972cff014f",
+      "city": "Москва",
+      "title": "Инженер-проектировщик систем отопления и вентиляции 1-3 категории",
+      "emp": "ООО \"ГП-МФС\"",
+      "salary": "60 000 — 120 000 руб./мес.",
+      "loc": "г Москва, Баррикадная улица",
+      "tags": [
+        "Студентам"
+      ],
+      "part": false,
+      "perm": true,
+      "remote": false,
+      "noexp": true,
+      "students": true,
+      "url": "https://trudvsem.ru/vacancy/card/1047796934195/8b6b3285-56e2-11ee-aefd-0d972cff014f"
     },
     {
       "id": "832088d8-081c-11f1-93cf-9fd44cff2ded",
@@ -599,23 +599,6 @@
       "url": "https://trudvsem.ru/vacancy/card/7226c750-02f1-11eb-8600-bfd13399602c/d4e16fc4-8730-11f1-90b1-1b732b3ea3cb"
     },
     {
-      "id": "00581e91-4eb8-11f1-9112-eb3b2f9245e3",
-      "city": "Москва",
-      "title": "Стажёр в команду разработки",
-      "emp": "АО \"РОССИЙСКИЙ ЭКСПОРТНЫЙ ЦЕНТР\"",
-      "salary": "50 000 руб./мес.",
-      "loc": "г Москва, Краснопресненская набережная",
-      "tags": [
-        "Студентам"
-      ],
-      "part": false,
-      "perm": true,
-      "remote": false,
-      "noexp": true,
-      "students": true,
-      "url": "https://trudvsem.ru/vacancy/card/1157746363994/00581e91-4eb8-11f1-9112-eb3b2f9245e3"
-    },
-    {
       "id": "40ecb414-7a9b-11f1-9bdd-f72ade970a8c",
       "city": "Москва",
       "title": "Стажер в отдел маркетинга (Консьюмер Хелс)",
@@ -631,6 +614,23 @@
       "noexp": true,
       "students": true,
       "url": "https://trudvsem.ru/vacancy/card/7226c750-02f1-11eb-8600-bfd13399602c/40ecb414-7a9b-11f1-9bdd-f72ade970a8c"
+    },
+    {
+      "id": "00581e91-4eb8-11f1-9112-eb3b2f9245e3",
+      "city": "Москва",
+      "title": "Стажёр в команду разработки",
+      "emp": "АО \"РОССИЙСКИЙ ЭКСПОРТНЫЙ ЦЕНТР\"",
+      "salary": "50 000 руб./мес.",
+      "loc": "г Москва, Краснопресненская набережная",
+      "tags": [
+        "Студентам"
+      ],
+      "part": false,
+      "perm": true,
+      "remote": false,
+      "noexp": true,
+      "students": true,
+      "url": "https://trudvsem.ru/vacancy/card/1157746363994/00581e91-4eb8-11f1-9112-eb3b2f9245e3"
     },
     {
       "id": "411e2454-7a9b-11f1-9ab6-8bbd99f06d1e",
@@ -905,6 +905,23 @@
       "url": "https://trudvsem.ru/vacancy/card/1027700404797/af3df545-8776-11f1-a748-a3189673aa4b"
     },
     {
+      "id": "6524fb14-8664-11f1-ac8d-4fe6b4df619d",
+      "city": "Москва",
+      "title": "Стажёр в отдел корпоративных финансов (Corporate Finance Intern)",
+      "emp": "ITMS Россия",
+      "salary": "75 000 руб./мес.",
+      "loc": "Удаленно",
+      "tags": [
+        "Студентам"
+      ],
+      "part": false,
+      "perm": true,
+      "remote": true,
+      "noexp": true,
+      "students": true,
+      "url": "https://trudvsem.ru/vacancy/card/7226c750-02f1-11eb-8600-bfd13399602c/6524fb14-8664-11f1-ac8d-4fe6b4df619d"
+    },
+    {
       "id": "04e787b5-89be-11f1-a748-a3189673aa4b",
       "city": "Москва",
       "title": "Стажер Специалист клиентского сервиса",
@@ -988,23 +1005,6 @@
       "noexp": true,
       "students": true,
       "url": "https://trudvsem.ru/vacancy/card/1027700404797/0c1b4780-7f58-11f1-83a4-8d33fe8e5fca"
-    },
-    {
-      "id": "6e5a6df5-7c64-11f1-978e-ddf0b3af7a30",
-      "city": "Москва",
-      "title": "Стажер Администратор торгового пространства",
-      "emp": "Rendez-Vous",
-      "salary": "50 000 руб./мес.",
-      "loc": "г Москва, Манежная площадь",
-      "tags": [
-        "Студентам"
-      ],
-      "part": false,
-      "perm": true,
-      "remote": false,
-      "noexp": true,
-      "students": true,
-      "url": "https://trudvsem.ru/vacancy/card/1027700404797/6e5a6df5-7c64-11f1-978e-ddf0b3af7a30"
     },
     {
       "id": "86a5db84-52b9-11f1-a670-d9077f57b045",
