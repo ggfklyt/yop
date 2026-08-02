@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-02T06:47:57.829Z",
+  "updatedAt": "2026-08-02T10:10:04.842Z",
   "source": "trudvsem.ru",
   "vacancies": [
     {
@@ -839,23 +839,6 @@
       "url": "https://trudvsem.ru/vacancy/card/1027700404797/af3df545-8776-11f1-a748-a3189673aa4b"
     },
     {
-      "id": "6524fb14-8664-11f1-ac8d-4fe6b4df619d",
-      "city": "Москва",
-      "title": "Стажёр в отдел корпоративных финансов (Corporate Finance Intern)",
-      "emp": "ITMS Россия",
-      "salary": "75 000 руб./мес.",
-      "loc": "Удаленно",
-      "tags": [
-        "Студентам"
-      ],
-      "part": false,
-      "perm": true,
-      "remote": true,
-      "noexp": true,
-      "students": true,
-      "url": "https://trudvsem.ru/vacancy/card/7226c750-02f1-11eb-8600-bfd13399602c/6524fb14-8664-11f1-ac8d-4fe6b4df619d"
-    },
-    {
       "id": "54f374c5-8cd5-11f1-aa13-97ba396e27fa",
       "city": "Москва",
       "title": "Стажер Администратор торгового пространства",
@@ -990,6 +973,23 @@
       "noexp": true,
       "students": true,
       "url": "https://trudvsem.ru/vacancy/card/1027700404797/6e5a6df5-7c64-11f1-978e-ddf0b3af7a30"
+    },
+    {
+      "id": "6524fb14-8664-11f1-ac8d-4fe6b4df619d",
+      "city": "Москва",
+      "title": "Стажёр в отдел корпоративных финансов (Corporate Finance Intern)",
+      "emp": "ITMS Россия",
+      "salary": "75 000 руб./мес.",
+      "loc": "Удаленно",
+      "tags": [
+        "Студентам"
+      ],
+      "part": false,
+      "perm": true,
+      "remote": true,
+      "noexp": true,
+      "students": true,
+      "url": "https://trudvsem.ru/vacancy/card/7226c750-02f1-11eb-8600-bfd13399602c/6524fb14-8664-11f1-ac8d-4fe6b4df619d"
     },
     {
       "id": "7d2afe85-8c09-11f1-b1a8-a9fbb973f36f",
