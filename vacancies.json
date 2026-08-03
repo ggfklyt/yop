@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-02T21:12:52.651Z",
+  "updatedAt": "2026-08-03T03:56:22.601Z",
   "source": "trudvsem.ru",
   "vacancies": [
     {
@@ -669,23 +669,6 @@
       "url": "https://trudvsem.ru/vacancy/card/7226c750-02f1-11eb-8600-bfd13399602c/418b6514-7a9b-11f1-83a1-9990255add98"
     },
     {
-      "id": "c7a23c94-8cdf-11f1-9269-c190bf1026ce",
-      "city": "Москва",
-      "title": "Стажер Сбер (управление финансов дочерних компаний)",
-      "emp": "Сбербанк России, ПАО",
-      "salary": "от 60 000 руб./мес.",
-      "loc": "г Москва, Центральный федеральный округ",
-      "tags": [
-        "Студентам"
-      ],
-      "part": false,
-      "perm": true,
-      "remote": false,
-      "noexp": true,
-      "students": true,
-      "url": "https://trudvsem.ru/vacancy/card/5147746474134/c7a23c94-8cdf-11f1-9269-c190bf1026ce"
-    },
-    {
       "id": "5887e114-867d-11f1-b402-35992f93cad1",
       "city": "Москва",
       "title": "Шлифовщик (стажер)",
@@ -769,6 +752,23 @@
       "noexp": true,
       "students": true,
       "url": "https://trudvsem.ru/vacancy/card/1027700404797/f629dda5-7aee-11f1-9bdd-f72ade970a8c"
+    },
+    {
+      "id": "c7a23c94-8cdf-11f1-9269-c190bf1026ce",
+      "city": "Москва",
+      "title": "Стажер Сбер (управление финансов дочерних компаний)",
+      "emp": "Сбербанк России, ПАО",
+      "salary": "от 60 000 руб./мес.",
+      "loc": "г Москва, Центральный федеральный округ",
+      "tags": [
+        "Студентам"
+      ],
+      "part": false,
+      "perm": true,
+      "remote": false,
+      "noexp": true,
+      "students": true,
+      "url": "https://trudvsem.ru/vacancy/card/5147746474134/c7a23c94-8cdf-11f1-9269-c190bf1026ce"
     },
     {
       "id": "bac64548-78f6-11f1-a41f-c3af44321512",
@@ -1377,21 +1377,6 @@
       "url": "https://trudvsem.ru/vacancy/card/1027700251314/18d75978-7c45-11f1-bfbc-a1d6d860641d"
     },
     {
-      "id": "623879b0-364f-11f0-b5e5-25abf1fceba2",
-      "city": "Санкт-Петербург",
-      "title": "Ведущий архитектор",
-      "emp": "Артстройпроект",
-      "salary": "90 000 руб./мес.",
-      "loc": "г Санкт-Петербург, Обводного канала набережная",
-      "tags": [],
-      "part": false,
-      "perm": true,
-      "remote": false,
-      "noexp": false,
-      "students": false,
-      "url": "https://trudvsem.ru/vacancy/card/1027700404797/623879b0-364f-11f0-b5e5-25abf1fceba2"
-    },
-    {
       "id": "3a4b2cf8-f6c9-11f0-a027-0dd543315e5a",
       "city": "Санкт-Петербург",
       "title": "Дворник",
@@ -1473,6 +1458,21 @@
       "noexp": true,
       "students": true,
       "url": "https://trudvsem.ru/vacancy/card/1077847596573/4fc231d9-e871-11ef-b233-cb26dff57dd7"
+    },
+    {
+      "id": "623879b0-364f-11f0-b5e5-25abf1fceba2",
+      "city": "Санкт-Петербург",
+      "title": "Ведущий архитектор",
+      "emp": "Артстройпроект",
+      "salary": "90 000 руб./мес.",
+      "loc": "г Санкт-Петербург, Обводного канала набережная",
+      "tags": [],
+      "part": false,
+      "perm": true,
+      "remote": false,
+      "noexp": false,
+      "students": false,
+      "url": "https://trudvsem.ru/vacancy/card/1027700404797/623879b0-364f-11f0-b5e5-25abf1fceba2"
     },
     {
       "id": "b69e00a8-6b06-11f1-b7e2-61dd9c2afed4",
