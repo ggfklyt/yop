@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-15T04:49:41.106Z",
+  "updatedAt": "2026-08-15T08:47:39.334Z",
   "source": "trudvsem.ru",
   "vacancies": [
     {
@@ -2123,23 +2123,6 @@
       "url": "https://trudvsem.ru/vacancy/card/1096673014998/4ba41e58-9582-11f1-9253-c35c7c22d563"
     },
     {
-      "id": "a3126848-4906-11f1-862b-c921de52508b",
-      "city": "Екатеринбург",
-      "title": "Врач-стоматолог-хирург",
-      "emp": "ГАУЗ СО \"ДГБ № 8\"",
-      "salary": "80 000 — 120 000 руб./мес.",
-      "loc": "Удаленно",
-      "tags": [
-        "Студентам"
-      ],
-      "part": false,
-      "perm": true,
-      "remote": true,
-      "noexp": true,
-      "students": true,
-      "url": "https://trudvsem.ru/vacancy/card/1036605185319/a3126848-4906-11f1-862b-c921de52508b"
-    },
-    {
       "id": "b0d7ade0-d4d6-11f0-95a5-b982dbc00f11",
       "city": "Екатеринбург",
       "title": "Инженер администрирования",
@@ -2155,6 +2138,23 @@
       "noexp": true,
       "students": true,
       "url": "https://trudvsem.ru/vacancy/card/1196658076185/b0d7ade0-d4d6-11f0-95a5-b982dbc00f11"
+    },
+    {
+      "id": "a3126848-4906-11f1-862b-c921de52508b",
+      "city": "Екатеринбург",
+      "title": "Врач-стоматолог-хирург",
+      "emp": "ГАУЗ СО \"ДГБ № 8\"",
+      "salary": "80 000 — 120 000 руб./мес.",
+      "loc": "Удаленно",
+      "tags": [
+        "Студентам"
+      ],
+      "part": false,
+      "perm": true,
+      "remote": true,
+      "noexp": true,
+      "students": true,
+      "url": "https://trudvsem.ru/vacancy/card/1036605185319/a3126848-4906-11f1-862b-c921de52508b"
     },
     {
       "id": "8d012c88-21ce-11f1-a132-1bfbe2e9d3d5",
