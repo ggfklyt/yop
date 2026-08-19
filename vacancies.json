@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-19T01:52:41.666Z",
+  "updatedAt": "2026-08-19T04:51:20.347Z",
   "source": "trudvsem.ru",
   "vacancies": [
     {
@@ -316,21 +316,6 @@
       "url": "https://trudvsem.ru/vacancy/card/1037739765645/2f62d67b-94a4-11f1-b277-2737f6f4cf0b"
     },
     {
-      "id": "1707c5d9-08ba-11f0-a533-cb26dff57dd7",
-      "city": "Москва",
-      "title": "Инженер федеральной технической поддержки автоматизированного рабочего места",
-      "emp": "ООО «МЕГАТЕХ»",
-      "salary": "80 000 руб./мес.",
-      "loc": "Удаленно",
-      "tags": [],
-      "part": false,
-      "perm": true,
-      "remote": true,
-      "noexp": false,
-      "students": false,
-      "url": "https://trudvsem.ru/vacancy/card/1207700399356/1707c5d9-08ba-11f0-a533-cb26dff57dd7"
-    },
-    {
       "id": "e073ac85-cbf4-11ee-9331-d549be31d974",
       "city": "Москва",
       "title": "уборщик служебных помещений",
@@ -346,6 +331,21 @@
       "noexp": true,
       "students": true,
       "url": "https://trudvsem.ru/vacancy/card/1037739518200/e073ac85-cbf4-11ee-9331-d549be31d974"
+    },
+    {
+      "id": "1707c5d9-08ba-11f0-a533-cb26dff57dd7",
+      "city": "Москва",
+      "title": "Инженер федеральной технической поддержки автоматизированного рабочего места",
+      "emp": "ООО «МЕГАТЕХ»",
+      "salary": "80 000 руб./мес.",
+      "loc": "Удаленно",
+      "tags": [],
+      "part": false,
+      "perm": true,
+      "remote": true,
+      "noexp": false,
+      "students": false,
+      "url": "https://trudvsem.ru/vacancy/card/1207700399356/1707c5d9-08ba-11f0-a533-cb26dff57dd7"
     },
     {
       "id": "64ece928-8c0c-11f1-aeca-c9464de5d4ac",
