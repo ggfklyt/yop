@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-21T16:51:57.316Z",
+  "updatedAt": "2026-08-21T20:41:15.286Z",
   "source": "trudvsem.ru",
   "vacancies": [
     {
@@ -618,6 +618,23 @@
       "url": "https://trudvsem.ru/vacancy/card/7226c750-02f1-11eb-8600-bfd13399602c/417c22d4-7a9b-11f1-8673-45b033f36c49"
     },
     {
+      "id": "418b6514-7a9b-11f1-83a1-9990255add98",
+      "city": "Москва",
+      "title": "Стажер в в департамент по ценообразованию, управлению доходностью, маркетинговым исследованиям",
+      "emp": "Bayer",
+      "salary": "от 78 000 руб./мес.",
+      "loc": "г Москва, 3-я Рыбинская ул.",
+      "tags": [
+        "Студентам"
+      ],
+      "part": false,
+      "perm": true,
+      "remote": false,
+      "noexp": true,
+      "students": true,
+      "url": "https://trudvsem.ru/vacancy/card/7226c750-02f1-11eb-8600-bfd13399602c/418b6514-7a9b-11f1-83a1-9990255add98"
+    },
+    {
       "id": "daca5284-9ca7-11f1-a40c-ed5f84161301",
       "city": "Москва",
       "title": "Стажер в казначейство",
@@ -667,23 +684,6 @@
       "noexp": true,
       "students": true,
       "url": "https://trudvsem.ru/vacancy/card/5147746474134/5887e114-867d-11f1-b402-35992f93cad1"
-    },
-    {
-      "id": "418b6514-7a9b-11f1-83a1-9990255add98",
-      "city": "Москва",
-      "title": "Стажер в в департамент по ценообразованию, управлению доходностью, маркетинговым исследованиям",
-      "emp": "Bayer",
-      "salary": "от 78 000 руб./мес.",
-      "loc": "г Москва, 3-я Рыбинская ул.",
-      "tags": [
-        "Студентам"
-      ],
-      "part": false,
-      "perm": true,
-      "remote": false,
-      "noexp": true,
-      "students": true,
-      "url": "https://trudvsem.ru/vacancy/card/7226c750-02f1-11eb-8600-bfd13399602c/418b6514-7a9b-11f1-83a1-9990255add98"
     },
     {
       "id": "34e59fe4-90aa-11f1-8313-cb95235cc92b",
@@ -788,6 +788,23 @@
       "url": "https://trudvsem.ru/vacancy/card/1027700404797/af3df545-8776-11f1-a748-a3189673aa4b"
     },
     {
+      "id": "6524fb14-8664-11f1-ac8d-4fe6b4df619d",
+      "city": "Москва",
+      "title": "Стажёр в отдел корпоративных финансов (Corporate Finance Intern)",
+      "emp": "ITMS Россия",
+      "salary": "75 000 руб./мес.",
+      "loc": "Удаленно",
+      "tags": [
+        "Студентам"
+      ],
+      "part": false,
+      "perm": true,
+      "remote": true,
+      "noexp": true,
+      "students": true,
+      "url": "https://trudvsem.ru/vacancy/card/7226c750-02f1-11eb-8600-bfd13399602c/6524fb14-8664-11f1-ac8d-4fe6b4df619d"
+    },
+    {
       "id": "8d5ae0c4-9d4a-11f1-9af0-a16b730f8190",
       "city": "Москва",
       "title": "Стажер отдела планирования снабжения",
@@ -888,23 +905,6 @@
       "noexp": true,
       "students": true,
       "url": "https://trudvsem.ru/vacancy/card/1027700404797/f4e677b5-86a0-11f1-90b1-1b732b3ea3cb"
-    },
-    {
-      "id": "6524fb14-8664-11f1-ac8d-4fe6b4df619d",
-      "city": "Москва",
-      "title": "Стажёр в отдел корпоративных финансов (Corporate Finance Intern)",
-      "emp": "ITMS Россия",
-      "salary": "75 000 руб./мес.",
-      "loc": "Удаленно",
-      "tags": [
-        "Студентам"
-      ],
-      "part": false,
-      "perm": true,
-      "remote": true,
-      "noexp": true,
-      "students": true,
-      "url": "https://trudvsem.ru/vacancy/card/7226c750-02f1-11eb-8600-bfd13399602c/6524fb14-8664-11f1-ac8d-4fe6b4df619d"
     },
     {
       "id": "7e32c4c8-34d9-11f1-a643-f344d815f06b",
