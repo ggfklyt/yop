@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-22T13:00:25.995Z",
+  "updatedAt": "2026-08-22T16:40:06.155Z",
   "source": "trudvsem.ru",
   "vacancies": [
     {
@@ -2361,23 +2361,6 @@
       "url": "https://trudvsem.ru/vacancy/card/1026605420995/6e865428-49c8-11f1-b66a-39cf7f2a9c71"
     },
     {
-      "id": "cadd91c0-57de-11f0-8e74-e7d0d2cf29b1",
-      "city": "Екатеринбург",
-      "title": "врач-стажер",
-      "emp": "ГАУЗ СО \"БСМЭ\"",
-      "salary": "33 000 — 41 000 руб./мес.",
-      "loc": "Свердловская область, г Екатеринбург",
-      "tags": [
-        "Студентам"
-      ],
-      "part": false,
-      "perm": true,
-      "remote": false,
-      "noexp": true,
-      "students": true,
-      "url": "https://trudvsem.ru/vacancy/card/1026602326101/cadd91c0-57de-11f0-8e74-e7d0d2cf29b1"
-    },
-    {
       "id": "a4196eb0-606c-11f0-bc81-cb26dff57dd7",
       "city": "Екатеринбург",
       "title": "Врач-стажер (терапия)",
@@ -3035,6 +3018,23 @@
       "noexp": true,
       "students": true,
       "url": "https://trudvsem.ru/vacancy/card/1027700404797/8b3c9b94-5bd6-11f1-a2ba-074e0929bd84"
+    },
+    {
+      "id": "c14eec64-5bd6-11f1-aa9b-0fad0f84614f",
+      "city": "Екатеринбург",
+      "title": "Продавец-кассир",
+      "emp": "Пятёрочка",
+      "salary": "50 200 — 67 800 руб./мес.",
+      "loc": "Свердловская область, г Екатеринбург",
+      "tags": [
+        "Студентам"
+      ],
+      "part": true,
+      "perm": false,
+      "remote": false,
+      "noexp": true,
+      "students": true,
+      "url": "https://trudvsem.ru/vacancy/card/1027700404797/c14eec64-5bd6-11f1-aa9b-0fad0f84614f"
     }
   ]
 }
