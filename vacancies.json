@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-24T13:14:22.426Z",
+  "updatedAt": "2026-08-24T16:54:41.338Z",
   "source": "trudvsem.ru",
   "vacancies": [
     {
@@ -365,6 +365,21 @@
       "url": "https://trudvsem.ru/vacancy/card/1207700399356/1707c5d9-08ba-11f0-a533-cb26dff57dd7"
     },
     {
+      "id": "64ece928-8c0c-11f1-aeca-c9464de5d4ac",
+      "city": "Москва",
+      "title": "Специалист по кадрам",
+      "emp": "ЦЕНТР \"САДКО\"",
+      "salary": "17 600 руб./мес.",
+      "loc": "Удаленно",
+      "tags": [],
+      "part": true,
+      "perm": false,
+      "remote": true,
+      "noexp": false,
+      "students": false,
+      "url": "https://trudvsem.ru/vacancy/card/1035005012855/64ece928-8c0c-11f1-aeca-c9464de5d4ac"
+    },
+    {
       "id": "2e423ed8-d9a5-11f0-ac9e-d130ff98d028",
       "city": "Москва",
       "title": "Облицовщик-плиточник в филиал Северо-восточный",
@@ -397,21 +412,6 @@
       "noexp": true,
       "students": true,
       "url": "https://trudvsem.ru/vacancy/card/1037739376223/3aad2a78-ad88-11f0-b508-cfc470d59925"
-    },
-    {
-      "id": "64ece928-8c0c-11f1-aeca-c9464de5d4ac",
-      "city": "Москва",
-      "title": "Специалист по кадрам",
-      "emp": "ЦЕНТР \"САДКО\"",
-      "salary": "17 600 руб./мес.",
-      "loc": "Удаленно",
-      "tags": [],
-      "part": true,
-      "perm": false,
-      "remote": true,
-      "noexp": false,
-      "students": false,
-      "url": "https://trudvsem.ru/vacancy/card/1035005012855/64ece928-8c0c-11f1-aeca-c9464de5d4ac"
     },
     {
       "id": "dca1d5b8-9dcf-11f0-b214-efc3bb2eec02",
