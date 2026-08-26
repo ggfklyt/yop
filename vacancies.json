@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-26T17:00:38.373Z",
+  "updatedAt": "2026-08-26T23:32:19.875Z",
   "source": "trudvsem.ru",
   "vacancies": [
     {
@@ -2004,21 +2004,21 @@
       "url": "https://trudvsem.ru/vacancy/card/1027808756469/24ef1a50-080e-11f1-b61c-b780d0024235"
     },
     {
-      "id": "953c35b5-58fc-11f1-b860-87bb8eb8da0c",
+      "id": "f3e60981-8a97-11f1-aeca-c9464de5d4ac",
       "city": "Санкт-Петербург",
-      "title": "Почтальон (196140)",
-      "emp": "Почта России",
-      "salary": "45 000 — 53 000 руб./мес.",
-      "loc": "г Санкт-Петербург, Пулковское шоссе",
+      "title": "помощник швеи",
+      "emp": "ООО \"ЦЕНТР РАБОТА-АЙ\"",
+      "salary": "15 625 — 31 250 руб./мес.",
+      "loc": "г Санкт-Петербург, Митрофаньевское шоссе",
       "tags": [
         "Студентам"
       ],
-      "part": false,
-      "perm": true,
+      "part": true,
+      "perm": false,
       "remote": false,
       "noexp": true,
       "students": true,
-      "url": "https://trudvsem.ru/vacancy/card/1027700404797/953c35b5-58fc-11f1-b860-87bb8eb8da0c"
+      "url": "https://trudvsem.ru/vacancy/card/1157847130946/f3e60981-8a97-11f1-aeca-c9464de5d4ac"
     },
     {
       "id": "4ede2600-9c59-11f1-9fec-876800c2b0fe",
@@ -2206,21 +2206,6 @@
       "url": "https://trudvsem.ru/vacancy/card/1026604932860/2418f085-e04a-11ee-af44-e7d0d2cf29b1"
     },
     {
-      "id": "ca8c2f48-d4d6-11f0-b730-d758e7e1c196",
-      "city": "Екатеринбург",
-      "title": "Аналитик-технолог",
-      "emp": "ООО \"СКБ-ОНЛАЙН\"",
-      "salary": "50 000 — 80 000 руб./мес.",
-      "loc": "Свердловская область, г Екатеринбург",
-      "tags": [],
-      "part": false,
-      "perm": true,
-      "remote": false,
-      "noexp": false,
-      "students": false,
-      "url": "https://trudvsem.ru/vacancy/card/1196658076185/ca8c2f48-d4d6-11f0-b730-d758e7e1c196"
-    },
-    {
       "id": "f0a82430-33be-11f1-adf8-bb12de7893c2",
       "city": "Екатеринбург",
       "title": "Уборщик производственных и служебных помещений",
@@ -2236,6 +2221,21 @@
       "noexp": true,
       "students": true,
       "url": "https://trudvsem.ru/vacancy/card/1136685028006/f0a82430-33be-11f1-adf8-bb12de7893c2"
+    },
+    {
+      "id": "ca8c2f48-d4d6-11f0-b730-d758e7e1c196",
+      "city": "Екатеринбург",
+      "title": "Аналитик-технолог",
+      "emp": "ООО \"СКБ-ОНЛАЙН\"",
+      "salary": "50 000 — 80 000 руб./мес.",
+      "loc": "Свердловская область, г Екатеринбург",
+      "tags": [],
+      "part": false,
+      "perm": true,
+      "remote": false,
+      "noexp": false,
+      "students": false,
+      "url": "https://trudvsem.ru/vacancy/card/1196658076185/ca8c2f48-d4d6-11f0-b730-d758e7e1c196"
     },
     {
       "id": "de53da2a-2745-11f1-8d48-d52d8860c0e6",
