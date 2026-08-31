@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-30T22:44:04.173Z",
+  "updatedAt": "2026-08-31T05:32:42.881Z",
   "source": "trudvsem.ru",
   "vacancies": [
     {
@@ -1260,23 +1260,6 @@
       "url": "https://trudvsem.ru/vacancy/card/1027807583968/d0c23218-0811-11f1-b61c-b780d0024235"
     },
     {
-      "id": "7db5c944-6584-11f1-98c0-a9a9a5f8a21c",
-      "city": "Санкт-Петербург",
-      "title": "Врач-стоматолог детский",
-      "emp": "СПБ ГБУЗ \"ДЕТСКАЯ СТОМАТОЛОГИЧЕСКАЯ ПОЛИКЛИНИКА № 3\"",
-      "salary": "120 000 — 200 000 руб./мес.",
-      "loc": "Удаленно",
-      "tags": [
-        "Студентам"
-      ],
-      "part": true,
-      "perm": false,
-      "remote": true,
-      "noexp": true,
-      "students": true,
-      "url": "https://trudvsem.ru/vacancy/card/1027802492343/7db5c944-6584-11f1-98c0-a9a9a5f8a21c"
-    },
-    {
       "id": "a5eb8854-9ae9-11f1-869d-455dd563f455",
       "city": "Санкт-Петербург",
       "title": "Сервисный менеджер / инженер эксплуатации",
@@ -1292,6 +1275,23 @@
       "noexp": true,
       "students": true,
       "url": "https://trudvsem.ru/vacancy/card/1027700404797/a5eb8854-9ae9-11f1-869d-455dd563f455"
+    },
+    {
+      "id": "7db5c944-6584-11f1-98c0-a9a9a5f8a21c",
+      "city": "Санкт-Петербург",
+      "title": "Врач-стоматолог детский",
+      "emp": "СПБ ГБУЗ \"ДЕТСКАЯ СТОМАТОЛОГИЧЕСКАЯ ПОЛИКЛИНИКА № 3\"",
+      "salary": "120 000 — 200 000 руб./мес.",
+      "loc": "Удаленно",
+      "tags": [
+        "Студентам"
+      ],
+      "part": true,
+      "perm": false,
+      "remote": true,
+      "noexp": true,
+      "students": true,
+      "url": "https://trudvsem.ru/vacancy/card/1027802492343/7db5c944-6584-11f1-98c0-a9a9a5f8a21c"
     },
     {
       "id": "ab223c10-029b-11f1-ad67-3142780bee2f",
