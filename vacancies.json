@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-31T21:30:43.101Z",
+  "updatedAt": "2026-09-01T05:07:28.552Z",
   "source": "trudvsem.ru",
   "vacancies": [
     {
@@ -267,6 +267,23 @@
       "url": "https://trudvsem.ru/vacancy/card/1077763818450/719e28b8-43b8-11f1-aa71-659f9ad1813b"
     },
     {
+      "id": "3729f1c5-9a46-11f1-8e0f-3b08a1b18ff4",
+      "city": "Москва",
+      "title": "SMM-специалист",
+      "emp": "ГБОУ г. Москвы Школа № 922",
+      "salary": "86 000 руб./мес.",
+      "loc": "г Москва, Молостовых улица",
+      "tags": [
+        "Студентам"
+      ],
+      "part": false,
+      "perm": true,
+      "remote": false,
+      "noexp": true,
+      "students": true,
+      "url": "https://trudvsem.ru/vacancy/card/1027700404797/3729f1c5-9a46-11f1-8e0f-3b08a1b18ff4"
+    },
+    {
       "id": "1707c5d9-08ba-11f0-a533-cb26dff57dd7",
       "city": "Москва",
       "title": "Инженер федеральной технической поддержки автоматизированного рабочего места",
@@ -316,12 +333,12 @@
       "url": "https://trudvsem.ru/vacancy/card/1037739376223/3aad2a78-ad88-11f0-b508-cfc470d59925"
     },
     {
-      "id": "3729f1c5-9a46-11f1-8e0f-3b08a1b18ff4",
+      "id": "8b6b3285-56e2-11ee-aefd-0d972cff014f",
       "city": "Москва",
-      "title": "SMM-специалист",
-      "emp": "ГБОУ г. Москвы Школа № 922",
-      "salary": "86 000 руб./мес.",
-      "loc": "г Москва, Молостовых улица",
+      "title": "Инженер-проектировщик систем отопления и вентиляции 1-3 категории",
+      "emp": "ООО \"ГП-МФС\"",
+      "salary": "60 000 — 120 000 руб./мес.",
+      "loc": "г Москва, Баррикадная улица",
       "tags": [
         "Студентам"
       ],
@@ -330,7 +347,7 @@
       "remote": false,
       "noexp": true,
       "students": true,
-      "url": "https://trudvsem.ru/vacancy/card/1027700404797/3729f1c5-9a46-11f1-8e0f-3b08a1b18ff4"
+      "url": "https://trudvsem.ru/vacancy/card/1047796934195/8b6b3285-56e2-11ee-aefd-0d972cff014f"
     },
     {
       "id": "832088d8-081c-11f1-93cf-9fd44cff2ded",
@@ -367,23 +384,6 @@
       "url": "https://trudvsem.ru/vacancy/card/1217700480722/32507cf8-a08b-11f1-be6c-191a6b2a1e33"
     },
     {
-      "id": "8b6b3285-56e2-11ee-aefd-0d972cff014f",
-      "city": "Москва",
-      "title": "Инженер-проектировщик систем отопления и вентиляции 1-3 категории",
-      "emp": "ООО \"ГП-МФС\"",
-      "salary": "60 000 — 120 000 руб./мес.",
-      "loc": "г Москва, Баррикадная улица",
-      "tags": [
-        "Студентам"
-      ],
-      "part": false,
-      "perm": true,
-      "remote": false,
-      "noexp": true,
-      "students": true,
-      "url": "https://trudvsem.ru/vacancy/card/1047796934195/8b6b3285-56e2-11ee-aefd-0d972cff014f"
-    },
-    {
       "id": "265a2b12-a074-11f1-af3e-bf7d17e6c61f",
       "city": "Москва",
       "title": "Рекрутер",
@@ -416,6 +416,23 @@
       "url": "https://trudvsem.ru/vacancy/card/275d0920-c7fe-11e9-be6f-037acc02728d/c351cb28-5a7f-11f1-ab98-0542b89dd3fc"
     },
     {
+      "id": "28fa7b48-9188-11f1-b277-2737f6f4cf0b",
+      "city": "Москва",
+      "title": "Уборщик",
+      "emp": "ОООИ ВОГ",
+      "salary": "50 000 — 70 000 руб./мес.",
+      "loc": "Удаленно",
+      "tags": [
+        "Студентам"
+      ],
+      "part": false,
+      "perm": true,
+      "remote": true,
+      "noexp": true,
+      "students": true,
+      "url": "https://trudvsem.ru/vacancy/card/1027739074186/28fa7b48-9188-11f1-b277-2737f6f4cf0b"
+    },
+    {
       "id": "24e15058-2cfd-11f1-a71f-0dcd003ac4b5",
       "city": "Москва",
       "title": "Главный специалист службы поддержки рабочих станций",
@@ -446,23 +463,6 @@
       "noexp": false,
       "students": false,
       "url": "https://trudvsem.ru/vacancy/card/319774600209621/3aa97468-c5ae-11ef-87be-cb26dff57dd7"
-    },
-    {
-      "id": "28fa7b48-9188-11f1-b277-2737f6f4cf0b",
-      "city": "Москва",
-      "title": "Уборщик",
-      "emp": "ОООИ ВОГ",
-      "salary": "50 000 — 70 000 руб./мес.",
-      "loc": "Удаленно",
-      "tags": [
-        "Студентам"
-      ],
-      "part": false,
-      "perm": true,
-      "remote": true,
-      "noexp": true,
-      "students": true,
-      "url": "https://trudvsem.ru/vacancy/card/1027739074186/28fa7b48-9188-11f1-b277-2737f6f4cf0b"
     },
     {
       "id": "bd2a9928-5fde-11f1-a885-41d00752341b",
