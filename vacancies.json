@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-03T19:18:37.794Z",
+  "updatedAt": "2026-09-03T22:35:33.959Z",
   "source": "trudvsem.ru",
   "vacancies": [
     {
@@ -1970,6 +1970,23 @@
       "url": "https://trudvsem.ru/vacancy/card/1027808756469/24ef1a50-080e-11f1-b61c-b780d0024235"
     },
     {
+      "id": "f3e60981-8a97-11f1-aeca-c9464de5d4ac",
+      "city": "Санкт-Петербург",
+      "title": "помощник швеи",
+      "emp": "ООО \"ЦЕНТР РАБОТА-АЙ\"",
+      "salary": "15 625 — 31 250 руб./мес.",
+      "loc": "г Санкт-Петербург, Митрофаньевское шоссе",
+      "tags": [
+        "Студентам"
+      ],
+      "part": true,
+      "perm": false,
+      "remote": false,
+      "noexp": true,
+      "students": true,
+      "url": "https://trudvsem.ru/vacancy/card/1157847130946/f3e60981-8a97-11f1-aeca-c9464de5d4ac"
+    },
+    {
       "id": "910a4bd5-58fc-11f1-92ac-017e92d43e57",
       "city": "Санкт-Петербург",
       "title": "Почтальон (198264)",
@@ -2002,23 +2019,6 @@
       "noexp": true,
       "students": true,
       "url": "https://trudvsem.ru/vacancy/card/1027700404797/953c35b5-58fc-11f1-b860-87bb8eb8da0c"
-    },
-    {
-      "id": "05e6a305-58fc-11f1-92ac-017e92d43e57",
-      "city": "Санкт-Петербург",
-      "title": "Почтальон (198255)",
-      "emp": "Почта России",
-      "salary": "45 000 — 53 000 руб./мес.",
-      "loc": "г Санкт-Петербург, Ветеранов проспект",
-      "tags": [
-        "Студентам"
-      ],
-      "part": false,
-      "perm": true,
-      "remote": false,
-      "noexp": true,
-      "students": true,
-      "url": "https://trudvsem.ru/vacancy/card/1027700404797/05e6a305-58fc-11f1-92ac-017e92d43e57"
     },
     {
       "id": "4ede2600-9c59-11f1-9fec-876800c2b0fe",
