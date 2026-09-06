@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-06T15:27:09.186Z",
+  "updatedAt": "2026-09-06T18:16:57.286Z",
   "source": "trudvsem.ru",
   "vacancies": [
     {
@@ -2572,23 +2572,6 @@
       "url": "https://trudvsem.ru/vacancy/card/1027700404797/c8eae1e4-53f7-11f1-bcd1-ad4b9e619c41"
     },
     {
-      "id": "fd7f1174-9ab4-11f1-869d-455dd563f455",
-      "city": "Екатеринбург",
-      "title": "Сборщик заказов",
-      "emp": "Пятёрочка",
-      "salary": "40 000 — 65 000 руб./мес.",
-      "loc": "Свердловская область, г Екатеринбург",
-      "tags": [
-        "Студентам"
-      ],
-      "part": false,
-      "perm": true,
-      "remote": false,
-      "noexp": true,
-      "students": true,
-      "url": "https://trudvsem.ru/vacancy/card/1027700404797/fd7f1174-9ab4-11f1-869d-455dd563f455"
-    },
-    {
       "id": "77496124-5c9b-11f1-b4a8-cb523d2e9346",
       "city": "Екатеринбург",
       "title": "Сборщик заказов",
@@ -2621,6 +2604,23 @@
       "noexp": true,
       "students": true,
       "url": "https://trudvsem.ru/vacancy/card/1027700404797/7d458c14-21f5-11f1-b26c-af1153b4c800"
+    },
+    {
+      "id": "1199ac64-92d1-11f1-9ac6-71ca1f7c7d59",
+      "city": "Екатеринбург",
+      "title": "Сборщик заказов",
+      "emp": "Пятёрочка",
+      "salary": "43 600 — 80 000 руб./мес.",
+      "loc": "Свердловская область, г Екатеринбург",
+      "tags": [
+        "Студентам"
+      ],
+      "part": false,
+      "perm": true,
+      "remote": false,
+      "noexp": true,
+      "students": true,
+      "url": "https://trudvsem.ru/vacancy/card/1027700404797/1199ac64-92d1-11f1-9ac6-71ca1f7c7d59"
     },
     {
       "id": "2e699b90-9563-11f1-9253-c35c7c22d563",
