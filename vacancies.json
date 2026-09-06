@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-06T12:09:21.144Z",
+  "updatedAt": "2026-09-06T15:27:09.186Z",
   "source": "trudvsem.ru",
   "vacancies": [
     {
@@ -399,23 +399,6 @@
       "url": "https://trudvsem.ru/vacancy/card/1027739074186/28fa7b48-9188-11f1-b277-2737f6f4cf0b"
     },
     {
-      "id": "36865f24-a6c5-11f1-a596-0d553401c451",
-      "city": "Москва",
-      "title": "Специалист по обслуживанию клиентов",
-      "emp": "Газпромбанк Мобайл (ООО НМК)",
-      "salary": "от 64 350 руб./мес.",
-      "loc": "Удаленно",
-      "tags": [
-        "Студентам"
-      ],
-      "part": false,
-      "perm": true,
-      "remote": true,
-      "noexp": true,
-      "students": true,
-      "url": "https://trudvsem.ru/vacancy/card/7226c750-02f1-11eb-8600-bfd13399602c/36865f24-a6c5-11f1-a596-0d553401c451"
-    },
-    {
       "id": "bd2a9928-5fde-11f1-a885-41d00752341b",
       "city": "Москва",
       "title": "Уборщик территории",
@@ -431,6 +414,23 @@
       "noexp": true,
       "students": true,
       "url": "https://trudvsem.ru/vacancy/card/1037739485937/bd2a9928-5fde-11f1-a885-41d00752341b"
+    },
+    {
+      "id": "36865f24-a6c5-11f1-a596-0d553401c451",
+      "city": "Москва",
+      "title": "Специалист по обслуживанию клиентов",
+      "emp": "Газпромбанк Мобайл (ООО НМК)",
+      "salary": "от 64 350 руб./мес.",
+      "loc": "Удаленно",
+      "tags": [
+        "Студентам"
+      ],
+      "part": false,
+      "perm": true,
+      "remote": true,
+      "noexp": true,
+      "students": true,
+      "url": "https://trudvsem.ru/vacancy/card/7226c750-02f1-11eb-8600-bfd13399602c/36865f24-a6c5-11f1-a596-0d553401c451"
     },
     {
       "id": "ac409870-7e85-11f0-bf79-d36f4c8f3065",
@@ -467,23 +467,6 @@
       "url": "https://trudvsem.ru/vacancy/card/5137746156675/b84b5010-05bc-11f1-8a1f-09ba9925910c"
     },
     {
-      "id": "7120e788-494c-11f1-b4d8-b7a0ba5a93f0",
-      "city": "Москва",
-      "title": "Санитарка/ Санитар оперблока",
-      "emp": "АО \"К+31\"",
-      "salary": "88 000 руб./мес.",
-      "loc": "Удаленно",
-      "tags": [
-        "Студентам"
-      ],
-      "part": false,
-      "perm": true,
-      "remote": true,
-      "noexp": true,
-      "students": true,
-      "url": "https://trudvsem.ru/vacancy/card/1117746085490/7120e788-494c-11f1-b4d8-b7a0ba5a93f0"
-    },
-    {
       "id": "1d8fedf8-494c-11f1-b4d8-b7a0ba5a93f0",
       "city": "Москва",
       "title": "Санитарка/ Санитар оперблока",
@@ -499,6 +482,23 @@
       "noexp": true,
       "students": true,
       "url": "https://trudvsem.ru/vacancy/card/1117746085490/1d8fedf8-494c-11f1-b4d8-b7a0ba5a93f0"
+    },
+    {
+      "id": "7120e788-494c-11f1-b4d8-b7a0ba5a93f0",
+      "city": "Москва",
+      "title": "Санитарка/ Санитар оперблока",
+      "emp": "АО \"К+31\"",
+      "salary": "88 000 руб./мес.",
+      "loc": "Удаленно",
+      "tags": [
+        "Студентам"
+      ],
+      "part": false,
+      "perm": true,
+      "remote": true,
+      "noexp": true,
+      "students": true,
+      "url": "https://trudvsem.ru/vacancy/card/1117746085490/7120e788-494c-11f1-b4d8-b7a0ba5a93f0"
     },
     {
       "id": "9a8e6db0-f5d5-11f0-b1fe-f1978b6702aa",
@@ -2572,6 +2572,23 @@
       "url": "https://trudvsem.ru/vacancy/card/1027700404797/c8eae1e4-53f7-11f1-bcd1-ad4b9e619c41"
     },
     {
+      "id": "fd7f1174-9ab4-11f1-869d-455dd563f455",
+      "city": "Екатеринбург",
+      "title": "Сборщик заказов",
+      "emp": "Пятёрочка",
+      "salary": "40 000 — 65 000 руб./мес.",
+      "loc": "Свердловская область, г Екатеринбург",
+      "tags": [
+        "Студентам"
+      ],
+      "part": false,
+      "perm": true,
+      "remote": false,
+      "noexp": true,
+      "students": true,
+      "url": "https://trudvsem.ru/vacancy/card/1027700404797/fd7f1174-9ab4-11f1-869d-455dd563f455"
+    },
+    {
       "id": "77496124-5c9b-11f1-b4a8-cb523d2e9346",
       "city": "Екатеринбург",
       "title": "Сборщик заказов",
@@ -2604,23 +2621,6 @@
       "noexp": true,
       "students": true,
       "url": "https://trudvsem.ru/vacancy/card/1027700404797/7d458c14-21f5-11f1-b26c-af1153b4c800"
-    },
-    {
-      "id": "1199ac64-92d1-11f1-9ac6-71ca1f7c7d59",
-      "city": "Екатеринбург",
-      "title": "Сборщик заказов",
-      "emp": "Пятёрочка",
-      "salary": "43 600 — 80 000 руб./мес.",
-      "loc": "Свердловская область, г Екатеринбург",
-      "tags": [
-        "Студентам"
-      ],
-      "part": false,
-      "perm": true,
-      "remote": false,
-      "noexp": true,
-      "students": true,
-      "url": "https://trudvsem.ru/vacancy/card/1027700404797/1199ac64-92d1-11f1-9ac6-71ca1f7c7d59"
     },
     {
       "id": "2e699b90-9563-11f1-9253-c35c7c22d563",
