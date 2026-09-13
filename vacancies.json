@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-13T13:20:40.905Z",
+  "updatedAt": "2026-09-13T18:48:33.306Z",
   "source": "trudvsem.ru",
   "vacancies": [
     {
@@ -1239,23 +1239,6 @@
       "url": "https://trudvsem.ru/vacancy/card/1027809259730/50b217c8-8fd9-11f1-b546-0def9408a49f"
     },
     {
-      "id": "a5eb8854-9ae9-11f1-869d-455dd563f455",
-      "city": "Санкт-Петербург",
-      "title": "Сервисный менеджер / инженер эксплуатации",
-      "emp": "JOBCART.RU",
-      "salary": "80 000 руб./мес.",
-      "loc": "Удаленно",
-      "tags": [
-        "Студентам"
-      ],
-      "part": false,
-      "perm": true,
-      "remote": true,
-      "noexp": true,
-      "students": true,
-      "url": "https://trudvsem.ru/vacancy/card/1027700404797/a5eb8854-9ae9-11f1-869d-455dd563f455"
-    },
-    {
       "id": "5b12d000-0d8f-11f1-ae78-117abf1c97c6",
       "city": "Санкт-Петербург",
       "title": "Пескоструйщик (ТЧ2-33)",
@@ -1271,6 +1254,23 @@
       "noexp": true,
       "students": true,
       "url": "https://trudvsem.ru/vacancy/card/1027810223407/5b12d000-0d8f-11f1-ae78-117abf1c97c6"
+    },
+    {
+      "id": "a5eb8854-9ae9-11f1-869d-455dd563f455",
+      "city": "Санкт-Петербург",
+      "title": "Сервисный менеджер / инженер эксплуатации",
+      "emp": "JOBCART.RU",
+      "salary": "80 000 руб./мес.",
+      "loc": "Удаленно",
+      "tags": [
+        "Студентам"
+      ],
+      "part": false,
+      "perm": true,
+      "remote": true,
+      "noexp": true,
+      "students": true,
+      "url": "https://trudvsem.ru/vacancy/card/1027700404797/a5eb8854-9ae9-11f1-869d-455dd563f455"
     },
     {
       "id": "d0c23218-0811-11f1-b61c-b780d0024235",
