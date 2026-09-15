@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-14T20:21:17.520Z",
+  "updatedAt": "2026-09-15T04:54:54.974Z",
   "source": "trudvsem.ru",
   "vacancies": [
     {
@@ -1611,23 +1611,6 @@
       "url": "https://trudvsem.ru/vacancy/card/1027700404797/8662cab5-9a18-11f1-a134-2fb2ae87ad4f"
     },
     {
-      "id": "4967c3c4-aa87-11f1-9652-630d44a9e17d",
-      "city": "Санкт-Петербург",
-      "title": "Стажер в Лабораторию разработки и валидации аналитических методик белковых препаратов (ВЭЖХ)",
-      "emp": "БИОКАД, биотехнологическая компания",
-      "salary": "27 093 — 60 000 руб./мес.",
-      "loc": "г Санкт-Петербург, улица Связи 38",
-      "tags": [
-        "Студентам"
-      ],
-      "part": false,
-      "perm": true,
-      "remote": false,
-      "noexp": true,
-      "students": true,
-      "url": "https://trudvsem.ru/vacancy/card/7226c750-02f1-11eb-8600-bfd13399602c/4967c3c4-aa87-11f1-9652-630d44a9e17d"
-    },
-    {
       "id": "a739e558-1d29-11f1-a76c-09c020138380",
       "city": "Санкт-Петербург",
       "title": "Электромонтер связи отдела голосовой, почтовой связи и сетей",
@@ -1643,6 +1626,23 @@
       "noexp": true,
       "students": true,
       "url": "https://trudvsem.ru/vacancy/card/1117847434990/a739e558-1d29-11f1-a76c-09c020138380"
+    },
+    {
+      "id": "4967c3c4-aa87-11f1-9652-630d44a9e17d",
+      "city": "Санкт-Петербург",
+      "title": "Стажер в Лабораторию разработки и валидации аналитических методик белковых препаратов (ВЭЖХ)",
+      "emp": "БИОКАД, биотехнологическая компания",
+      "salary": "27 093 — 60 000 руб./мес.",
+      "loc": "г Санкт-Петербург, улица Связи 38",
+      "tags": [
+        "Студентам"
+      ],
+      "part": false,
+      "perm": true,
+      "remote": false,
+      "noexp": true,
+      "students": true,
+      "url": "https://trudvsem.ru/vacancy/card/7226c750-02f1-11eb-8600-bfd13399602c/4967c3c4-aa87-11f1-9652-630d44a9e17d"
     },
     {
       "id": "bfc1dcd4-9fbb-11f1-b022-b71f0e501ee5",
@@ -2296,6 +2296,23 @@
       "noexp": true,
       "students": true,
       "url": "https://trudvsem.ru/vacancy/card/1026605420995/6e865428-49c8-11f1-b66a-39cf7f2a9c71"
+    },
+    {
+      "id": "cadd91c0-57de-11f0-8e74-e7d0d2cf29b1",
+      "city": "Екатеринбург",
+      "title": "врач-стажер",
+      "emp": "ГАУЗ СО \"БСМЭ\"",
+      "salary": "33 000 — 41 000 руб./мес.",
+      "loc": "Свердловская область, г Екатеринбург",
+      "tags": [
+        "Студентам"
+      ],
+      "part": false,
+      "perm": true,
+      "remote": false,
+      "noexp": true,
+      "students": true,
+      "url": "https://trudvsem.ru/vacancy/card/1026602326101/cadd91c0-57de-11f0-8e74-e7d0d2cf29b1"
     },
     {
       "id": "92fa40d8-ad02-11f1-afa4-fb20fcdf567f",
@@ -3008,23 +3025,6 @@
       "noexp": true,
       "students": true,
       "url": "https://trudvsem.ru/vacancy/card/1027700404797/fb6dc9e4-a0e4-11f1-af3e-bf7d17e6c61f"
-    },
-    {
-      "id": "659cc5d4-6578-11f1-80aa-79130867beb8",
-      "city": "Екатеринбург",
-      "title": "Продавец-кассир",
-      "emp": "Пятёрочка",
-      "salary": "50 200 — 67 800 руб./мес.",
-      "loc": "Свердловская область, г Екатеринбург",
-      "tags": [
-        "Студентам"
-      ],
-      "part": true,
-      "perm": false,
-      "remote": false,
-      "noexp": true,
-      "students": true,
-      "url": "https://trudvsem.ru/vacancy/card/1027700404797/659cc5d4-6578-11f1-80aa-79130867beb8"
     }
   ]
 }
