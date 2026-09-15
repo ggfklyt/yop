@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-15T19:42:45.915Z",
+  "updatedAt": "2026-09-15T22:54:57.598Z",
   "source": "trudvsem.ru",
   "vacancies": [
     {
@@ -2251,6 +2251,23 @@
       "url": "https://trudvsem.ru/vacancy/card/1026605414923/7c56ac29-922b-11f1-9d62-2f50b9e6b1e0"
     },
     {
+      "id": "075c7048-493c-11f1-b4d8-b7a0ba5a93f0",
+      "city": "Екатеринбург",
+      "title": "Овощевод",
+      "emp": "АО \"ТЕПЛИЧНОЕ\"",
+      "salary": "50 000 — 86 000 руб./мес.",
+      "loc": "Удаленно",
+      "tags": [
+        "Студентам"
+      ],
+      "part": false,
+      "perm": true,
+      "remote": true,
+      "noexp": true,
+      "students": true,
+      "url": "https://trudvsem.ru/vacancy/card/1026605613440/075c7048-493c-11f1-b4d8-b7a0ba5a93f0"
+    },
+    {
       "id": "cc5a4608-4aaa-11f1-85a4-cd5543c4b30c",
       "city": "Екатеринбург",
       "title": "врач-стажер",
@@ -2640,23 +2657,6 @@
       "url": "https://trudvsem.ru/vacancy/card/ee7cd1a0-8350-11e8-8b9e-ef76bd2a03c1/a3a46ee8-37ca-11f1-889f-09fcf7d79153"
     },
     {
-      "id": "558a9348-d4cb-11f0-95a5-b982dbc00f11",
-      "city": "Екатеринбург",
-      "title": "Кассир билетный на железнодорожном транспорте",
-      "emp": "АО \"СПК\"",
-      "salary": "46 000 — 56 000 руб./мес.",
-      "loc": "Свердловская область, г Екатеринбург",
-      "tags": [
-        "Студентам"
-      ],
-      "part": true,
-      "perm": false,
-      "remote": false,
-      "noexp": true,
-      "students": true,
-      "url": "https://trudvsem.ru/vacancy/card/ee7cd1a0-8350-11e8-8b9e-ef76bd2a03c1/558a9348-d4cb-11f0-95a5-b982dbc00f11"
-    },
-    {
       "id": "91b8af39-948f-11f1-9253-c35c7c22d563",
       "city": "Екатеринбург",
       "title": "Кассир",
@@ -2672,6 +2672,23 @@
       "noexp": true,
       "students": true,
       "url": "https://trudvsem.ru/vacancy/card/1169600003253/91b8af39-948f-11f1-9253-c35c7c22d563"
+    },
+    {
+      "id": "558a9348-d4cb-11f0-95a5-b982dbc00f11",
+      "city": "Екатеринбург",
+      "title": "Кассир билетный на железнодорожном транспорте",
+      "emp": "АО \"СПК\"",
+      "salary": "46 000 — 56 000 руб./мес.",
+      "loc": "Свердловская область, г Екатеринбург",
+      "tags": [
+        "Студентам"
+      ],
+      "part": true,
+      "perm": false,
+      "remote": false,
+      "noexp": true,
+      "students": true,
+      "url": "https://trudvsem.ru/vacancy/card/ee7cd1a0-8350-11e8-8b9e-ef76bd2a03c1/558a9348-d4cb-11f0-95a5-b982dbc00f11"
     },
     {
       "id": "2013b508-b704-11f0-a1f0-cffd1e1c368e",
@@ -3012,23 +3029,6 @@
       "noexp": true,
       "students": true,
       "url": "https://trudvsem.ru/vacancy/card/1027700404797/ddbad104-64a7-11f1-b51c-edfe0b6d11c5"
-    },
-    {
-      "id": "8762ece4-4e7a-11f1-8241-bd8d2ff33401",
-      "city": "Екатеринбург",
-      "title": "Продавец-кассир",
-      "emp": "Пятёрочка",
-      "salary": "50 200 — 67 800 руб./мес.",
-      "loc": "Свердловская область, г Екатеринбург",
-      "tags": [
-        "Студентам"
-      ],
-      "part": true,
-      "perm": false,
-      "remote": false,
-      "noexp": true,
-      "students": true,
-      "url": "https://trudvsem.ru/vacancy/card/1027700404797/8762ece4-4e7a-11f1-8241-bd8d2ff33401"
     }
   ]
 }
