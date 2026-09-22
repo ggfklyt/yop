@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-22T19:48:28.343Z",
+  "updatedAt": "2026-09-22T23:00:14.410Z",
   "source": "trudvsem.ru",
   "vacancies": [
     {
@@ -1349,23 +1349,6 @@
       "url": "https://trudvsem.ru/vacancy/card/1027808917377/f86ca06f-63f2-11f1-9d35-ab5792c381fb"
     },
     {
-      "id": "52fbf7f4-9172-11f1-9d62-2f50b9e6b1e0",
-      "city": "Санкт-Петербург",
-      "title": "Автомаляр",
-      "emp": "ООО \"ЦАС\"",
-      "salary": "150 000 — 200 000 руб./мес.",
-      "loc": "Удаленно",
-      "tags": [
-        "Студентам"
-      ],
-      "part": false,
-      "perm": true,
-      "remote": true,
-      "noexp": true,
-      "students": true,
-      "url": "https://trudvsem.ru/vacancy/card/1027804919230/52fbf7f4-9172-11f1-9d62-2f50b9e6b1e0"
-    },
-    {
       "id": "c7d2facd-b295-11f1-98bc-350b59df29cf",
       "city": "Санкт-Петербург",
       "title": "Уборщик территорий",
@@ -1381,6 +1364,23 @@
       "noexp": true,
       "students": true,
       "url": "https://trudvsem.ru/vacancy/card/1027802502221/c7d2facd-b295-11f1-98bc-350b59df29cf"
+    },
+    {
+      "id": "52fbf7f4-9172-11f1-9d62-2f50b9e6b1e0",
+      "city": "Санкт-Петербург",
+      "title": "Автомаляр",
+      "emp": "ООО \"ЦАС\"",
+      "salary": "150 000 — 200 000 руб./мес.",
+      "loc": "Удаленно",
+      "tags": [
+        "Студентам"
+      ],
+      "part": false,
+      "perm": true,
+      "remote": true,
+      "noexp": true,
+      "students": true,
+      "url": "https://trudvsem.ru/vacancy/card/1027804919230/52fbf7f4-9172-11f1-9d62-2f50b9e6b1e0"
     },
     {
       "id": "1f3e24c5-4731-11ee-a404-df76e8ab7d11",
@@ -1468,23 +1468,6 @@
       "url": "https://trudvsem.ru/vacancy/card/1027809256617/faa0ebf5-55f6-11ee-953c-8138dd12ddbf"
     },
     {
-      "id": "b46f3f20-696c-11f1-b58e-dd53c9fce633",
-      "city": "Санкт-Петербург",
-      "title": "Уборщик",
-      "emp": "АО \"НПФ \"МЕРИДИАН\"",
-      "salary": "60 000 — 66 000 руб./мес.",
-      "loc": "Удаленно",
-      "tags": [
-        "Студентам"
-      ],
-      "part": false,
-      "perm": true,
-      "remote": true,
-      "noexp": true,
-      "students": true,
-      "url": "https://trudvsem.ru/vacancy/card/54c46670-fa60-11e5-9aa0-736ab11edb0c/b46f3f20-696c-11f1-b58e-dd53c9fce633"
-    },
-    {
       "id": "64216c55-aead-11ec-bdf7-550ed7335bbe",
       "city": "Санкт-Петербург",
       "title": "Уборщик служебных помещений 1 разряда",
@@ -1500,6 +1483,23 @@
       "noexp": true,
       "students": true,
       "url": "https://trudvsem.ru/vacancy/card/1047841057186/64216c55-aead-11ec-bdf7-550ed7335bbe"
+    },
+    {
+      "id": "b46f3f20-696c-11f1-b58e-dd53c9fce633",
+      "city": "Санкт-Петербург",
+      "title": "Уборщик",
+      "emp": "АО \"НПФ \"МЕРИДИАН\"",
+      "salary": "60 000 — 66 000 руб./мес.",
+      "loc": "Удаленно",
+      "tags": [
+        "Студентам"
+      ],
+      "part": false,
+      "perm": true,
+      "remote": true,
+      "noexp": true,
+      "students": true,
+      "url": "https://trudvsem.ru/vacancy/card/54c46670-fa60-11e5-9aa0-736ab11edb0c/b46f3f20-696c-11f1-b58e-dd53c9fce633"
     },
     {
       "id": "3e67fcc8-918b-11f1-b277-2737f6f4cf0b",
