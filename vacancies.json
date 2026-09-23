@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-22T23:00:14.410Z",
+  "updatedAt": "2026-09-23T04:48:32.099Z",
   "source": "trudvsem.ru",
   "vacancies": [
     {
@@ -1349,23 +1349,6 @@
       "url": "https://trudvsem.ru/vacancy/card/1027808917377/f86ca06f-63f2-11f1-9d35-ab5792c381fb"
     },
     {
-      "id": "c7d2facd-b295-11f1-98bc-350b59df29cf",
-      "city": "Санкт-Петербург",
-      "title": "Уборщик территорий",
-      "emp": "ГБДОУ ДЕТСКИЙ САД № 15 КАЛИНИНСКОГО РАЙОНА САНКТ-ПЕТЕРБУРГА",
-      "salary": "32 000 — 32 500 руб./мес.",
-      "loc": "Удаленно",
-      "tags": [
-        "Студентам"
-      ],
-      "part": true,
-      "perm": false,
-      "remote": true,
-      "noexp": true,
-      "students": true,
-      "url": "https://trudvsem.ru/vacancy/card/1027802502221/c7d2facd-b295-11f1-98bc-350b59df29cf"
-    },
-    {
       "id": "52fbf7f4-9172-11f1-9d62-2f50b9e6b1e0",
       "city": "Санкт-Петербург",
       "title": "Автомаляр",
@@ -1381,6 +1364,23 @@
       "noexp": true,
       "students": true,
       "url": "https://trudvsem.ru/vacancy/card/1027804919230/52fbf7f4-9172-11f1-9d62-2f50b9e6b1e0"
+    },
+    {
+      "id": "c7d2facd-b295-11f1-98bc-350b59df29cf",
+      "city": "Санкт-Петербург",
+      "title": "Уборщик территорий",
+      "emp": "ГБДОУ ДЕТСКИЙ САД № 15 КАЛИНИНСКОГО РАЙОНА САНКТ-ПЕТЕРБУРГА",
+      "salary": "32 000 — 32 500 руб./мес.",
+      "loc": "Удаленно",
+      "tags": [
+        "Студентам"
+      ],
+      "part": true,
+      "perm": false,
+      "remote": true,
+      "noexp": true,
+      "students": true,
+      "url": "https://trudvsem.ru/vacancy/card/1027802502221/c7d2facd-b295-11f1-98bc-350b59df29cf"
     },
     {
       "id": "1f3e24c5-4731-11ee-a404-df76e8ab7d11",
@@ -1468,23 +1468,6 @@
       "url": "https://trudvsem.ru/vacancy/card/1027809256617/faa0ebf5-55f6-11ee-953c-8138dd12ddbf"
     },
     {
-      "id": "64216c55-aead-11ec-bdf7-550ed7335bbe",
-      "city": "Санкт-Петербург",
-      "title": "Уборщик служебных помещений 1 разряда",
-      "emp": "СПБ ГБУ ДО СШОР \"АКАДЕМИЯ ЛЕГКОЙ АТЛЕТИКИ\"",
-      "salary": "30 000 — 40 000 руб./мес.",
-      "loc": "Удаленно",
-      "tags": [
-        "Студентам"
-      ],
-      "part": true,
-      "perm": false,
-      "remote": true,
-      "noexp": true,
-      "students": true,
-      "url": "https://trudvsem.ru/vacancy/card/1047841057186/64216c55-aead-11ec-bdf7-550ed7335bbe"
-    },
-    {
       "id": "b46f3f20-696c-11f1-b58e-dd53c9fce633",
       "city": "Санкт-Петербург",
       "title": "Уборщик",
@@ -1500,6 +1483,23 @@
       "noexp": true,
       "students": true,
       "url": "https://trudvsem.ru/vacancy/card/54c46670-fa60-11e5-9aa0-736ab11edb0c/b46f3f20-696c-11f1-b58e-dd53c9fce633"
+    },
+    {
+      "id": "64216c55-aead-11ec-bdf7-550ed7335bbe",
+      "city": "Санкт-Петербург",
+      "title": "Уборщик служебных помещений 1 разряда",
+      "emp": "СПБ ГБУ ДО СШОР \"АКАДЕМИЯ ЛЕГКОЙ АТЛЕТИКИ\"",
+      "salary": "30 000 — 40 000 руб./мес.",
+      "loc": "Удаленно",
+      "tags": [
+        "Студентам"
+      ],
+      "part": true,
+      "perm": false,
+      "remote": true,
+      "noexp": true,
+      "students": true,
+      "url": "https://trudvsem.ru/vacancy/card/1047841057186/64216c55-aead-11ec-bdf7-550ed7335bbe"
     },
     {
       "id": "3e67fcc8-918b-11f1-b277-2737f6f4cf0b",
@@ -2595,23 +2595,6 @@
       "url": "https://trudvsem.ru/vacancy/card/ee7cd1a0-8350-11e8-8b9e-ef76bd2a03c1/a3a46ee8-37ca-11f1-889f-09fcf7d79153"
     },
     {
-      "id": "91b8af39-948f-11f1-9253-c35c7c22d563",
-      "city": "Екатеринбург",
-      "title": "Кассир",
-      "emp": "ЧУ \"СПОРТИВНЫЙ КОМПЛЕКС \"ЛУЧ\"",
-      "salary": "35 000 руб./мес.",
-      "loc": "Свердловская область, г Екатеринбург",
-      "tags": [
-        "Студентам"
-      ],
-      "part": true,
-      "perm": false,
-      "remote": false,
-      "noexp": true,
-      "students": true,
-      "url": "https://trudvsem.ru/vacancy/card/1169600003253/91b8af39-948f-11f1-9253-c35c7c22d563"
-    },
-    {
       "id": "558a9348-d4cb-11f0-95a5-b982dbc00f11",
       "city": "Екатеринбург",
       "title": "Кассир билетный на железнодорожном транспорте",
@@ -2627,6 +2610,23 @@
       "noexp": true,
       "students": true,
       "url": "https://trudvsem.ru/vacancy/card/ee7cd1a0-8350-11e8-8b9e-ef76bd2a03c1/558a9348-d4cb-11f0-95a5-b982dbc00f11"
+    },
+    {
+      "id": "91b8af39-948f-11f1-9253-c35c7c22d563",
+      "city": "Екатеринбург",
+      "title": "Кассир",
+      "emp": "ЧУ \"СПОРТИВНЫЙ КОМПЛЕКС \"ЛУЧ\"",
+      "salary": "35 000 руб./мес.",
+      "loc": "Свердловская область, г Екатеринбург",
+      "tags": [
+        "Студентам"
+      ],
+      "part": true,
+      "perm": false,
+      "remote": false,
+      "noexp": true,
+      "students": true,
+      "url": "https://trudvsem.ru/vacancy/card/1169600003253/91b8af39-948f-11f1-9253-c35c7c22d563"
     },
     {
       "id": "2013b508-b704-11f0-a1f0-cffd1e1c368e",
