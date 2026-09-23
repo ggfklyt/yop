@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-23T19:46:56.403Z",
+  "updatedAt": "2026-09-23T23:04:08.311Z",
   "source": "trudvsem.ru",
   "vacancies": [
     {
@@ -405,23 +405,6 @@
       "url": "https://trudvsem.ru/vacancy/card/1096315000396/832088d8-081c-11f1-93cf-9fd44cff2ded"
     },
     {
-      "id": "32507cf8-a08b-11f1-be6c-191a6b2a1e33",
-      "city": "Москва",
-      "title": "Уборщик территорий",
-      "emp": "ООО УК \"ФЕМЕЛИ ЛАЙФ\"",
-      "salary": "46 000 — 92 000 руб./мес.",
-      "loc": "Удаленно",
-      "tags": [
-        "Студентам"
-      ],
-      "part": false,
-      "perm": true,
-      "remote": true,
-      "noexp": true,
-      "students": true,
-      "url": "https://trudvsem.ru/vacancy/card/1217700480722/32507cf8-a08b-11f1-be6c-191a6b2a1e33"
-    },
-    {
       "id": "4f9ae185-ab5b-11f1-9add-6585d7d14481",
       "city": "Москва",
       "title": "Врач-оториноларинголог",
@@ -437,26 +420,11 @@
       "url": "https://trudvsem.ru/vacancy/card/1027700404797/4f9ae185-ab5b-11f1-9add-6585d7d14481"
     },
     {
-      "id": "3aa97468-c5ae-11ef-87be-cb26dff57dd7",
+      "id": "32507cf8-a08b-11f1-be6c-191a6b2a1e33",
       "city": "Москва",
-      "title": "Горничная",
-      "emp": "ИП ЗАВЬЯЛОВ Л. Н.",
-      "salary": "40 000 — 45 000 руб./мес.",
-      "loc": "Удаленно",
-      "tags": [],
-      "part": false,
-      "perm": true,
-      "remote": true,
-      "noexp": false,
-      "students": false,
-      "url": "https://trudvsem.ru/vacancy/card/319774600209621/3aa97468-c5ae-11ef-87be-cb26dff57dd7"
-    },
-    {
-      "id": "24e15058-2cfd-11f1-a71f-0dcd003ac4b5",
-      "city": "Москва",
-      "title": "Главный специалист службы поддержки рабочих станций",
-      "emp": "АО \"ОЭК\"",
-      "salary": "99 000 — 130 000 руб./мес.",
+      "title": "Уборщик территорий",
+      "emp": "ООО УК \"ФЕМЕЛИ ЛАЙФ\"",
+      "salary": "46 000 — 92 000 руб./мес.",
       "loc": "Удаленно",
       "tags": [
         "Студентам"
@@ -466,7 +434,7 @@
       "remote": true,
       "noexp": true,
       "students": true,
-      "url": "https://trudvsem.ru/vacancy/card/1057746394155/24e15058-2cfd-11f1-a71f-0dcd003ac4b5"
+      "url": "https://trudvsem.ru/vacancy/card/1217700480722/32507cf8-a08b-11f1-be6c-191a6b2a1e33"
     },
     {
       "id": "c351cb28-5a7f-11f1-ab98-0542b89dd3fc",
@@ -499,6 +467,38 @@
       "noexp": false,
       "students": false,
       "url": "https://trudvsem.ru/vacancy/card/5147746474134/265a2b12-a074-11f1-af3e-bf7d17e6c61f"
+    },
+    {
+      "id": "24e15058-2cfd-11f1-a71f-0dcd003ac4b5",
+      "city": "Москва",
+      "title": "Главный специалист службы поддержки рабочих станций",
+      "emp": "АО \"ОЭК\"",
+      "salary": "99 000 — 130 000 руб./мес.",
+      "loc": "Удаленно",
+      "tags": [
+        "Студентам"
+      ],
+      "part": false,
+      "perm": true,
+      "remote": true,
+      "noexp": true,
+      "students": true,
+      "url": "https://trudvsem.ru/vacancy/card/1057746394155/24e15058-2cfd-11f1-a71f-0dcd003ac4b5"
+    },
+    {
+      "id": "3aa97468-c5ae-11ef-87be-cb26dff57dd7",
+      "city": "Москва",
+      "title": "Горничная",
+      "emp": "ИП ЗАВЬЯЛОВ Л. Н.",
+      "salary": "40 000 — 45 000 руб./мес.",
+      "loc": "Удаленно",
+      "tags": [],
+      "part": false,
+      "perm": true,
+      "remote": true,
+      "noexp": false,
+      "students": false,
+      "url": "https://trudvsem.ru/vacancy/card/319774600209621/3aa97468-c5ae-11ef-87be-cb26dff57dd7"
     },
     {
       "id": "9bf66f54-b64a-11f1-a359-51a4bfdfde9f",
@@ -1349,23 +1349,6 @@
       "url": "https://trudvsem.ru/vacancy/card/1037867009817/99e8e448-c514-11f0-82a6-f10ff9b67cde"
     },
     {
-      "id": "c7d2facd-b295-11f1-98bc-350b59df29cf",
-      "city": "Санкт-Петербург",
-      "title": "Уборщик территорий",
-      "emp": "ГБДОУ ДЕТСКИЙ САД № 15 КАЛИНИНСКОГО РАЙОНА САНКТ-ПЕТЕРБУРГА",
-      "salary": "32 000 — 32 500 руб./мес.",
-      "loc": "Удаленно",
-      "tags": [
-        "Студентам"
-      ],
-      "part": true,
-      "perm": false,
-      "remote": true,
-      "noexp": true,
-      "students": true,
-      "url": "https://trudvsem.ru/vacancy/card/1027802502221/c7d2facd-b295-11f1-98bc-350b59df29cf"
-    },
-    {
       "id": "52fbf7f4-9172-11f1-9d62-2f50b9e6b1e0",
       "city": "Санкт-Петербург",
       "title": "Автомаляр",
@@ -1381,6 +1364,23 @@
       "noexp": true,
       "students": true,
       "url": "https://trudvsem.ru/vacancy/card/1027804919230/52fbf7f4-9172-11f1-9d62-2f50b9e6b1e0"
+    },
+    {
+      "id": "c7d2facd-b295-11f1-98bc-350b59df29cf",
+      "city": "Санкт-Петербург",
+      "title": "Уборщик территорий",
+      "emp": "ГБДОУ ДЕТСКИЙ САД № 15 КАЛИНИНСКОГО РАЙОНА САНКТ-ПЕТЕРБУРГА",
+      "salary": "32 000 — 32 500 руб./мес.",
+      "loc": "Удаленно",
+      "tags": [
+        "Студентам"
+      ],
+      "part": true,
+      "perm": false,
+      "remote": true,
+      "noexp": true,
+      "students": true,
+      "url": "https://trudvsem.ru/vacancy/card/1027802502221/c7d2facd-b295-11f1-98bc-350b59df29cf"
     },
     {
       "id": "1f3e24c5-4731-11ee-a404-df76e8ab7d11",
@@ -1468,23 +1468,6 @@
       "url": "https://trudvsem.ru/vacancy/card/1027809256617/faa0ebf5-55f6-11ee-953c-8138dd12ddbf"
     },
     {
-      "id": "64216c55-aead-11ec-bdf7-550ed7335bbe",
-      "city": "Санкт-Петербург",
-      "title": "Уборщик служебных помещений 1 разряда",
-      "emp": "СПБ ГБУ ДО СШОР \"АКАДЕМИЯ ЛЕГКОЙ АТЛЕТИКИ\"",
-      "salary": "30 000 — 40 000 руб./мес.",
-      "loc": "Удаленно",
-      "tags": [
-        "Студентам"
-      ],
-      "part": true,
-      "perm": false,
-      "remote": true,
-      "noexp": true,
-      "students": true,
-      "url": "https://trudvsem.ru/vacancy/card/1047841057186/64216c55-aead-11ec-bdf7-550ed7335bbe"
-    },
-    {
       "id": "b46f3f20-696c-11f1-b58e-dd53c9fce633",
       "city": "Санкт-Петербург",
       "title": "Уборщик",
@@ -1500,6 +1483,23 @@
       "noexp": true,
       "students": true,
       "url": "https://trudvsem.ru/vacancy/card/54c46670-fa60-11e5-9aa0-736ab11edb0c/b46f3f20-696c-11f1-b58e-dd53c9fce633"
+    },
+    {
+      "id": "64216c55-aead-11ec-bdf7-550ed7335bbe",
+      "city": "Санкт-Петербург",
+      "title": "Уборщик служебных помещений 1 разряда",
+      "emp": "СПБ ГБУ ДО СШОР \"АКАДЕМИЯ ЛЕГКОЙ АТЛЕТИКИ\"",
+      "salary": "30 000 — 40 000 руб./мес.",
+      "loc": "Удаленно",
+      "tags": [
+        "Студентам"
+      ],
+      "part": true,
+      "perm": false,
+      "remote": true,
+      "noexp": true,
+      "students": true,
+      "url": "https://trudvsem.ru/vacancy/card/1047841057186/64216c55-aead-11ec-bdf7-550ed7335bbe"
     },
     {
       "id": "22ced4e8-b682-11f1-80a9-795f97aab242",
@@ -1655,23 +1655,6 @@
       "url": "https://trudvsem.ru/vacancy/card/1027808917267/5e8393b8-7701-11f1-a41f-c3af44321512"
     },
     {
-      "id": "d785f0b0-7b9c-11f1-9c66-2fef8d2eaa81",
-      "city": "Санкт-Петербург",
-      "title": "Водитель-курьер",
-      "emp": "Почта России",
-      "salary": "75 000 — 84 000 руб./мес.",
-      "loc": "г Санкт-Петербург, Софийская улица",
-      "tags": [
-        "Студентам"
-      ],
-      "part": false,
-      "perm": true,
-      "remote": false,
-      "noexp": true,
-      "students": true,
-      "url": "https://trudvsem.ru/vacancy/card/1027700404797/d785f0b0-7b9c-11f1-9c66-2fef8d2eaa81"
-    },
-    {
       "id": "d60bfebd-b101-11f1-987b-b1d3bf2d14ab",
       "city": "Санкт-Петербург",
       "title": "Курьер",
@@ -1738,6 +1721,23 @@
       "noexp": true,
       "students": true,
       "url": "https://trudvsem.ru/vacancy/card/5147746474134/43b51430-c2c2-11f0-96de-f95715a26ab8"
+    },
+    {
+      "id": "d785f0b0-7b9c-11f1-9c66-2fef8d2eaa81",
+      "city": "Санкт-Петербург",
+      "title": "Водитель-курьер",
+      "emp": "Почта России",
+      "salary": "75 000 — 84 000 руб./мес.",
+      "loc": "г Санкт-Петербург, Софийская улица",
+      "tags": [
+        "Студентам"
+      ],
+      "part": false,
+      "perm": true,
+      "remote": false,
+      "noexp": true,
+      "students": true,
+      "url": "https://trudvsem.ru/vacancy/card/1027700404797/d785f0b0-7b9c-11f1-9c66-2fef8d2eaa81"
     },
     {
       "id": "ac3994d4-b65b-11f1-8f1e-8b901c2fc154",
