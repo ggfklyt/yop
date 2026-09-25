@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-25T20:07:18.302Z",
+  "updatedAt": "2026-09-25T23:24:26.221Z",
   "source": "trudvsem.ru",
   "vacancies": [
     {
@@ -450,23 +450,6 @@
       "url": "https://trudvsem.ru/vacancy/card/319774600209621/3aa97468-c5ae-11ef-87be-cb26dff57dd7"
     },
     {
-      "id": "36865f24-a6c5-11f1-a596-0d553401c451",
-      "city": "Москва",
-      "title": "Специалист по обслуживанию клиентов",
-      "emp": "Газпромбанк Мобайл (ООО НМК)",
-      "salary": "от 64 350 руб./мес.",
-      "loc": "Удаленно",
-      "tags": [
-        "Студентам"
-      ],
-      "part": false,
-      "perm": true,
-      "remote": true,
-      "noexp": true,
-      "students": true,
-      "url": "https://trudvsem.ru/vacancy/card/7226c750-02f1-11eb-8600-bfd13399602c/36865f24-a6c5-11f1-a596-0d553401c451"
-    },
-    {
       "id": "bd2a9928-5fde-11f1-a885-41d00752341b",
       "city": "Москва",
       "title": "Уборщик территории",
@@ -482,6 +465,23 @@
       "noexp": true,
       "students": true,
       "url": "https://trudvsem.ru/vacancy/card/1037739485937/bd2a9928-5fde-11f1-a885-41d00752341b"
+    },
+    {
+      "id": "36865f24-a6c5-11f1-a596-0d553401c451",
+      "city": "Москва",
+      "title": "Специалист по обслуживанию клиентов",
+      "emp": "Газпромбанк Мобайл (ООО НМК)",
+      "salary": "от 64 350 руб./мес.",
+      "loc": "Удаленно",
+      "tags": [
+        "Студентам"
+      ],
+      "part": false,
+      "perm": true,
+      "remote": true,
+      "noexp": true,
+      "students": true,
+      "url": "https://trudvsem.ru/vacancy/card/7226c750-02f1-11eb-8600-bfd13399602c/36865f24-a6c5-11f1-a596-0d553401c451"
     },
     {
       "id": "ac409870-7e85-11f0-bf79-d36f4c8f3065",
@@ -2295,6 +2295,23 @@
       "url": "https://trudvsem.ru/vacancy/card/1026602341006/d91db1a8-b849-11ef-84f2-1f3aadc834d0"
     },
     {
+      "id": "cadd91c0-57de-11f0-8e74-e7d0d2cf29b1",
+      "city": "Екатеринбург",
+      "title": "врач-стажер",
+      "emp": "ГАУЗ СО \"БСМЭ\"",
+      "salary": "33 000 — 41 000 руб./мес.",
+      "loc": "Свердловская область, г Екатеринбург",
+      "tags": [
+        "Студентам"
+      ],
+      "part": false,
+      "perm": true,
+      "remote": false,
+      "noexp": true,
+      "students": true,
+      "url": "https://trudvsem.ru/vacancy/card/1026602326101/cadd91c0-57de-11f0-8e74-e7d0d2cf29b1"
+    },
+    {
       "id": "bcf32fa4-b347-11f1-a8f5-97f2de33f974",
       "city": "Екатеринбург",
       "title": "Пеший курьер",
@@ -3020,21 +3037,6 @@
       "noexp": true,
       "students": true,
       "url": "https://trudvsem.ru/vacancy/card/1269600013858/4e3cfd48-553a-11f1-ae4c-b7d71698c4cb"
-    },
-    {
-      "id": "febcfa95-2b71-11ed-85de-35178352af9b",
-      "city": "Екатеринбург",
-      "title": "Оператор станков с ЧПУ",
-      "emp": "АО \"УРАЛТРАНСМАШ\"",
-      "salary": "120 000 — 150 000 руб./мес.",
-      "loc": "Свердловская область, г Екатеринбург",
-      "tags": [],
-      "part": true,
-      "perm": false,
-      "remote": false,
-      "noexp": false,
-      "students": false,
-      "url": "https://trudvsem.ru/vacancy/card/1096659005200/febcfa95-2b71-11ed-85de-35178352af9b"
     }
   ]
 }
