@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-27T23:07:50.947Z",
+  "updatedAt": "2026-09-28T05:26:44.431Z",
   "source": "trudvsem.ru",
   "vacancies": [
     {
@@ -2616,23 +2616,6 @@
       "url": "https://trudvsem.ru/vacancy/card/1157746448463/8cb23edb-0717-11f1-854c-672d91331a28"
     },
     {
-      "id": "082a28a8-0571-11f1-8a1f-09ba9925910c",
-      "city": "Екатеринбург",
-      "title": "Водитель-экспедитор",
-      "emp": "ООО \"ИНМАРКО-ТРЕЙД\"",
-      "salary": "90 000 — 100 000 руб./мес.",
-      "loc": "Свердловская область, г Екатеринбург",
-      "tags": [
-        "Студентам"
-      ],
-      "part": false,
-      "perm": true,
-      "remote": false,
-      "noexp": true,
-      "students": true,
-      "url": "https://trudvsem.ru/vacancy/card/1115543032890/082a28a8-0571-11f1-8a1f-09ba9925910c"
-    },
-    {
       "id": "2e699b90-9563-11f1-9253-c35c7c22d563",
       "city": "Екатеринбург",
       "title": "Кассир билетный",
@@ -3039,6 +3022,23 @@
       "noexp": true,
       "students": true,
       "url": "https://trudvsem.ru/vacancy/card/1027700404797/1081a8e4-75d6-11f1-8203-31b203ec1dc0"
+    },
+    {
+      "id": "f35eb9d4-4a95-11f1-bcab-795d60a198e8",
+      "city": "Екатеринбург",
+      "title": "Продавец-кассир",
+      "emp": "Пятёрочка",
+      "salary": "50 200 — 67 800 руб./мес.",
+      "loc": "Свердловская область, г Екатеринбург",
+      "tags": [
+        "Студентам"
+      ],
+      "part": true,
+      "perm": false,
+      "remote": false,
+      "noexp": true,
+      "students": true,
+      "url": "https://trudvsem.ru/vacancy/card/1027700404797/f35eb9d4-4a95-11f1-bcab-795d60a198e8"
     }
   ]
 }
