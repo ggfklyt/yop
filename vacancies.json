@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-30T14:59:45.670Z",
+  "updatedAt": "2026-09-30T20:53:14.545Z",
   "source": "trudvsem.ru",
   "vacancies": [
     {
@@ -169,23 +169,6 @@
       "url": "https://trudvsem.ru/vacancy/card/5147746474134/7c558de4-b02b-11f1-8b99-7f552e9a29df"
     },
     {
-      "id": "2d8abd24-b116-11f1-87d5-45dabc191f7c",
-      "city": "Москва",
-      "title": "Оператор колл-центра МТС (удаленно)",
-      "emp": "ИНДИВИДУАЛЬНЫЙ ПРЕДПРИНИМАТЕЛЬ ПАЛАНТО МАРИНА ВЕНИАМИНОВНА",
-      "salary": "от 55 000 руб./мес.",
-      "loc": "Удаленно",
-      "tags": [
-        "Студентам"
-      ],
-      "part": false,
-      "perm": true,
-      "remote": true,
-      "noexp": true,
-      "students": true,
-      "url": "https://trudvsem.ru/vacancy/card/5147746474134/2d8abd24-b116-11f1-87d5-45dabc191f7c"
-    },
-    {
       "id": "44b5d715-bb33-11f1-b63c-790d10f69fe4",
       "city": "Москва",
       "title": "Оператор на телефоне (удаленно)",
@@ -201,6 +184,23 @@
       "noexp": true,
       "students": true,
       "url": "https://trudvsem.ru/vacancy/card/1027700404797/44b5d715-bb33-11f1-b63c-790d10f69fe4"
+    },
+    {
+      "id": "2d8abd24-b116-11f1-87d5-45dabc191f7c",
+      "city": "Москва",
+      "title": "Оператор колл-центра МТС (удаленно)",
+      "emp": "ИНДИВИДУАЛЬНЫЙ ПРЕДПРИНИМАТЕЛЬ ПАЛАНТО МАРИНА ВЕНИАМИНОВНА",
+      "salary": "от 55 000 руб./мес.",
+      "loc": "Удаленно",
+      "tags": [
+        "Студентам"
+      ],
+      "part": false,
+      "perm": true,
+      "remote": true,
+      "noexp": true,
+      "students": true,
+      "url": "https://trudvsem.ru/vacancy/card/5147746474134/2d8abd24-b116-11f1-87d5-45dabc191f7c"
     },
     {
       "id": "cdce4034-bb2b-11f1-b63c-790d10f69fe4",
@@ -2223,23 +2223,6 @@
       "url": "https://trudvsem.ru/vacancy/card/1026605414923/7c56ac29-922b-11f1-9d62-2f50b9e6b1e0"
     },
     {
-      "id": "075c7048-493c-11f1-b4d8-b7a0ba5a93f0",
-      "city": "Екатеринбург",
-      "title": "Овощевод",
-      "emp": "АО \"ТЕПЛИЧНОЕ\"",
-      "salary": "50 000 — 86 000 руб./мес.",
-      "loc": "Удаленно",
-      "tags": [
-        "Студентам"
-      ],
-      "part": false,
-      "perm": true,
-      "remote": true,
-      "noexp": true,
-      "students": true,
-      "url": "https://trudvsem.ru/vacancy/card/1026605613440/075c7048-493c-11f1-b4d8-b7a0ba5a93f0"
-    },
-    {
       "id": "cc5a4608-4aaa-11f1-85a4-cd5543c4b30c",
       "city": "Екатеринбург",
       "title": "врач-стажер",
@@ -3035,6 +3018,21 @@
       "noexp": true,
       "students": true,
       "url": "https://trudvsem.ru/vacancy/card/1027700404797/63e9e294-7aa9-11f1-8673-45b033f36c49"
+    },
+    {
+      "id": "9bf1113c-9616-11f1-9253-c35c7c22d563",
+      "city": "Екатеринбург",
+      "title": "Оператор котельной",
+      "emp": "АО \"ЗАВОД ДЕФИБРЕРНЫХ КАМНЕЙ\", АО \"ДЕФТ\"",
+      "salary": "70 000 руб./мес.",
+      "loc": "Свердловская область, г Екатеринбург",
+      "tags": [],
+      "part": true,
+      "perm": false,
+      "remote": false,
+      "noexp": false,
+      "students": false,
+      "url": "https://trudvsem.ru/vacancy/card/1026605770861/9bf1113c-9616-11f1-9253-c35c7c22d563"
     }
   ]
 }
