@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-30T20:53:14.545Z",
+  "updatedAt": "2026-10-01T05:55:18.555Z",
   "source": "trudvsem.ru",
   "vacancies": [
     {
@@ -169,23 +169,6 @@
       "url": "https://trudvsem.ru/vacancy/card/5147746474134/7c558de4-b02b-11f1-8b99-7f552e9a29df"
     },
     {
-      "id": "44b5d715-bb33-11f1-b63c-790d10f69fe4",
-      "city": "Москва",
-      "title": "Оператор на телефоне (удаленно)",
-      "emp": "СПЛАЙН-ЦЕНТР",
-      "salary": "60 000 руб./мес.",
-      "loc": "Удаленно",
-      "tags": [
-        "Студентам"
-      ],
-      "part": true,
-      "perm": false,
-      "remote": true,
-      "noexp": true,
-      "students": true,
-      "url": "https://trudvsem.ru/vacancy/card/1027700404797/44b5d715-bb33-11f1-b63c-790d10f69fe4"
-    },
-    {
       "id": "2d8abd24-b116-11f1-87d5-45dabc191f7c",
       "city": "Москва",
       "title": "Оператор колл-центра МТС (удаленно)",
@@ -201,6 +184,23 @@
       "noexp": true,
       "students": true,
       "url": "https://trudvsem.ru/vacancy/card/5147746474134/2d8abd24-b116-11f1-87d5-45dabc191f7c"
+    },
+    {
+      "id": "44b5d715-bb33-11f1-b63c-790d10f69fe4",
+      "city": "Москва",
+      "title": "Оператор на телефоне (удаленно)",
+      "emp": "СПЛАЙН-ЦЕНТР",
+      "salary": "60 000 руб./мес.",
+      "loc": "Удаленно",
+      "tags": [
+        "Студентам"
+      ],
+      "part": true,
+      "perm": false,
+      "remote": true,
+      "noexp": true,
+      "students": true,
+      "url": "https://trudvsem.ru/vacancy/card/1027700404797/44b5d715-bb33-11f1-b63c-790d10f69fe4"
     },
     {
       "id": "cdce4034-bb2b-11f1-b63c-790d10f69fe4",
