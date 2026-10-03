@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-03T19:19:46.431Z",
+  "updatedAt": "2026-10-03T23:07:06.443Z",
   "source": "trudvsem.ru",
   "vacancies": [
     {
@@ -2027,23 +2027,6 @@
       "url": "https://trudvsem.ru/vacancy/card/1027700404797/ee130145-a2d6-11f1-92d5-b59e14cc29e1"
     },
     {
-      "id": "4ede2600-9c59-11f1-9fec-876800c2b0fe",
-      "city": "Екатеринбург",
-      "title": "Уборщик территорий",
-      "emp": "МАОУ ГИМНАЗИЯ № 174 ИМЕНИ Л.Я. ДРАПКИНА",
-      "salary": "31 157 — 32 000 руб./мес.",
-      "loc": "Удаленно",
-      "tags": [
-        "Студентам"
-      ],
-      "part": false,
-      "perm": true,
-      "remote": true,
-      "noexp": true,
-      "students": true,
-      "url": "https://trudvsem.ru/vacancy/card/1026602951231/4ede2600-9c59-11f1-9fec-876800c2b0fe"
-    },
-    {
       "id": "8a725745-8516-11f1-ac8d-4fe6b4df619d",
       "city": "Екатеринбург",
       "title": "Удалённый рекрутер СВО /специалист по поиску кандидатов на военную службу по контракту",
@@ -2059,6 +2042,23 @@
       "noexp": true,
       "students": true,
       "url": "https://trudvsem.ru/vacancy/card/1027700404797/8a725745-8516-11f1-ac8d-4fe6b4df619d"
+    },
+    {
+      "id": "4ede2600-9c59-11f1-9fec-876800c2b0fe",
+      "city": "Екатеринбург",
+      "title": "Уборщик территорий",
+      "emp": "МАОУ ГИМНАЗИЯ № 174 ИМЕНИ Л.Я. ДРАПКИНА",
+      "salary": "31 157 — 32 000 руб./мес.",
+      "loc": "Удаленно",
+      "tags": [
+        "Студентам"
+      ],
+      "part": false,
+      "perm": true,
+      "remote": true,
+      "noexp": true,
+      "students": true,
+      "url": "https://trudvsem.ru/vacancy/card/1026602951231/4ede2600-9c59-11f1-9fec-876800c2b0fe"
     },
     {
       "id": "c8ab0695-0842-11ef-834d-d549be31d974",
