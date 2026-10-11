@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-11T05:48:10.769Z",
+  "updatedAt": "2026-10-11T14:58:10.672Z",
   "source": "trudvsem.ru",
   "vacancies": [
     {
@@ -416,23 +416,6 @@
       "url": "https://trudvsem.ru/vacancy/card/319774600209621/3aa97468-c5ae-11ef-87be-cb26dff57dd7"
     },
     {
-      "id": "bd2a9928-5fde-11f1-a885-41d00752341b",
-      "city": "Москва",
-      "title": "Уборщик территории",
-      "emp": "ГБУЗ \"ГВВ № 3 ДЗМ\"",
-      "salary": "60 000 — 65 000 руб./мес.",
-      "loc": "Удаленно",
-      "tags": [
-        "Студентам"
-      ],
-      "part": false,
-      "perm": true,
-      "remote": true,
-      "noexp": true,
-      "students": true,
-      "url": "https://trudvsem.ru/vacancy/card/1037739485937/bd2a9928-5fde-11f1-a885-41d00752341b"
-    },
-    {
       "id": "ac409870-7e85-11f0-bf79-d36f4c8f3065",
       "city": "Москва",
       "title": "Специалист на портал Наш город",
@@ -501,6 +484,23 @@
       "url": "https://trudvsem.ru/vacancy/card/1117746085490/1d8fedf8-494c-11f1-b4d8-b7a0ba5a93f0"
     },
     {
+      "id": "4ddf4c1c-9002-11f1-b244-c5b25bc14f69",
+      "city": "Москва",
+      "title": "Уборщик помещения",
+      "emp": "ГБОУ ШКОЛА № 2057 ИМ. И.С. БАРОВА",
+      "salary": "75 000 — 80 000 руб./мес.",
+      "loc": "Удаленно",
+      "tags": [
+        "Студентам"
+      ],
+      "part": false,
+      "perm": true,
+      "remote": true,
+      "noexp": true,
+      "students": true,
+      "url": "https://trudvsem.ru/vacancy/card/1025003750628/4ddf4c1c-9002-11f1-b244-c5b25bc14f69"
+    },
+    {
       "id": "00581e91-4eb8-11f1-9112-eb3b2f9245e3",
       "city": "Москва",
       "title": "Стажёр в команду разработки",
@@ -516,6 +516,23 @@
       "noexp": true,
       "students": true,
       "url": "https://trudvsem.ru/vacancy/card/1157746363994/00581e91-4eb8-11f1-9112-eb3b2f9245e3"
+    },
+    {
+      "id": "c05f2734-6634-11f1-be18-ff560cf82783",
+      "city": "Москва",
+      "title": "Бухгалтер-стажер",
+      "emp": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"ГАЛСОФТ\"",
+      "salary": "30 000 — 50 000 руб./мес.",
+      "loc": "г Москва, Научный проезд",
+      "tags": [
+        "Студентам"
+      ],
+      "part": false,
+      "perm": true,
+      "remote": false,
+      "noexp": true,
+      "students": true,
+      "url": "https://trudvsem.ru/vacancy/card/5147746474134/c05f2734-6634-11f1-be18-ff560cf82783"
     },
     {
       "id": "b19040b4-bd8f-11f1-ae33-c1e0bfede95f",
@@ -550,23 +567,6 @@
       "noexp": true,
       "students": true,
       "url": "https://trudvsem.ru/vacancy/card/7226c750-02f1-11eb-8600-bfd13399602c/06224d04-b631-11f1-a9f1-81af42855215"
-    },
-    {
-      "id": "c05f2734-6634-11f1-be18-ff560cf82783",
-      "city": "Москва",
-      "title": "Бухгалтер-стажер",
-      "emp": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"ГАЛСОФТ\"",
-      "salary": "30 000 — 50 000 руб./мес.",
-      "loc": "г Москва, Научный проезд",
-      "tags": [
-        "Студентам"
-      ],
-      "part": false,
-      "perm": true,
-      "remote": false,
-      "noexp": true,
-      "students": true,
-      "url": "https://trudvsem.ru/vacancy/card/5147746474134/c05f2734-6634-11f1-be18-ff560cf82783"
     },
     {
       "id": "75053d48-c153-11f1-aa68-7523fb122f6d",
@@ -1691,23 +1691,6 @@
       "url": "https://trudvsem.ru/vacancy/card/1217700543433/d60bfebd-b101-11f1-987b-b1d3bf2d14ab"
     },
     {
-      "id": "9d732484-b5ab-11f1-9bdb-99b71d03405f",
-      "city": "Санкт-Петербург",
-      "title": "Курьер",
-      "emp": "ООО \"Джейкет.ру\"",
-      "salary": "от 232 000 руб./мес.",
-      "loc": "г Санкт-Петербург, Санкт-Петербург",
-      "tags": [
-        "Студентам"
-      ],
-      "part": false,
-      "perm": false,
-      "remote": false,
-      "noexp": true,
-      "students": true,
-      "url": "https://trudvsem.ru/vacancy/card/5147746474134/9d732484-b5ab-11f1-9bdb-99b71d03405f"
-    },
-    {
       "id": "feceb9d9-5361-11f1-9bb5-a37b5f7031a5",
       "city": "Санкт-Петербург",
       "title": "Курьер",
@@ -1776,23 +1759,6 @@
       "url": "https://trudvsem.ru/vacancy/card/1207800136323/e66fcbc8-8063-11f1-9f2b-a9dc3ecfdb9f"
     },
     {
-      "id": "f4420e44-b009-11f1-8b80-810cd6cc82f0",
-      "city": "Санкт-Петербург",
-      "title": "Пеший курьер по доставке документов",
-      "emp": "ООО \"Джейкет.ру\"",
-      "salary": "от 140 000 руб./мес.",
-      "loc": "г Санкт-Петербург, Санкт-Петербург",
-      "tags": [
-        "Студентам"
-      ],
-      "part": true,
-      "perm": false,
-      "remote": false,
-      "noexp": true,
-      "students": true,
-      "url": "https://trudvsem.ru/vacancy/card/5147746474134/f4420e44-b009-11f1-8b80-810cd6cc82f0"
-    },
-    {
       "id": "09add097-c31d-11f1-9dff-97d306130813",
       "city": "Санкт-Петербург",
       "title": "Курьер (стимулирование найма)",
@@ -1827,23 +1793,6 @@
       "url": "https://trudvsem.ru/vacancy/card/309507417600085/b84bad07-b679-11ef-85d8-e7d0d2cf29b1"
     },
     {
-      "id": "e0d08484-bd93-11f1-97a6-15b40067900c",
-      "city": "Санкт-Петербург",
-      "title": "Водитель-курьер на легковом автомобиле",
-      "emp": "СДЭК",
-      "salary": "216 300 руб./мес.",
-      "loc": "г Санкт-Петербург, Аптекарский проспект",
-      "tags": [
-        "Студентам"
-      ],
-      "part": false,
-      "perm": true,
-      "remote": false,
-      "noexp": true,
-      "students": true,
-      "url": "https://trudvsem.ru/vacancy/card/1027700404797/e0d08484-bd93-11f1-97a6-15b40067900c"
-    },
-    {
       "id": "77345a19-5f2e-11f1-aaeb-750452cc88fa",
       "city": "Санкт-Петербург",
       "title": "курьер по доставке банковских продуктов",
@@ -1859,6 +1808,23 @@
       "noexp": true,
       "students": true,
       "url": "https://trudvsem.ru/vacancy/card/324632700033689/77345a19-5f2e-11f1-aaeb-750452cc88fa"
+    },
+    {
+      "id": "e0d08484-bd93-11f1-97a6-15b40067900c",
+      "city": "Санкт-Петербург",
+      "title": "Водитель-курьер на легковом автомобиле",
+      "emp": "СДЭК",
+      "salary": "216 300 руб./мес.",
+      "loc": "г Санкт-Петербург, Аптекарский проспект",
+      "tags": [
+        "Студентам"
+      ],
+      "part": false,
+      "perm": true,
+      "remote": false,
+      "noexp": true,
+      "students": true,
+      "url": "https://trudvsem.ru/vacancy/card/1027700404797/e0d08484-bd93-11f1-97a6-15b40067900c"
     },
     {
       "id": "32bf1d28-3866-11ef-b0ef-29eee561bb17",
@@ -1963,23 +1929,6 @@
       "url": "https://trudvsem.ru/vacancy/card/1117847020400/cf7fbbf8-96e8-11f1-91b0-1f91741cd2d5"
     },
     {
-      "id": "f3e60981-8a97-11f1-aeca-c9464de5d4ac",
-      "city": "Санкт-Петербург",
-      "title": "помощник швеи",
-      "emp": "ООО \"ЦЕНТР РАБОТА-АЙ\"",
-      "salary": "15 625 — 31 250 руб./мес.",
-      "loc": "г Санкт-Петербург, Митрофаньевское шоссе",
-      "tags": [
-        "Студентам"
-      ],
-      "part": true,
-      "perm": false,
-      "remote": false,
-      "noexp": true,
-      "students": true,
-      "url": "https://trudvsem.ru/vacancy/card/1157847130946/f3e60981-8a97-11f1-aeca-c9464de5d4ac"
-    },
-    {
       "id": "910a4bd5-58fc-11f1-92ac-017e92d43e57",
       "city": "Санкт-Петербург",
       "title": "Почтальон (198264)",
@@ -2029,6 +1978,57 @@
       "noexp": true,
       "students": true,
       "url": "https://trudvsem.ru/vacancy/card/1027700404797/953c35b5-58fc-11f1-b860-87bb8eb8da0c"
+    },
+    {
+      "id": "f3e60981-8a97-11f1-aeca-c9464de5d4ac",
+      "city": "Санкт-Петербург",
+      "title": "помощник швеи",
+      "emp": "ООО \"ЦЕНТР РАБОТА-АЙ\"",
+      "salary": "15 625 — 31 250 руб./мес.",
+      "loc": "г Санкт-Петербург, Митрофаньевское шоссе",
+      "tags": [
+        "Студентам"
+      ],
+      "part": true,
+      "perm": false,
+      "remote": false,
+      "noexp": true,
+      "students": true,
+      "url": "https://trudvsem.ru/vacancy/card/1157847130946/f3e60981-8a97-11f1-aeca-c9464de5d4ac"
+    },
+    {
+      "id": "a85911c5-6637-11f1-b292-77cedb184e42",
+      "city": "Санкт-Петербург",
+      "title": "Почтальон",
+      "emp": "Почта России",
+      "salary": "38 000 — 43 000 руб./мес.",
+      "loc": "г Санкт-Петербург, Сортировочная-Московская улица",
+      "tags": [
+        "Студентам"
+      ],
+      "part": false,
+      "perm": true,
+      "remote": false,
+      "noexp": true,
+      "students": true,
+      "url": "https://trudvsem.ru/vacancy/card/1027700404797/a85911c5-6637-11f1-b292-77cedb184e42"
+    },
+    {
+      "id": "fa944b85-a2e1-11f1-b913-fffb39d644e7",
+      "city": "Санкт-Петербург",
+      "title": "Почтальон",
+      "emp": "Почта России",
+      "salary": "38 000 — 44 000 руб./мес.",
+      "loc": "г Санкт-Петербург, Тореза проспект",
+      "tags": [
+        "Студентам"
+      ],
+      "part": false,
+      "perm": true,
+      "remote": false,
+      "noexp": true,
+      "students": true,
+      "url": "https://trudvsem.ru/vacancy/card/1027700404797/fa944b85-a2e1-11f1-b913-fffb39d644e7"
     },
     {
       "id": "4ede2600-9c59-11f1-9fec-876800c2b0fe",
