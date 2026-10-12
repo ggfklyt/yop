@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-11T23:44:27.198Z",
+  "updatedAt": "2026-10-12T05:59:53.351Z",
   "source": "trudvsem.ru",
   "vacancies": [
     {
@@ -1929,23 +1929,6 @@
       "url": "https://trudvsem.ru/vacancy/card/1117847020400/cf7fbbf8-96e8-11f1-91b0-1f91741cd2d5"
     },
     {
-      "id": "f3e60981-8a97-11f1-aeca-c9464de5d4ac",
-      "city": "Санкт-Петербург",
-      "title": "помощник швеи",
-      "emp": "ООО \"ЦЕНТР РАБОТА-АЙ\"",
-      "salary": "15 625 — 31 250 руб./мес.",
-      "loc": "г Санкт-Петербург, Митрофаньевское шоссе",
-      "tags": [
-        "Студентам"
-      ],
-      "part": true,
-      "perm": false,
-      "remote": false,
-      "noexp": true,
-      "students": true,
-      "url": "https://trudvsem.ru/vacancy/card/1157847130946/f3e60981-8a97-11f1-aeca-c9464de5d4ac"
-    },
-    {
       "id": "910a4bd5-58fc-11f1-92ac-017e92d43e57",
       "city": "Санкт-Петербург",
       "title": "Почтальон (198264)",
@@ -1995,6 +1978,23 @@
       "noexp": true,
       "students": true,
       "url": "https://trudvsem.ru/vacancy/card/1027700404797/953c35b5-58fc-11f1-b860-87bb8eb8da0c"
+    },
+    {
+      "id": "f3e60981-8a97-11f1-aeca-c9464de5d4ac",
+      "city": "Санкт-Петербург",
+      "title": "помощник швеи",
+      "emp": "ООО \"ЦЕНТР РАБОТА-АЙ\"",
+      "salary": "15 625 — 31 250 руб./мес.",
+      "loc": "г Санкт-Петербург, Митрофаньевское шоссе",
+      "tags": [
+        "Студентам"
+      ],
+      "part": true,
+      "perm": false,
+      "remote": false,
+      "noexp": true,
+      "students": true,
+      "url": "https://trudvsem.ru/vacancy/card/1157847130946/f3e60981-8a97-11f1-aeca-c9464de5d4ac"
     },
     {
       "id": "a85911c5-6637-11f1-b292-77cedb184e42",
