@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-18T04:33:44.176Z",
+  "updatedAt": "2026-10-18T12:40:44.080Z",
   "source": "trudvsem.ru",
   "vacancies": [
     {
@@ -907,23 +907,6 @@
       "url": "https://trudvsem.ru/vacancy/card/1027700404797/9cb4e740-d122-11f0-92f3-49e48599b3b1"
     },
     {
-      "id": "fbe4dde5-d01b-11f0-92f3-49e48599b3b1",
-      "city": "Москва",
-      "title": "Менеджер по продаже недвижимости",
-      "emp": "ИНКОМ - Недвижимость",
-      "salary": "150 000 руб./мес.",
-      "loc": "г Москва, Осенний бульвар",
-      "tags": [
-        "Студентам"
-      ],
-      "part": false,
-      "perm": true,
-      "remote": false,
-      "noexp": true,
-      "students": true,
-      "url": "https://trudvsem.ru/vacancy/card/1027700404797/fbe4dde5-d01b-11f0-92f3-49e48599b3b1"
-    },
-    {
       "id": "02ee4d85-b665-11f1-823b-a9fe92e671b2",
       "city": "Москва",
       "title": "Агент по продаже недвижимости",
@@ -1007,6 +990,23 @@
       "noexp": true,
       "students": true,
       "url": "https://trudvsem.ru/vacancy/card/1027700404797/ca609400-d1b8-11f0-b8ac-71001667fd17"
+    },
+    {
+      "id": "afc577f5-9b02-11f1-94f3-cd1e75b47adf",
+      "city": "Москва",
+      "title": "Менеджер / Риелтор по недвижимости (вторичный рынок жилья)",
+      "emp": "ИНКОМ - Недвижимость",
+      "salary": "150 000 руб./мес.",
+      "loc": "г Москва, Митинская улица",
+      "tags": [
+        "Студентам"
+      ],
+      "part": false,
+      "perm": true,
+      "remote": false,
+      "noexp": true,
+      "students": true,
+      "url": "https://trudvsem.ru/vacancy/card/1027700404797/afc577f5-9b02-11f1-94f3-cd1e75b47adf"
     },
     {
       "id": "86a5db84-52b9-11f1-a670-d9077f57b045",
@@ -2780,6 +2780,40 @@
       "url": "https://trudvsem.ru/vacancy/card/0d9052e0-3ac5-11e7-824c-4376a32b3f45/126c5d26-c870-11f1-999a-2f7506c6dfb2"
     },
     {
+      "id": "21cd2d04-753f-11f1-9538-f7721c1768bb",
+      "city": "Екатеринбург",
+      "title": "Продавец-кассир",
+      "emp": "Пятёрочка",
+      "salary": "50 200 — 67 800 руб./мес.",
+      "loc": "Свердловская область, г Екатеринбург",
+      "tags": [
+        "Студентам"
+      ],
+      "part": true,
+      "perm": false,
+      "remote": false,
+      "noexp": true,
+      "students": true,
+      "url": "https://trudvsem.ru/vacancy/card/1027700404797/21cd2d04-753f-11f1-9538-f7721c1768bb"
+    },
+    {
+      "id": "622fc594-5fc5-11f1-98ad-ebddbd2d9713",
+      "city": "Екатеринбург",
+      "title": "Продавец-кассир",
+      "emp": "Пятёрочка",
+      "salary": "50 200 — 67 800 руб./мес.",
+      "loc": "Свердловская область, г Екатеринбург",
+      "tags": [
+        "Студентам"
+      ],
+      "part": true,
+      "perm": false,
+      "remote": false,
+      "noexp": true,
+      "students": true,
+      "url": "https://trudvsem.ru/vacancy/card/1027700404797/622fc594-5fc5-11f1-98ad-ebddbd2d9713"
+    },
+    {
       "id": "6287a514-5018-11f1-b0ba-8f8b6802ecb0",
       "city": "Екатеринбург",
       "title": "Продавец-кассир",
@@ -2999,40 +3033,6 @@
       "noexp": true,
       "students": true,
       "url": "https://trudvsem.ru/vacancy/card/1027700404797/6a7db1d4-c938-11f1-93fa-bfcd104593b5"
-    },
-    {
-      "id": "0359c854-c923-11f1-87b2-7f82251b9a96",
-      "city": "Екатеринбург",
-      "title": "Продавец-кассир",
-      "emp": "Пятёрочка",
-      "salary": "50 200 — 67 800 руб./мес.",
-      "loc": "Свердловская область, г Екатеринбург",
-      "tags": [
-        "Студентам"
-      ],
-      "part": true,
-      "perm": false,
-      "remote": false,
-      "noexp": true,
-      "students": true,
-      "url": "https://trudvsem.ru/vacancy/card/1027700404797/0359c854-c923-11f1-87b2-7f82251b9a96"
-    },
-    {
-      "id": "dc2cca74-c922-11f1-a10e-a156f46b1fe8",
-      "city": "Екатеринбург",
-      "title": "Продавец-кассир",
-      "emp": "Пятёрочка",
-      "salary": "50 200 — 67 800 руб./мес.",
-      "loc": "Свердловская область, г Екатеринбург",
-      "tags": [
-        "Студентам"
-      ],
-      "part": true,
-      "perm": false,
-      "remote": false,
-      "noexp": true,
-      "students": true,
-      "url": "https://trudvsem.ru/vacancy/card/1027700404797/dc2cca74-c922-11f1-a10e-a156f46b1fe8"
     }
   ]
 }
