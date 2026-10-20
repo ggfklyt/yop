@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-20T19:59:53.466Z",
+  "updatedAt": "2026-10-20T23:12:18.656Z",
   "source": "trudvsem.ru",
   "vacancies": [
     {
@@ -1311,23 +1311,6 @@
       "url": "https://trudvsem.ru/vacancy/card/1027700251314/18d75978-7c45-11f1-bfbc-a1d6d860641d"
     },
     {
-      "id": "4b46a2e8-1ecf-11f1-99d5-5f9d65125ca1",
-      "city": "Санкт-Петербург",
-      "title": "Уборщик производственных и служебных помещений",
-      "emp": "ФГБОУ ВО СЗГМУ ИМ. И.И. МЕЧНИКОВА МИНЗДРАВА РОССИИ",
-      "salary": "35 000 руб./мес.",
-      "loc": "Удаленно",
-      "tags": [
-        "Студентам"
-      ],
-      "part": false,
-      "perm": true,
-      "remote": true,
-      "noexp": true,
-      "students": true,
-      "url": "https://trudvsem.ru/vacancy/card/1117847434990/4b46a2e8-1ecf-11f1-99d5-5f9d65125ca1"
-    },
-    {
       "id": "619c0419-b5c7-11f1-85fc-83a545b8b137",
       "city": "Санкт-Петербург",
       "title": "Уборщик территорий",
@@ -1360,6 +1343,23 @@
       "noexp": true,
       "students": true,
       "url": "https://trudvsem.ru/vacancy/card/325784700453672/5a036a78-b033-11f1-b99e-4972ddb33ebb"
+    },
+    {
+      "id": "4b46a2e8-1ecf-11f1-99d5-5f9d65125ca1",
+      "city": "Санкт-Петербург",
+      "title": "Уборщик производственных и служебных помещений",
+      "emp": "ФГБОУ ВО СЗГМУ ИМ. И.И. МЕЧНИКОВА МИНЗДРАВА РОССИИ",
+      "salary": "35 000 руб./мес.",
+      "loc": "Удаленно",
+      "tags": [
+        "Студентам"
+      ],
+      "part": false,
+      "perm": true,
+      "remote": true,
+      "noexp": true,
+      "students": true,
+      "url": "https://trudvsem.ru/vacancy/card/1117847434990/4b46a2e8-1ecf-11f1-99d5-5f9d65125ca1"
     },
     {
       "id": "faa0ebf5-55f6-11ee-953c-8138dd12ddbf",
@@ -2708,6 +2708,23 @@
       "url": "https://trudvsem.ru/vacancy/card/1069670118044/f7b071be-a6a0-11f1-b4b9-312b1e80675a"
     },
     {
+      "id": "126c5d26-c870-11f1-999a-2f7506c6dfb2",
+      "city": "Екатеринбург",
+      "title": "Контролер-кассир",
+      "emp": "Свердловская региональная дирекция железнодорожных вокзалов - структурное подразделение Дирекции железнодорожных вокзалов - филиала ОАО \"РЖД\"",
+      "salary": "39 000 — 41 000 руб./мес.",
+      "loc": "Свердловская область, г Екатеринбург",
+      "tags": [
+        "Студентам"
+      ],
+      "part": true,
+      "perm": false,
+      "remote": false,
+      "noexp": true,
+      "students": true,
+      "url": "https://trudvsem.ru/vacancy/card/0d9052e0-3ac5-11e7-824c-4376a32b3f45/126c5d26-c870-11f1-999a-2f7506c6dfb2"
+    },
+    {
       "id": "d1fd7394-5db8-11f1-8fae-f3c3bc369210",
       "city": "Екатеринбург",
       "title": "Продавец-кассир",
@@ -3006,23 +3023,6 @@
       "noexp": false,
       "students": false,
       "url": "https://trudvsem.ru/vacancy/card/1186658000484/f3917718-bae1-11f0-9d5a-9d9dadc64e25"
-    },
-    {
-      "id": "18847898-bae4-11f0-9d5a-9d9dadc64e25",
-      "city": "Екатеринбург",
-      "title": "Ведущий СО-консультант",
-      "emp": "ООО \"КИТ.ТК\"",
-      "salary": "35 000 руб./мес.",
-      "loc": "Свердловская область, г Екатеринбург",
-      "tags": [
-        "Студентам"
-      ],
-      "part": false,
-      "perm": true,
-      "remote": false,
-      "noexp": true,
-      "students": true,
-      "url": "https://trudvsem.ru/vacancy/card/1186658000484/18847898-bae4-11f0-9d5a-9d9dadc64e25"
     }
   ]
 }
