@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-20T23:12:18.656Z",
+  "updatedAt": "2026-10-21T04:44:43.136Z",
   "source": "trudvsem.ru",
   "vacancies": [
     {
@@ -1987,6 +1987,23 @@
       "url": "https://trudvsem.ru/vacancy/card/1027809001956/d6c029e6-c7b2-11f1-9dff-97d306130813"
     },
     {
+      "id": "f3e60981-8a97-11f1-aeca-c9464de5d4ac",
+      "city": "Санкт-Петербург",
+      "title": "помощник швеи",
+      "emp": "ООО \"ЦЕНТР РАБОТА-АЙ\"",
+      "salary": "15 625 — 31 250 руб./мес.",
+      "loc": "г Санкт-Петербург, Митрофаньевское шоссе",
+      "tags": [
+        "Студентам"
+      ],
+      "part": true,
+      "perm": false,
+      "remote": false,
+      "noexp": true,
+      "students": true,
+      "url": "https://trudvsem.ru/vacancy/card/1157847130946/f3e60981-8a97-11f1-aeca-c9464de5d4ac"
+    },
+    {
       "id": "910a4bd5-58fc-11f1-92ac-017e92d43e57",
       "city": "Санкт-Петербург",
       "title": "Почтальон (198264)",
@@ -2002,23 +2019,6 @@
       "noexp": true,
       "students": true,
       "url": "https://trudvsem.ru/vacancy/card/1027700404797/910a4bd5-58fc-11f1-92ac-017e92d43e57"
-    },
-    {
-      "id": "05e6a305-58fc-11f1-92ac-017e92d43e57",
-      "city": "Санкт-Петербург",
-      "title": "Почтальон (198255)",
-      "emp": "Почта России",
-      "salary": "45 000 — 53 000 руб./мес.",
-      "loc": "г Санкт-Петербург, Ветеранов проспект",
-      "tags": [
-        "Студентам"
-      ],
-      "part": false,
-      "perm": true,
-      "remote": false,
-      "noexp": true,
-      "students": true,
-      "url": "https://trudvsem.ru/vacancy/card/1027700404797/05e6a305-58fc-11f1-92ac-017e92d43e57"
     },
     {
       "id": "4ede2600-9c59-11f1-9fec-876800c2b0fe",
@@ -2708,23 +2708,6 @@
       "url": "https://trudvsem.ru/vacancy/card/1069670118044/f7b071be-a6a0-11f1-b4b9-312b1e80675a"
     },
     {
-      "id": "126c5d26-c870-11f1-999a-2f7506c6dfb2",
-      "city": "Екатеринбург",
-      "title": "Контролер-кассир",
-      "emp": "Свердловская региональная дирекция железнодорожных вокзалов - структурное подразделение Дирекции железнодорожных вокзалов - филиала ОАО \"РЖД\"",
-      "salary": "39 000 — 41 000 руб./мес.",
-      "loc": "Свердловская область, г Екатеринбург",
-      "tags": [
-        "Студентам"
-      ],
-      "part": true,
-      "perm": false,
-      "remote": false,
-      "noexp": true,
-      "students": true,
-      "url": "https://trudvsem.ru/vacancy/card/0d9052e0-3ac5-11e7-824c-4376a32b3f45/126c5d26-c870-11f1-999a-2f7506c6dfb2"
-    },
-    {
       "id": "d1fd7394-5db8-11f1-8fae-f3c3bc369210",
       "city": "Екатеринбург",
       "title": "Продавец-кассир",
@@ -3023,6 +3006,23 @@
       "noexp": false,
       "students": false,
       "url": "https://trudvsem.ru/vacancy/card/1186658000484/f3917718-bae1-11f0-9d5a-9d9dadc64e25"
+    },
+    {
+      "id": "18847898-bae4-11f0-9d5a-9d9dadc64e25",
+      "city": "Екатеринбург",
+      "title": "Ведущий СО-консультант",
+      "emp": "ООО \"КИТ.ТК\"",
+      "salary": "35 000 руб./мес.",
+      "loc": "Свердловская область, г Екатеринбург",
+      "tags": [
+        "Студентам"
+      ],
+      "part": false,
+      "perm": true,
+      "remote": false,
+      "noexp": true,
+      "students": true,
+      "url": "https://trudvsem.ru/vacancy/card/1186658000484/18847898-bae4-11f0-9d5a-9d9dadc64e25"
     }
   ]
 }
