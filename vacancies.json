@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-23T23:09:16.251Z",
+  "updatedAt": "2026-10-24T04:34:55.250Z",
   "source": "trudvsem.ru",
   "vacancies": [
     {
@@ -1243,23 +1243,6 @@
       "url": "https://trudvsem.ru/vacancy/card/1027808917377/f86ca06f-63f2-11f1-9d35-ab5792c381fb"
     },
     {
-      "id": "f95cd5cc-b902-11f1-8936-155fc3dbaa44",
-      "city": "Санкт-Петербург",
-      "title": "Специалист группы развития холодных продаж",
-      "emp": "ООО \"ДОКСИНБОКС\"",
-      "salary": "50 000 — 70 000 руб./мес.",
-      "loc": "Удаленно",
-      "tags": [
-        "Студентам"
-      ],
-      "part": false,
-      "perm": true,
-      "remote": true,
-      "noexp": true,
-      "students": true,
-      "url": "https://trudvsem.ru/vacancy/card/1147847551280/f95cd5cc-b902-11f1-8936-155fc3dbaa44"
-    },
-    {
       "id": "c7d2facd-b295-11f1-98bc-350b59df29cf",
       "city": "Санкт-Петербург",
       "title": "Уборщик территорий",
@@ -1275,6 +1258,23 @@
       "noexp": true,
       "students": true,
       "url": "https://trudvsem.ru/vacancy/card/1027802502221/c7d2facd-b295-11f1-98bc-350b59df29cf"
+    },
+    {
+      "id": "f95cd5cc-b902-11f1-8936-155fc3dbaa44",
+      "city": "Санкт-Петербург",
+      "title": "Специалист группы развития холодных продаж",
+      "emp": "ООО \"ДОКСИНБОКС\"",
+      "salary": "50 000 — 70 000 руб./мес.",
+      "loc": "Удаленно",
+      "tags": [
+        "Студентам"
+      ],
+      "part": false,
+      "perm": true,
+      "remote": true,
+      "noexp": true,
+      "students": true,
+      "url": "https://trudvsem.ru/vacancy/card/1147847551280/f95cd5cc-b902-11f1-8936-155fc3dbaa44"
     },
     {
       "id": "18d75978-7c45-11f1-bfbc-a1d6d860641d",
