@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-29T15:19:02.309Z",
+  "updatedAt": "2026-10-29T21:11:01.466Z",
   "source": "trudvsem.ru",
   "vacancies": [
     {
@@ -1262,23 +1262,6 @@
       "url": "https://trudvsem.ru/vacancy/card/1027802502221/c7d2facd-b295-11f1-98bc-350b59df29cf"
     },
     {
-      "id": "f95cd5cc-b902-11f1-8936-155fc3dbaa44",
-      "city": "Санкт-Петербург",
-      "title": "Специалист группы развития холодных продаж",
-      "emp": "ООО \"ДОКСИНБОКС\"",
-      "salary": "50 000 — 70 000 руб./мес.",
-      "loc": "Удаленно",
-      "tags": [
-        "Студентам"
-      ],
-      "part": false,
-      "perm": true,
-      "remote": true,
-      "noexp": true,
-      "students": true,
-      "url": "https://trudvsem.ru/vacancy/card/1147847551280/f95cd5cc-b902-11f1-8936-155fc3dbaa44"
-    },
-    {
       "id": "18d75978-7c45-11f1-bfbc-a1d6d860641d",
       "city": "Санкт-Петербург",
       "title": "Специалист технической поддержки",
@@ -1294,6 +1277,23 @@
       "noexp": true,
       "students": true,
       "url": "https://trudvsem.ru/vacancy/card/1027700251314/18d75978-7c45-11f1-bfbc-a1d6d860641d"
+    },
+    {
+      "id": "f95cd5cc-b902-11f1-8936-155fc3dbaa44",
+      "city": "Санкт-Петербург",
+      "title": "Специалист группы развития холодных продаж",
+      "emp": "ООО \"ДОКСИНБОКС\"",
+      "salary": "50 000 — 70 000 руб./мес.",
+      "loc": "Удаленно",
+      "tags": [
+        "Студентам"
+      ],
+      "part": false,
+      "perm": true,
+      "remote": true,
+      "noexp": true,
+      "students": true,
+      "url": "https://trudvsem.ru/vacancy/card/1147847551280/f95cd5cc-b902-11f1-8936-155fc3dbaa44"
     },
     {
       "id": "619c0419-b5c7-11f1-85fc-83a545b8b137",
@@ -1500,11 +1500,11 @@
       "url": "https://trudvsem.ru/vacancy/card/1077847596573/4fc231d9-e871-11ef-b233-cb26dff57dd7"
     },
     {
-      "id": "b69e00a8-6b06-11f1-b7e2-61dd9c2afed4",
+      "id": "79438c61-89b2-11f1-bb45-4b2af1e5c9cb",
       "city": "Санкт-Петербург",
-      "title": "Секретарь учебной части (диспетчер)",
-      "emp": "ГБОУ ШКОЛА № 634 С УГЛУБЛЕННЫМ ИЗУЧЕНИЕМ АНГЛИЙСКОГО ЯЗЫКА ПРИМОРСКОГО РАЙОНА САНКТ-ПЕТЕРБУРГА",
-      "salary": "50 000 — 80 000 руб./мес.",
+      "title": "Уборщик",
+      "emp": "ГБДОУ ДЕТСКИЙ САД № 3 ПЕТРОГРАДСКОГО РАЙОНА СПБ",
+      "salary": "40 000 — 45 000 руб./мес.",
       "loc": "Удаленно",
       "tags": [
         "Студентам"
@@ -1514,7 +1514,7 @@
       "remote": true,
       "noexp": true,
       "students": true,
-      "url": "https://trudvsem.ru/vacancy/card/1027807573925/b69e00a8-6b06-11f1-b7e2-61dd9c2afed4"
+      "url": "https://trudvsem.ru/vacancy/card/1157847090180/79438c61-89b2-11f1-bb45-4b2af1e5c9cb"
     },
     {
       "id": "81045420-76ec-11f1-a323-9d73f5e76293",
