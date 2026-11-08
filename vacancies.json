@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-08T15:12:31.414Z",
+  "updatedAt": "2026-11-08T20:29:41.916Z",
   "source": "trudvsem.ru",
   "vacancies": [
     {
@@ -2999,6 +2999,23 @@
       "url": "https://trudvsem.ru/vacancy/card/1096601000352/77fe5045-6346-11ee-97aa-e7d0d2cf29b1"
     },
     {
+      "id": "d0cb2940-d1e4-11f1-934e-a10c79f4af41",
+      "city": "Екатеринбург",
+      "title": "Оператор полиграфического оборудования",
+      "emp": "ИП Алиев Руслан Чингизович",
+      "salary": "50 000 — 75 000 руб./мес.",
+      "loc": "Свердловская область, г Екатеринбург",
+      "tags": [
+        "Студентам"
+      ],
+      "part": false,
+      "perm": true,
+      "remote": false,
+      "noexp": true,
+      "students": true,
+      "url": "https://trudvsem.ru/vacancy/card/5147746474134/d0cb2940-d1e4-11f1-934e-a10c79f4af41"
+    },
+    {
       "id": "f3917718-bae1-11f0-9d5a-9d9dadc64e25",
       "city": "Екатеринбург",
       "title": "Ведущий F1-консультант",
@@ -3012,23 +3029,6 @@
       "noexp": false,
       "students": false,
       "url": "https://trudvsem.ru/vacancy/card/1186658000484/f3917718-bae1-11f0-9d5a-9d9dadc64e25"
-    },
-    {
-      "id": "18847898-bae4-11f0-9d5a-9d9dadc64e25",
-      "city": "Екатеринбург",
-      "title": "Ведущий СО-консультант",
-      "emp": "ООО \"КИТ.ТК\"",
-      "salary": "35 000 руб./мес.",
-      "loc": "Свердловская область, г Екатеринбург",
-      "tags": [
-        "Студентам"
-      ],
-      "part": false,
-      "perm": true,
-      "remote": false,
-      "noexp": true,
-      "students": true,
-      "url": "https://trudvsem.ru/vacancy/card/1186658000484/18847898-bae4-11f0-9d5a-9d9dadc64e25"
     }
   ]
 }
