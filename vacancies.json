@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-08T20:29:41.916Z",
+  "updatedAt": "2026-11-09T06:28:42.136Z",
   "source": "trudvsem.ru",
   "vacancies": [
     {
@@ -282,21 +282,6 @@
       "url": "https://trudvsem.ru/vacancy/card/1096315000396/832088d8-081c-11f1-93cf-9fd44cff2ded"
     },
     {
-      "id": "3aa97468-c5ae-11ef-87be-cb26dff57dd7",
-      "city": "Москва",
-      "title": "Горничная",
-      "emp": "ИП ЗАВЬЯЛОВ Л. Н.",
-      "salary": "40 000 — 45 000 руб./мес.",
-      "loc": "Удаленно",
-      "tags": [],
-      "part": false,
-      "perm": true,
-      "remote": true,
-      "noexp": false,
-      "students": false,
-      "url": "https://trudvsem.ru/vacancy/card/319774600209621/3aa97468-c5ae-11ef-87be-cb26dff57dd7"
-    },
-    {
       "id": "c351cb28-5a7f-11f1-ab98-0542b89dd3fc",
       "city": "Москва",
       "title": "Тоннельный рабочий",
@@ -312,6 +297,21 @@
       "noexp": true,
       "students": true,
       "url": "https://trudvsem.ru/vacancy/card/275d0920-c7fe-11e9-be6f-037acc02728d/c351cb28-5a7f-11f1-ab98-0542b89dd3fc"
+    },
+    {
+      "id": "3aa97468-c5ae-11ef-87be-cb26dff57dd7",
+      "city": "Москва",
+      "title": "Горничная",
+      "emp": "ИП ЗАВЬЯЛОВ Л. Н.",
+      "salary": "40 000 — 45 000 руб./мес.",
+      "loc": "Удаленно",
+      "tags": [],
+      "part": false,
+      "perm": true,
+      "remote": true,
+      "noexp": false,
+      "students": false,
+      "url": "https://trudvsem.ru/vacancy/card/319774600209621/3aa97468-c5ae-11ef-87be-cb26dff57dd7"
     },
     {
       "id": "ac409870-7e85-11f0-bf79-d36f4c8f3065",
@@ -365,23 +365,6 @@
       "url": "https://trudvsem.ru/vacancy/card/1117746085490/7120e788-494c-11f1-b4d8-b7a0ba5a93f0"
     },
     {
-      "id": "12ee9598-1135-11f0-9fc9-e7d0d2cf29b1",
-      "city": "Москва",
-      "title": "Уборщик служебных и производственных помещений",
-      "emp": "ГБОУ ШКОЛА № 625",
-      "salary": "55 000 — 60 000 руб./мес.",
-      "loc": "Удаленно",
-      "tags": [
-        "Студентам"
-      ],
-      "part": false,
-      "perm": true,
-      "remote": true,
-      "noexp": true,
-      "students": true,
-      "url": "https://trudvsem.ru/vacancy/card/1027739050866/12ee9598-1135-11f0-9fc9-e7d0d2cf29b1"
-    },
-    {
       "id": "f2194908-37f3-11f1-893d-d9cbc9403423",
       "city": "Москва",
       "title": "Санитарка / Санитар",
@@ -433,6 +416,23 @@
       "url": "https://trudvsem.ru/vacancy/card/1247700685616/72490810-d1e9-11f1-ac1d-8de43fb03ecd"
     },
     {
+      "id": "12ee9598-1135-11f0-9fc9-e7d0d2cf29b1",
+      "city": "Москва",
+      "title": "Уборщик служебных и производственных помещений",
+      "emp": "ГБОУ ШКОЛА № 625",
+      "salary": "55 000 — 60 000 руб./мес.",
+      "loc": "Удаленно",
+      "tags": [
+        "Студентам"
+      ],
+      "part": false,
+      "perm": true,
+      "remote": true,
+      "noexp": true,
+      "students": true,
+      "url": "https://trudvsem.ru/vacancy/card/1027739050866/12ee9598-1135-11f0-9fc9-e7d0d2cf29b1"
+    },
+    {
       "id": "6e88ca28-f68f-11f0-ba7d-9959eb3311ba",
       "city": "Москва",
       "title": "Уборщик помещений",
@@ -467,23 +467,6 @@
       "url": "https://trudvsem.ru/vacancy/card/1027700404797/cef43375-d6d3-11f1-b61c-efe3615f1d77"
     },
     {
-      "id": "92e72bd8-dfdf-11f0-8267-f1182d825d16",
-      "city": "Москва",
-      "title": "Дворник",
-      "emp": "ГБУ \"ЖИЛИЩНИК РАЙОНА ТРОПАРЕВО-НИКУЛИНО\"",
-      "salary": "40 000 — 75 000 руб./мес.",
-      "loc": "Удаленно",
-      "tags": [
-        "Студентам"
-      ],
-      "part": false,
-      "perm": true,
-      "remote": true,
-      "noexp": true,
-      "students": true,
-      "url": "https://trudvsem.ru/vacancy/card/5137746228087/92e72bd8-dfdf-11f0-8267-f1182d825d16"
-    },
-    {
       "id": "607e06fc-0fd8-11f0-a05c-cb26dff57dd7",
       "city": "Москва",
       "title": "Специалист по профессиональной уборке",
@@ -499,6 +482,23 @@
       "noexp": true,
       "students": true,
       "url": "https://trudvsem.ru/vacancy/card/1057749068002/607e06fc-0fd8-11f0-a05c-cb26dff57dd7"
+    },
+    {
+      "id": "92e72bd8-dfdf-11f0-8267-f1182d825d16",
+      "city": "Москва",
+      "title": "Дворник",
+      "emp": "ГБУ \"ЖИЛИЩНИК РАЙОНА ТРОПАРЕВО-НИКУЛИНО\"",
+      "salary": "40 000 — 75 000 руб./мес.",
+      "loc": "Удаленно",
+      "tags": [
+        "Студентам"
+      ],
+      "part": false,
+      "perm": true,
+      "remote": true,
+      "noexp": true,
+      "students": true,
+      "url": "https://trudvsem.ru/vacancy/card/5137746228087/92e72bd8-dfdf-11f0-8267-f1182d825d16"
     },
     {
       "id": "00581e91-4eb8-11f1-9112-eb3b2f9245e3",
