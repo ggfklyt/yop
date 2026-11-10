@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-09T18:51:38.993Z",
+  "updatedAt": "2026-11-10T02:48:43.428Z",
   "source": "trudvsem.ru",
   "vacancies": [
     {
@@ -1162,23 +1162,6 @@
       "url": "https://trudvsem.ru/vacancy/card/1027810223407/5b12d000-0d8f-11f1-ae78-117abf1c97c6"
     },
     {
-      "id": "95506ab5-8a68-11ec-a92f-57fc951f3846",
-      "city": "Санкт-Петербург",
-      "title": "Системный администратор",
-      "emp": "СПБ ГАУ \"ДИРЕКЦИЯ ПО УПРАВЛЕНИЮ СПОРТИВНЫМИ СООРУЖЕНИЯМИ\"",
-      "salary": "50 000 — 61 200 руб./мес.",
-      "loc": "Удаленно",
-      "tags": [
-        "Студентам"
-      ],
-      "part": false,
-      "perm": true,
-      "remote": true,
-      "noexp": true,
-      "students": true,
-      "url": "https://trudvsem.ru/vacancy/card/5067847533771/95506ab5-8a68-11ec-a92f-57fc951f3846"
-    },
-    {
       "id": "7db5c944-6584-11f1-98c0-a9a9a5f8a21c",
       "city": "Санкт-Петербург",
       "title": "Врач-стоматолог детский",
@@ -1194,6 +1177,23 @@
       "noexp": true,
       "students": true,
       "url": "https://trudvsem.ru/vacancy/card/1027802492343/7db5c944-6584-11f1-98c0-a9a9a5f8a21c"
+    },
+    {
+      "id": "95506ab5-8a68-11ec-a92f-57fc951f3846",
+      "city": "Санкт-Петербург",
+      "title": "Системный администратор",
+      "emp": "СПБ ГАУ \"ДИРЕКЦИЯ ПО УПРАВЛЕНИЮ СПОРТИВНЫМИ СООРУЖЕНИЯМИ\"",
+      "salary": "50 000 — 61 200 руб./мес.",
+      "loc": "Удаленно",
+      "tags": [
+        "Студентам"
+      ],
+      "part": false,
+      "perm": true,
+      "remote": true,
+      "noexp": true,
+      "students": true,
+      "url": "https://trudvsem.ru/vacancy/card/5067847533771/95506ab5-8a68-11ec-a92f-57fc951f3846"
     },
     {
       "id": "99e8e448-c514-11f0-82a6-f10ff9b67cde",
@@ -2106,21 +2106,6 @@
       "url": "https://trudvsem.ru/vacancy/card/1196658076185/b0d7ade0-d4d6-11f0-95a5-b982dbc00f11"
     },
     {
-      "id": "ca8c2f48-d4d6-11f0-b730-d758e7e1c196",
-      "city": "Екатеринбург",
-      "title": "Аналитик-технолог",
-      "emp": "ООО \"СКБ-ОНЛАЙН\"",
-      "salary": "50 000 — 80 000 руб./мес.",
-      "loc": "Свердловская область, г Екатеринбург",
-      "tags": [],
-      "part": false,
-      "perm": true,
-      "remote": false,
-      "noexp": false,
-      "students": false,
-      "url": "https://trudvsem.ru/vacancy/card/1196658076185/ca8c2f48-d4d6-11f0-b730-d758e7e1c196"
-    },
-    {
       "id": "2418f085-e04a-11ee-af44-e7d0d2cf29b1",
       "city": "Екатеринбург",
       "title": "Уборщик служебных помещений",
@@ -2136,6 +2121,21 @@
       "noexp": true,
       "students": true,
       "url": "https://trudvsem.ru/vacancy/card/1026604932860/2418f085-e04a-11ee-af44-e7d0d2cf29b1"
+    },
+    {
+      "id": "ca8c2f48-d4d6-11f0-b730-d758e7e1c196",
+      "city": "Екатеринбург",
+      "title": "Аналитик-технолог",
+      "emp": "ООО \"СКБ-ОНЛАЙН\"",
+      "salary": "50 000 — 80 000 руб./мес.",
+      "loc": "Свердловская область, г Екатеринбург",
+      "tags": [],
+      "part": false,
+      "perm": true,
+      "remote": false,
+      "noexp": false,
+      "students": false,
+      "url": "https://trudvsem.ru/vacancy/card/1196658076185/ca8c2f48-d4d6-11f0-b730-d758e7e1c196"
     },
     {
       "id": "b44d1398-606c-11f0-b4ef-d549be31d974",
@@ -2476,23 +2476,6 @@
       "url": "https://trudvsem.ru/vacancy/card/1027700404797/716b8f45-c7f7-11f1-b822-91847763a561"
     },
     {
-      "id": "4b737818-cebf-11f1-838f-471136ea1552",
-      "city": "Екатеринбург",
-      "title": "Диспетчер",
-      "emp": "ООО \"НПФ \"ХЕЛИКС\"",
-      "salary": "68 900 руб./мес.",
-      "loc": "Свердловская область, г Екатеринбург",
-      "tags": [
-        "Студентам"
-      ],
-      "part": false,
-      "perm": true,
-      "remote": false,
-      "noexp": true,
-      "students": true,
-      "url": "https://trudvsem.ru/vacancy/card/1027801545925/4b737818-cebf-11f1-838f-471136ea1552"
-    },
-    {
       "id": "13176628-4531-11f0-a0cc-cb26dff57dd7",
       "city": "Екатеринбург",
       "title": "Сборщик заказов",
@@ -2508,6 +2491,23 @@
       "noexp": true,
       "students": true,
       "url": "https://trudvsem.ru/vacancy/card/1236600046242/13176628-4531-11f0-a0cc-cb26dff57dd7"
+    },
+    {
+      "id": "4b737818-cebf-11f1-838f-471136ea1552",
+      "city": "Екатеринбург",
+      "title": "Диспетчер",
+      "emp": "ООО \"НПФ \"ХЕЛИКС\"",
+      "salary": "68 900 руб./мес.",
+      "loc": "Свердловская область, г Екатеринбург",
+      "tags": [
+        "Студентам"
+      ],
+      "part": false,
+      "perm": true,
+      "remote": false,
+      "noexp": true,
+      "students": true,
+      "url": "https://trudvsem.ru/vacancy/card/1027801545925/4b737818-cebf-11f1-838f-471136ea1552"
     },
     {
       "id": "21c14268-529e-11f1-afa6-0fa3243f5f0a",
