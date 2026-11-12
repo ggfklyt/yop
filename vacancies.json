@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-11T22:45:10.009Z",
+  "updatedAt": "2026-11-12T07:13:11.951Z",
   "source": "trudvsem.ru",
   "vacancies": [
     {
@@ -69,21 +69,6 @@
       "url": "https://trudvsem.ru/vacancy/card/5147746474134/fa5400f4-c15b-11f1-ae33-c1e0bfede95f"
     },
     {
-      "id": "4d47a1a4-dcfe-11f1-8d7e-0be53938eea7",
-      "city": "Москва",
-      "title": "Координатор полевого персонала (удалённо)",
-      "emp": "ИНДИВИДУАЛЬНЫЙ ПРЕДПРИНИМАТЕЛЬ КОЛЧАНОВ ПАВЕЛ МИХАЙЛОВИЧ",
-      "salary": "40 000 — 50 000 руб./мес.",
-      "loc": "Удаленно",
-      "tags": [],
-      "part": false,
-      "perm": true,
-      "remote": true,
-      "noexp": false,
-      "students": false,
-      "url": "https://trudvsem.ru/vacancy/card/5147746474134/4d47a1a4-dcfe-11f1-8d7e-0be53938eea7"
-    },
-    {
       "id": "b534cb65-dd0f-11f1-8d7e-0be53938eea7",
       "city": "Москва",
       "title": "Корректор удаленно",
@@ -99,6 +84,21 @@
       "noexp": true,
       "students": true,
       "url": "https://trudvsem.ru/vacancy/card/1027700404797/b534cb65-dd0f-11f1-8d7e-0be53938eea7"
+    },
+    {
+      "id": "4d47a1a4-dcfe-11f1-8d7e-0be53938eea7",
+      "city": "Москва",
+      "title": "Координатор полевого персонала (удалённо)",
+      "emp": "ИНДИВИДУАЛЬНЫЙ ПРЕДПРИНИМАТЕЛЬ КОЛЧАНОВ ПАВЕЛ МИХАЙЛОВИЧ",
+      "salary": "40 000 — 50 000 руб./мес.",
+      "loc": "Удаленно",
+      "tags": [],
+      "part": false,
+      "perm": true,
+      "remote": true,
+      "noexp": false,
+      "students": false,
+      "url": "https://trudvsem.ru/vacancy/card/5147746474134/4d47a1a4-dcfe-11f1-8d7e-0be53938eea7"
     },
     {
       "id": "8a0d29c4-aa9a-11f1-a01b-ddd9b695a4be",
