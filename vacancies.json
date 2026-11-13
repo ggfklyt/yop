@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-12T16:51:28.530Z",
+  "updatedAt": "2026-11-13T01:08:37.545Z",
   "source": "trudvsem.ru",
   "vacancies": [
     {
@@ -2083,23 +2083,6 @@
       "url": "https://trudvsem.ru/vacancy/card/1196658076185/b0d7ade0-d4d6-11f0-95a5-b982dbc00f11"
     },
     {
-      "id": "b44d1398-606c-11f0-b4ef-d549be31d974",
-      "city": "Екатеринбург",
-      "title": "Врач-эндоскопист",
-      "emp": "ГБУЗ СО \"ЦГКБ № 1\"",
-      "salary": "80 000 руб./мес.",
-      "loc": "Удаленно",
-      "tags": [
-        "Студентам"
-      ],
-      "part": false,
-      "perm": true,
-      "remote": true,
-      "noexp": true,
-      "students": true,
-      "url": "https://trudvsem.ru/vacancy/card/1026605413878/b44d1398-606c-11f0-b4ef-d549be31d974"
-    },
-    {
       "id": "2418f085-e04a-11ee-af44-e7d0d2cf29b1",
       "city": "Екатеринбург",
       "title": "Уборщик служебных помещений",
@@ -2115,6 +2098,23 @@
       "noexp": true,
       "students": true,
       "url": "https://trudvsem.ru/vacancy/card/1026604932860/2418f085-e04a-11ee-af44-e7d0d2cf29b1"
+    },
+    {
+      "id": "b44d1398-606c-11f0-b4ef-d549be31d974",
+      "city": "Екатеринбург",
+      "title": "Врач-эндоскопист",
+      "emp": "ГБУЗ СО \"ЦГКБ № 1\"",
+      "salary": "80 000 руб./мес.",
+      "loc": "Удаленно",
+      "tags": [
+        "Студентам"
+      ],
+      "part": false,
+      "perm": true,
+      "remote": true,
+      "noexp": true,
+      "students": true,
+      "url": "https://trudvsem.ru/vacancy/card/1026605413878/b44d1398-606c-11f0-b4ef-d549be31d974"
     },
     {
       "id": "30ade688-a84c-11f1-8d85-6f9b8d7d49f7",
