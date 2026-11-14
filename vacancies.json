@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-13T19:42:44.933Z",
+  "updatedAt": "2026-11-14T00:59:15.042Z",
   "source": "trudvsem.ru",
   "vacancies": [
     {
@@ -2266,23 +2266,6 @@
       "url": "https://trudvsem.ru/vacancy/card/1026602341006/d91db1a8-b849-11ef-84f2-1f3aadc834d0"
     },
     {
-      "id": "cadd91c0-57de-11f0-8e74-e7d0d2cf29b1",
-      "city": "Екатеринбург",
-      "title": "врач-стажер",
-      "emp": "ГАУЗ СО \"БСМЭ\"",
-      "salary": "33 000 — 41 000 руб./мес.",
-      "loc": "Свердловская область, г Екатеринбург",
-      "tags": [
-        "Студентам"
-      ],
-      "part": false,
-      "perm": true,
-      "remote": false,
-      "noexp": true,
-      "students": true,
-      "url": "https://trudvsem.ru/vacancy/card/1026602326101/cadd91c0-57de-11f0-8e74-e7d0d2cf29b1"
-    },
-    {
       "id": "78db62b4-ddc7-11f1-afd7-b96603c054a5",
       "city": "Екатеринбург",
       "title": "Курьер",
@@ -3023,6 +3006,23 @@
       "noexp": false,
       "students": false,
       "url": "https://trudvsem.ru/vacancy/card/1186658000484/f3917718-bae1-11f0-9d5a-9d9dadc64e25"
+    },
+    {
+      "id": "18847898-bae4-11f0-9d5a-9d9dadc64e25",
+      "city": "Екатеринбург",
+      "title": "Ведущий СО-консультант",
+      "emp": "ООО \"КИТ.ТК\"",
+      "salary": "35 000 руб./мес.",
+      "loc": "Свердловская область, г Екатеринбург",
+      "tags": [
+        "Студентам"
+      ],
+      "part": false,
+      "perm": true,
+      "remote": false,
+      "noexp": true,
+      "students": true,
+      "url": "https://trudvsem.ru/vacancy/card/1186658000484/18847898-bae4-11f0-9d5a-9d9dadc64e25"
     }
   ]
 }
