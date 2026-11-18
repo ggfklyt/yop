@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-17T23:33:12.224Z",
+  "updatedAt": "2026-11-18T07:30:32.276Z",
   "source": "trudvsem.ru",
   "vacancies": [
     {
@@ -1424,23 +1424,6 @@
       "url": "https://trudvsem.ru/vacancy/card/1097847102561/01a08d90-cd6b-11f1-881f-27b7e0f02bc3"
     },
     {
-      "id": "dbf72328-daf7-11f1-9193-d33a638c5d7c",
-      "city": "Санкт-Петербург",
-      "title": "Уборщик производственных и служебных помещений",
-      "emp": "ФГБОУ ВО СЗГМУ ИМ. И.И. МЕЧНИКОВА МИНЗДРАВА РОССИИ",
-      "salary": "35 000 — 44 000 руб./мес.",
-      "loc": "Удаленно",
-      "tags": [
-        "Студентам"
-      ],
-      "part": false,
-      "perm": true,
-      "remote": true,
-      "noexp": true,
-      "students": true,
-      "url": "https://trudvsem.ru/vacancy/card/1117847434990/dbf72328-daf7-11f1-9193-d33a638c5d7c"
-    },
-    {
       "id": "872217a8-236a-11f1-abba-8590e6dd5069",
       "city": "Санкт-Петербург",
       "title": "Буфетчик",
@@ -1456,6 +1439,23 @@
       "noexp": true,
       "students": true,
       "url": "https://trudvsem.ru/vacancy/card/1024702086420/872217a8-236a-11f1-abba-8590e6dd5069"
+    },
+    {
+      "id": "dbf72328-daf7-11f1-9193-d33a638c5d7c",
+      "city": "Санкт-Петербург",
+      "title": "Уборщик производственных и служебных помещений",
+      "emp": "ФГБОУ ВО СЗГМУ ИМ. И.И. МЕЧНИКОВА МИНЗДРАВА РОССИИ",
+      "salary": "35 000 — 44 000 руб./мес.",
+      "loc": "Удаленно",
+      "tags": [
+        "Студентам"
+      ],
+      "part": false,
+      "perm": true,
+      "remote": true,
+      "noexp": true,
+      "students": true,
+      "url": "https://trudvsem.ru/vacancy/card/1117847434990/dbf72328-daf7-11f1-9193-d33a638c5d7c"
     },
     {
       "id": "fa9722a8-d2ad-11f1-8f68-17f65f11f6fa",
