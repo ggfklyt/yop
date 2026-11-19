@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-19T13:07:09.212Z",
+  "updatedAt": "2026-11-19T23:05:01.099Z",
   "source": "trudvsem.ru",
   "vacancies": [
     {
@@ -84,23 +84,6 @@
       "url": "https://trudvsem.ru/vacancy/card/5147746474134/4d47a1a4-dcfe-11f1-8d7e-0be53938eea7"
     },
     {
-      "id": "b534cb65-dd0f-11f1-8d7e-0be53938eea7",
-      "city": "Москва",
-      "title": "Корректор удаленно",
-      "emp": "Юридическое издательство \"Норма\"",
-      "salary": "16 800 — 25 200 руб./мес.",
-      "loc": "Удаленно",
-      "tags": [
-        "Студентам"
-      ],
-      "part": true,
-      "perm": false,
-      "remote": true,
-      "noexp": true,
-      "students": true,
-      "url": "https://trudvsem.ru/vacancy/card/1027700404797/b534cb65-dd0f-11f1-8d7e-0be53938eea7"
-    },
-    {
       "id": "8a0d29c4-aa9a-11f1-a01b-ddd9b695a4be",
       "city": "Москва",
       "title": "Оператор колл-центра (удаленно)",
@@ -116,6 +99,23 @@
       "noexp": true,
       "students": true,
       "url": "https://trudvsem.ru/vacancy/card/5147746474134/8a0d29c4-aa9a-11f1-a01b-ddd9b695a4be"
+    },
+    {
+      "id": "b534cb65-dd0f-11f1-8d7e-0be53938eea7",
+      "city": "Москва",
+      "title": "Корректор удаленно",
+      "emp": "Юридическое издательство \"Норма\"",
+      "salary": "16 800 — 25 200 руб./мес.",
+      "loc": "Удаленно",
+      "tags": [
+        "Студентам"
+      ],
+      "part": true,
+      "perm": false,
+      "remote": true,
+      "noexp": true,
+      "students": true,
+      "url": "https://trudvsem.ru/vacancy/card/1027700404797/b534cb65-dd0f-11f1-8d7e-0be53938eea7"
     },
     {
       "id": "2b268634-d377-11f1-88ad-c13657589c92",
@@ -1196,23 +1196,6 @@
       "url": "https://trudvsem.ru/vacancy/card/1027802738347/c7833b88-e255-11f1-b117-a7f1a948b52e"
     },
     {
-      "id": "7db5c944-6584-11f1-98c0-a9a9a5f8a21c",
-      "city": "Санкт-Петербург",
-      "title": "Врач-стоматолог детский",
-      "emp": "СПБ ГБУЗ \"ДЕТСКАЯ СТОМАТОЛОГИЧЕСКАЯ ПОЛИКЛИНИКА № 3\"",
-      "salary": "120 000 — 200 000 руб./мес.",
-      "loc": "Удаленно",
-      "tags": [
-        "Студентам"
-      ],
-      "part": true,
-      "perm": false,
-      "remote": true,
-      "noexp": true,
-      "students": true,
-      "url": "https://trudvsem.ru/vacancy/card/1027802492343/7db5c944-6584-11f1-98c0-a9a9a5f8a21c"
-    },
-    {
       "id": "95506ab5-8a68-11ec-a92f-57fc951f3846",
       "city": "Санкт-Петербург",
       "title": "Системный администратор",
@@ -1228,6 +1211,23 @@
       "noexp": true,
       "students": true,
       "url": "https://trudvsem.ru/vacancy/card/5067847533771/95506ab5-8a68-11ec-a92f-57fc951f3846"
+    },
+    {
+      "id": "7db5c944-6584-11f1-98c0-a9a9a5f8a21c",
+      "city": "Санкт-Петербург",
+      "title": "Врач-стоматолог детский",
+      "emp": "СПБ ГБУЗ \"ДЕТСКАЯ СТОМАТОЛОГИЧЕСКАЯ ПОЛИКЛИНИКА № 3\"",
+      "salary": "120 000 — 200 000 руб./мес.",
+      "loc": "Удаленно",
+      "tags": [
+        "Студентам"
+      ],
+      "part": true,
+      "perm": false,
+      "remote": true,
+      "noexp": true,
+      "students": true,
+      "url": "https://trudvsem.ru/vacancy/card/1027802492343/7db5c944-6584-11f1-98c0-a9a9a5f8a21c"
     },
     {
       "id": "70ce704e-ddc1-11f1-87a4-09d0e8c84613",
@@ -1311,21 +1311,6 @@
       "url": "https://trudvsem.ru/vacancy/card/1027802502221/c7d2facd-b295-11f1-98bc-350b59df29cf"
     },
     {
-      "id": "5fd55220-ddb9-11f1-8848-6f99e28577a1",
-      "city": "Санкт-Петербург",
-      "title": "Врач-хирург",
-      "emp": "ООО \"КЛИНИКА\"",
-      "salary": "35 000 — 200 000 руб./мес.",
-      "loc": "Удаленно",
-      "tags": [],
-      "part": true,
-      "perm": false,
-      "remote": true,
-      "noexp": false,
-      "students": false,
-      "url": "https://trudvsem.ru/vacancy/card/1197847255473/5fd55220-ddb9-11f1-8848-6f99e28577a1"
-    },
-    {
       "id": "18d75978-7c45-11f1-bfbc-a1d6d860641d",
       "city": "Санкт-Петербург",
       "title": "Специалист технической поддержки",
@@ -1343,21 +1328,19 @@
       "url": "https://trudvsem.ru/vacancy/card/1027700251314/18d75978-7c45-11f1-bfbc-a1d6d860641d"
     },
     {
-      "id": "f95cd5cc-b902-11f1-8936-155fc3dbaa44",
+      "id": "5fd55220-ddb9-11f1-8848-6f99e28577a1",
       "city": "Санкт-Петербург",
-      "title": "Специалист группы развития холодных продаж",
-      "emp": "ООО \"ДОКСИНБОКС\"",
-      "salary": "50 000 — 70 000 руб./мес.",
+      "title": "Врач-хирург",
+      "emp": "ООО \"КЛИНИКА\"",
+      "salary": "35 000 — 200 000 руб./мес.",
       "loc": "Удаленно",
-      "tags": [
-        "Студентам"
-      ],
-      "part": false,
-      "perm": true,
+      "tags": [],
+      "part": true,
+      "perm": false,
       "remote": true,
-      "noexp": true,
-      "students": true,
-      "url": "https://trudvsem.ru/vacancy/card/1147847551280/f95cd5cc-b902-11f1-8936-155fc3dbaa44"
+      "noexp": false,
+      "students": false,
+      "url": "https://trudvsem.ru/vacancy/card/1197847255473/5fd55220-ddb9-11f1-8848-6f99e28577a1"
     },
     {
       "id": "5bb32540-ddf1-11f1-a271-ffc5b28fa7b0",
@@ -1373,6 +1356,23 @@
       "noexp": false,
       "students": false,
       "url": "https://trudvsem.ru/vacancy/card/5147746474134/5bb32540-ddf1-11f1-a271-ffc5b28fa7b0"
+    },
+    {
+      "id": "f95cd5cc-b902-11f1-8936-155fc3dbaa44",
+      "city": "Санкт-Петербург",
+      "title": "Специалист группы развития холодных продаж",
+      "emp": "ООО \"ДОКСИНБОКС\"",
+      "salary": "50 000 — 70 000 руб./мес.",
+      "loc": "Удаленно",
+      "tags": [
+        "Студентам"
+      ],
+      "part": false,
+      "perm": true,
+      "remote": true,
+      "noexp": true,
+      "students": true,
+      "url": "https://trudvsem.ru/vacancy/card/1147847551280/f95cd5cc-b902-11f1-8936-155fc3dbaa44"
     },
     {
       "id": "757b96f8-df10-11f0-8267-f1182d825d16",
@@ -1426,23 +1426,6 @@
       "url": "https://trudvsem.ru/vacancy/card/1097847102561/01a08d90-cd6b-11f1-881f-27b7e0f02bc3"
     },
     {
-      "id": "dbf72328-daf7-11f1-9193-d33a638c5d7c",
-      "city": "Санкт-Петербург",
-      "title": "Уборщик производственных и служебных помещений",
-      "emp": "ФГБОУ ВО СЗГМУ ИМ. И.И. МЕЧНИКОВА МИНЗДРАВА РОССИИ",
-      "salary": "35 000 — 44 000 руб./мес.",
-      "loc": "Удаленно",
-      "tags": [
-        "Студентам"
-      ],
-      "part": false,
-      "perm": true,
-      "remote": true,
-      "noexp": true,
-      "students": true,
-      "url": "https://trudvsem.ru/vacancy/card/1117847434990/dbf72328-daf7-11f1-9193-d33a638c5d7c"
-    },
-    {
       "id": "872217a8-236a-11f1-abba-8590e6dd5069",
       "city": "Санкт-Петербург",
       "title": "Буфетчик",
@@ -1458,6 +1441,23 @@
       "noexp": true,
       "students": true,
       "url": "https://trudvsem.ru/vacancy/card/1024702086420/872217a8-236a-11f1-abba-8590e6dd5069"
+    },
+    {
+      "id": "dbf72328-daf7-11f1-9193-d33a638c5d7c",
+      "city": "Санкт-Петербург",
+      "title": "Уборщик производственных и служебных помещений",
+      "emp": "ФГБОУ ВО СЗГМУ ИМ. И.И. МЕЧНИКОВА МИНЗДРАВА РОССИИ",
+      "salary": "35 000 — 44 000 руб./мес.",
+      "loc": "Удаленно",
+      "tags": [
+        "Студентам"
+      ],
+      "part": false,
+      "perm": true,
+      "remote": true,
+      "noexp": true,
+      "students": true,
+      "url": "https://trudvsem.ru/vacancy/card/1117847434990/dbf72328-daf7-11f1-9193-d33a638c5d7c"
     },
     {
       "id": "fa9722a8-d2ad-11f1-8f68-17f65f11f6fa",
