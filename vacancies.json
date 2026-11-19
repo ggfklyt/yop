@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-18T17:20:02.294Z",
+  "updatedAt": "2026-11-19T01:58:03.048Z",
   "source": "trudvsem.ru",
   "vacancies": [
     {
@@ -2874,6 +2874,21 @@
       "url": "https://trudvsem.ru/vacancy/card/1096659005200/febcfa95-2b71-11ed-85de-35178352af9b"
     },
     {
+      "id": "c00f5990-c079-11ec-917a-813aa7e4e138",
+      "city": "Екатеринбург",
+      "title": "Оператор склада",
+      "emp": "ООО \"ЭЙ БИ ЛОДЖИСТИК\"",
+      "salary": "60 000 — 63 000 руб./мес.",
+      "loc": "Свердловская область, г Екатеринбург",
+      "tags": [],
+      "part": true,
+      "perm": false,
+      "remote": false,
+      "noexp": false,
+      "students": false,
+      "url": "https://trudvsem.ru/vacancy/card/1096673001193/c00f5990-c079-11ec-917a-813aa7e4e138"
+    },
+    {
       "id": "3256f1eb-7523-11f1-ba13-0df010550bdb",
       "city": "Екатеринбург",
       "title": "Консультант",
@@ -3004,23 +3019,6 @@
       "noexp": true,
       "students": true,
       "url": "https://trudvsem.ru/vacancy/card/315715400020031/86faeb00-b0e0-11f1-987b-b1d3bf2d14ab"
-    },
-    {
-      "id": "681b2557-89ff-11ef-9dcd-d549be31d974",
-      "city": "Екатеринбург",
-      "title": "Кассир-консультант",
-      "emp": "ООО \"ЛЕ МОНЛИД\"",
-      "salary": "54 090 — 71 500 руб./мес.",
-      "loc": "Свердловская область, г Екатеринбург",
-      "tags": [
-        "Студентам"
-      ],
-      "part": false,
-      "perm": true,
-      "remote": false,
-      "noexp": true,
-      "students": true,
-      "url": "https://trudvsem.ru/vacancy/card/061c2750-83f4-11ec-a69c-4febb26dc4ec/681b2557-89ff-11ef-9dcd-d549be31d974"
     }
   ]
 }
