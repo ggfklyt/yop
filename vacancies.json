@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-20T17:01:17.598Z",
+  "updatedAt": "2026-11-21T01:35:15.938Z",
   "source": "trudvsem.ru",
   "vacancies": [
     {
@@ -101,23 +101,6 @@
       "url": "https://trudvsem.ru/vacancy/card/5147746474134/8a0d29c4-aa9a-11f1-a01b-ddd9b695a4be"
     },
     {
-      "id": "b534cb65-dd0f-11f1-8d7e-0be53938eea7",
-      "city": "Москва",
-      "title": "Корректор удаленно",
-      "emp": "Юридическое издательство \"Норма\"",
-      "salary": "16 800 — 25 200 руб./мес.",
-      "loc": "Удаленно",
-      "tags": [
-        "Студентам"
-      ],
-      "part": true,
-      "perm": false,
-      "remote": true,
-      "noexp": true,
-      "students": true,
-      "url": "https://trudvsem.ru/vacancy/card/1027700404797/b534cb65-dd0f-11f1-8d7e-0be53938eea7"
-    },
-    {
       "id": "2b268634-d377-11f1-88ad-c13657589c92",
       "city": "Москва",
       "title": "Помощник HR - менеджера удаленно",
@@ -133,6 +116,23 @@
       "noexp": true,
       "students": true,
       "url": "https://trudvsem.ru/vacancy/card/5147746474134/2b268634-d377-11f1-88ad-c13657589c92"
+    },
+    {
+      "id": "b534cb65-dd0f-11f1-8d7e-0be53938eea7",
+      "city": "Москва",
+      "title": "Корректор удаленно",
+      "emp": "Юридическое издательство \"Норма\"",
+      "salary": "16 800 — 25 200 руб./мес.",
+      "loc": "Удаленно",
+      "tags": [
+        "Студентам"
+      ],
+      "part": true,
+      "perm": false,
+      "remote": true,
+      "noexp": true,
+      "students": true,
+      "url": "https://trudvsem.ru/vacancy/card/1027700404797/b534cb65-dd0f-11f1-8d7e-0be53938eea7"
     },
     {
       "id": "2cb0fb64-e19c-11f1-afb6-6954ca94e1e7",
