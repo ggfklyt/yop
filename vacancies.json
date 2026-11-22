@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-21T21:43:24.207Z",
+  "updatedAt": "2026-11-22T06:49:08.015Z",
   "source": "trudvsem.ru",
   "vacancies": [
     {
@@ -2861,23 +2861,6 @@
       "url": "https://trudvsem.ru/vacancy/card/1027700404797/e733fcb4-729a-11f1-aba8-518cfe0734c1"
     },
     {
-      "id": "678ca5e4-7545-11f1-8339-b9f89d94176d",
-      "city": "Екатеринбург",
-      "title": "Продавец-кассир",
-      "emp": "Пятёрочка",
-      "salary": "50 200 — 67 800 руб./мес.",
-      "loc": "Свердловская область, г Екатеринбург",
-      "tags": [
-        "Студентам"
-      ],
-      "part": true,
-      "perm": false,
-      "remote": false,
-      "noexp": true,
-      "students": true,
-      "url": "https://trudvsem.ru/vacancy/card/1027700404797/678ca5e4-7545-11f1-8339-b9f89d94176d"
-    },
-    {
       "id": "77e35cd4-572d-11f1-92ac-017e92d43e57",
       "city": "Екатеринбург",
       "title": "Продавец-кассир",
@@ -2893,6 +2876,23 @@
       "noexp": true,
       "students": true,
       "url": "https://trudvsem.ru/vacancy/card/1027700404797/77e35cd4-572d-11f1-92ac-017e92d43e57"
+    },
+    {
+      "id": "678ca5e4-7545-11f1-8339-b9f89d94176d",
+      "city": "Екатеринбург",
+      "title": "Продавец-кассир",
+      "emp": "Пятёрочка",
+      "salary": "50 200 — 67 800 руб./мес.",
+      "loc": "Свердловская область, г Екатеринбург",
+      "tags": [
+        "Студентам"
+      ],
+      "part": true,
+      "perm": false,
+      "remote": false,
+      "noexp": true,
+      "students": true,
+      "url": "https://trudvsem.ru/vacancy/card/1027700404797/678ca5e4-7545-11f1-8339-b9f89d94176d"
     },
     {
       "id": "90bbc604-5d83-11f1-8845-9db79e7c4f39",
