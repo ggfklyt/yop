@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-24T19:34:19.455Z",
+  "updatedAt": "2026-11-25T03:36:39.143Z",
   "source": "trudvsem.ru",
   "vacancies": [
     {
@@ -320,23 +320,6 @@
       "url": "https://trudvsem.ru/vacancy/card/1096315000396/832088d8-081c-11f1-93cf-9fd44cff2ded"
     },
     {
-      "id": "4fa210ab-dea4-11f1-8798-75bc1c1c1094",
-      "city": "Москва",
-      "title": "Штукатур",
-      "emp": "ООО \"АЛИ СТРОЙ\"",
-      "salary": "40 000 — 50 000 руб./мес.",
-      "loc": "Удаленно",
-      "tags": [
-        "Студентам"
-      ],
-      "part": false,
-      "perm": true,
-      "remote": true,
-      "noexp": true,
-      "students": true,
-      "url": "https://trudvsem.ru/vacancy/card/1237700935405/4fa210ab-dea4-11f1-8798-75bc1c1c1094"
-    },
-    {
       "id": "b7cc62d5-df57-11f1-afd7-b96603c054a5",
       "city": "Москва",
       "title": "Техник по обслуживанию систем видеонаблюдения / Инженер слаботочных систем / Сервисный инженер",
@@ -354,11 +337,11 @@
       "url": "https://trudvsem.ru/vacancy/card/1027700404797/b7cc62d5-df57-11f1-afd7-b96603c054a5"
     },
     {
-      "id": "c351cb28-5a7f-11f1-ab98-0542b89dd3fc",
+      "id": "4fa210ab-dea4-11f1-8798-75bc1c1c1094",
       "city": "Москва",
-      "title": "Тоннельный рабочий",
-      "emp": "ГУП \"МОСКОВСКИЙ МЕТРОПОЛИТЕН\"",
-      "salary": "78 000 руб./мес.",
+      "title": "Штукатур",
+      "emp": "ООО \"АЛИ СТРОЙ\"",
+      "salary": "40 000 — 50 000 руб./мес.",
       "loc": "Удаленно",
       "tags": [
         "Студентам"
@@ -368,7 +351,7 @@
       "remote": true,
       "noexp": true,
       "students": true,
-      "url": "https://trudvsem.ru/vacancy/card/275d0920-c7fe-11e9-be6f-037acc02728d/c351cb28-5a7f-11f1-ab98-0542b89dd3fc"
+      "url": "https://trudvsem.ru/vacancy/card/1237700935405/4fa210ab-dea4-11f1-8798-75bc1c1c1094"
     },
     {
       "id": "3aa97468-c5ae-11ef-87be-cb26dff57dd7",
@@ -384,6 +367,23 @@
       "noexp": false,
       "students": false,
       "url": "https://trudvsem.ru/vacancy/card/319774600209621/3aa97468-c5ae-11ef-87be-cb26dff57dd7"
+    },
+    {
+      "id": "c351cb28-5a7f-11f1-ab98-0542b89dd3fc",
+      "city": "Москва",
+      "title": "Тоннельный рабочий",
+      "emp": "ГУП \"МОСКОВСКИЙ МЕТРОПОЛИТЕН\"",
+      "salary": "78 000 руб./мес.",
+      "loc": "Удаленно",
+      "tags": [
+        "Студентам"
+      ],
+      "part": false,
+      "perm": true,
+      "remote": true,
+      "noexp": true,
+      "students": true,
+      "url": "https://trudvsem.ru/vacancy/card/275d0920-c7fe-11e9-be6f-037acc02728d/c351cb28-5a7f-11f1-ab98-0542b89dd3fc"
     },
     {
       "id": "ac7b4920-e347-11f1-b150-7b28fac7d11f",
@@ -467,6 +467,23 @@
       "url": "https://trudvsem.ru/vacancy/card/1117746085490/7120e788-494c-11f1-b4d8-b7a0ba5a93f0"
     },
     {
+      "id": "12ee9598-1135-11f0-9fc9-e7d0d2cf29b1",
+      "city": "Москва",
+      "title": "Уборщик служебных и производственных помещений",
+      "emp": "ГБОУ ШКОЛА № 625",
+      "salary": "55 000 — 60 000 руб./мес.",
+      "loc": "Удаленно",
+      "tags": [
+        "Студентам"
+      ],
+      "part": false,
+      "perm": true,
+      "remote": true,
+      "noexp": true,
+      "students": true,
+      "url": "https://trudvsem.ru/vacancy/card/1027739050866/12ee9598-1135-11f0-9fc9-e7d0d2cf29b1"
+    },
+    {
       "id": "f2194908-37f3-11f1-893d-d9cbc9403423",
       "city": "Москва",
       "title": "Санитарка / Санитар",
@@ -482,23 +499,6 @@
       "noexp": true,
       "students": true,
       "url": "https://trudvsem.ru/vacancy/card/1117746085490/f2194908-37f3-11f1-893d-d9cbc9403423"
-    },
-    {
-      "id": "854dc3c0-d1e8-11f1-b080-61572249df07",
-      "city": "Москва",
-      "title": "Дворник",
-      "emp": "ГБУ \"ЖИЛИЩНИК РАЙОНА ТРОИЦК\"",
-      "salary": "80 000 — 90 000 руб./мес.",
-      "loc": "Удаленно",
-      "tags": [
-        "Студентам"
-      ],
-      "part": false,
-      "perm": true,
-      "remote": true,
-      "noexp": true,
-      "students": true,
-      "url": "https://trudvsem.ru/vacancy/card/1247700685616/854dc3c0-d1e8-11f1-b080-61572249df07"
     },
     {
       "id": "adb05095-2111-11f1-8447-cdfc0f76d495",
